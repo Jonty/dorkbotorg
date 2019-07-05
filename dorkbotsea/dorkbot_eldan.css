@@ -1,0 +1,169 @@
+body 
+{ 
+	margin: 0px; 
+	padding: 0;
+	border: 0;
+	background-color:#F4F4F2; 
+	text-align: center;
+	font-size:100.1%;
+	color: black;
+	SCROLLBAR-FACE-COLOR: #000000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFAFA;
+	SCROLLBAR-SHADOW-COLOR: #D3D3D3;
+	SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-ARROW-COLOR:  #000000;
+	SCROLLBAR-TRACK-COLOR: #FFFFFF;
+	SCROLLBAR-DARKSHADOW-COLOR: #F5F5F5;
+/* \*/
+  height:100%;
+/* Last height declaration hidden from Mac IE 5.x; hack borrowed from ClevaTreva - http://www.positioniseverything.net/articles/pie-maker/pagemaker_2_9_home.html */
+} 
+
+p
+{ 
+	font-family: verdana, arial, sans-serif; 
+	font-size:11px; 
+	color:#000000; 
+	line-height:18px; 
+} 
+
+li
+{
+	font-family: verdana, arial, sans-serif; 
+	font-size:11px; 
+	color:#000000; 
+	clear: left;
+}
+
+p.links 
+{ 
+	font-family: verdana, arial, sans-serif; font-size:11px; 
+	color:#4169E1; 
+	line-height:18px; 
+} 
+
+A 
+{ 
+	color: #236BA7; 
+	text-decoration: none; 
+} 
+
+A:link 
+{ 
+	color: #236BA7; 
+	text-decoration: none; 
+} 
+
+A:visited 
+{ 
+	color: #236BA7; 
+	text-decoration: none; 
+} 
+
+A:active 
+{ 
+	color: #236BA7; 
+} 
+
+A:hover 
+{ 
+	color: #A2B9CC; 
+	text-decoration: underline;
+} 
+
+td.body 
+{ 
+	padding: 20px;
+} 
+
+
+.list { font-family: verdana, arial, sans-serif; font-size: 11px; color: #000000; line-height:18px; } 
+.italic { font-family: verdana, arial, sans-serif; font-size: 12px; color: #000000; line-height:18px; } 
+
+h1 
+{ 
+	font-family: verdana, arial, sans-serif; 
+	font-size: 18px; 
+	color: #000000; 
+	line-height:24px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin-bottom: 0;
+	clear: both;
+} 
+
+h2
+{
+	font-family: verdana, arial, sans-serif; 
+	font-size: 11px; 
+	color: #000000; 
+	line-height: 10px; 
+	font-weight: bold;
+	margin-bottom: 0;
+	margin-top: 18px;	
+	padding-bottom: 0;
+	clear: both;
+}
+
+p.preamble:
+{
+	margin-top: 0;
+	padding-top: 0;
+}
+
+div.main_container
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	text-align: left; 
+	position: relative;
+	width: 658px;
+	border: 1px solid #3C5555;
+	background-color: white;
+	padding: 10px;
+}
+
+.section
+{
+	width: 100%;
+	border: 0;
+	text-align: left;
+}
+
+img.left
+{
+	margin-right: 1em;
+	margin-bottom: 1ex;
+	margin-top: 0.5ex;
+	border: 1px solid black;
+	float: left;
+	clear: none;
+}
+
+img.right
+{
+	margin-left: 1.5em;
+	margin-bottom: 1ex;
+	margin-top: 0.5ex;
+	border: 1px solid black;
+	float: right;
+	clear: none;
+}
+
+img.center
+{
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	margin-bottom: 1ex;
+	margin-top: 0.5ex;
+	border: 1px solid black;
+	clear: all;
+}
+
+q
+{
+	font-style: italic;
+}

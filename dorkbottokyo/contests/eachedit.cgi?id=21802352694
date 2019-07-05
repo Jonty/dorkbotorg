@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="style.css" type="text/css">
+<title>ドークボット東京 頂上決戦 - ザ・コンテスツ</title>
+<style type="text/css">
+input,textarea,td {
+	font-size:25px;
+}
+</style>
+</head>
+<body>
+
+<form action="eachedit.cgi" method="POST">
+登録したときのメールアドレスを入力してください。<br>
+<input type="text" name="pass" size="30"><input type="submit" value=" 続行 "><br>
+<input type="hidden" name="id" value="21802352694"></form>
+</body></html>
+

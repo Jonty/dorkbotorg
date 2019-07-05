@@ -1,0 +1,131 @@
+<data 
+    wiki-url="http://simile.mit.edu/shelf/"
+    wiki-section="Simile JFK Timeline"
+    >
+
+
+    <event start="Mon Feb 01 2010 17:00:00 GMT+0100" end="Sat Feb 06 2010 23:59:00 GMT+0100" isDuration="true" title="BOBBLESPACE">
+        Spatial installation by Stefan Baumgaertner &gt;&gt;&gt;&gt;&gt;
+The artist alters the c-base mainhall into a "vintage 3d wireframe" environment by ultraviolet illumination. Some say BOBBLESPACE was an experimental testrun in the framework of the mysterious c-base reconstruction project to identify the artefact's true geometry.
+ &gt; http://www.bobblespace.de 
+    </event>
+	
+	<event start="Mon Feb 01 2010 17:00:00 GMT+0100" end="Sat Feb 06 2010 23:59:00 GMT+0100" isDuration="true" title="C-BASE 3D-PRINTER-DEMO">
+        c-lab team &gt;&gt;&gt;&gt;&gt; Spatial installation &amp; experimental testrun
+    </event>
+	
+	<event start="Mon Feb 01 2010 17:00:00 GMT+0100" end="Sat Feb 06 2010 23:59:00 GMT+0100" isDuration="true" title="C-BASE MULTI-TOUCH CONSOLE">
+        Spatial installation &amp; live demonstrations
+    </event>
+	
+    <event start="Mon Feb 01 2010 20:00:00 GMT+0100" end="Mon Feb 01 2010 23:59:00 GMT+0100" isDuration="true" title="DORKBOT.BLN">
+		
+        Doing Strange Things With Electricity &gt;&gt;&gt;&gt;&gt;
+		TALKAOKE (The People Speak, London); C-BASE 3D-PRINTER (c-lab team); SCREAM_PONG (libavg-Team);C-ROVE (Insp. Benone &amp; Mars, c-base Open Moon Project); OpenDorks &gt;&gt;&gt;&gt;&gt;
+Hosted by Yan "t." Minagawa &gt;&gt;&gt;&gt;&gt; Access fee: EUR 5,00 (access free with CTM.10/transmediale.10 festival ticket)
+        </event>
+		
+	<event start="Mon Feb 01 2010 20:30:00 GMT+0100"
+        title="TALKAOKE">
+        The People Speak, London &gt;&gt;&gt;&gt;&gt; &gt; http://theps.net;
+        </event>
+		
+	<event start="Mon Feb 01 2010 21:00:00 GMT+0100"
+        title="C-BASE 3D-PRINTER">
+        c-lab team &gt;&gt;&gt;&gt;&gt; RepMan setup, installation &amp; first testrun experiences;
+        </event>
+		
+	<event start="Mon Feb 01 2010 21:30:00 GMT+0100"
+        title="SCREAM_PONG">
+         libavg-Team &gt;&gt;&gt;&gt;&gt; &gt; http://www.libavg.de 
+        </event>
+		
+	<event start="Mon Feb 01 2010 22:00:00 GMT+0100"
+        title="C-ROVE">
+        Insp. Benone &amp; Mars, c-base Open Moon Project &gt;&gt;&gt;&gt;&gt;Moon Rover design &amp; development &gt; http://www.openmoon.info/
+        </event>
+		
+	<event start="Mon Feb 01 2010 22:30:00 GMT+0100"
+        title="OpenDork">
+        5 minutes lightning talks 
+        </event>
+		
+	<event start="Tue Feb 02 2010 20:00:00 GMT+0100" end="Tue Feb 02 2010 23:59:00 GMT+0100" isDuration="true" title="COSMIC OPEN STAGE">
+        PHUTURITY NOW! Special &gt;&gt;&gt;&gt;&gt; 
+		Electronica, Krautrock, Synthesizer Jam Sessions - The weekly c-base jam session featuring PlayLive - an Ableton multi-touch user interface by hi-pi.de
+ &gt; http://www.openstage-berlin.de
+        </event>
+		
+		<event start="Tue Feb 02 2010 20:30:00 GMT+0100"
+        title="Ableton multi-touch">
+        Marco Kuhn &gt;&gt;&gt;&gt;&gt; Presenting the Ableton user interface &gt; http://hi-pi.de
+        </event>
+				
+		<event start="Tue Feb 02 2010 22:00:00 GMT+0100"
+        title="OpenStage">
+        Jam session 
+        </event>
+		
+		<event start="Wed Feb 03 2010 19:00:00 GMT+0100" end="Wed Feb 03 2010 23:59:00 GMT+0100" isDuration="true" title="WAVELOETEN SPECIAL">
+        Special get-together of the Berlin Freifunk community at transmediale.10 &gt; http://berlin.freifunk.net
+        </event>
+		
+		<event start="Wed Feb 03 2010 20:00:00 GMT+0100"
+        title="Future of WIFI in metropolises">
+		Freifunk Talk (in German) &gt;&gt;&gt;&gt;&gt;
+Future of WIFI in metropolises and the Status in Berlin 
+        </event>
+		
+		<event start="Wed Feb 03 2010 21:30:00 GMT+0100"
+        title="Smartphones vs. Cyborgs">
+		Talkshow (in German) &gt;&gt;&gt;&gt;&gt;
+		Yan t. Minagawa &amp; Stephan Karpischek - The Future of mobile personal assistants
+        </event>
+		
+		<event start="Thu Feb 04 2010 20:00:00 GMT+0100" end="Thu Feb 04 2010 23:59:00 GMT+0100" isDuration="true" title="PHUTURAMA-LOUNGE">
+        Side-event of PHUTURAMA - Symposium on Speculative, Fictious and Futuristic Design at the transmediale.10 Salon. &gt; http://www.phuturama.de
+        </event>
+		
+		<event start="Thu Feb 04 2010 20:30:00 GMT+0100"
+        title="c-base Open Moon">
+		c-base Open Moon Project presentation &gt; http://www.openmoon.info
+        </event>
+
+		<event start="Fri Feb 05 2010 20:00:00 GMT+0100" end="Sat Feb 06 2010 05:00:00 GMT+0100" isDuration="true" title="PHUTURITY NOW! MIX-UP">
+        Access fee: EUR 5,00 (access free with CTM.10/transmediale.10 festival ticket)
+        </event>
+		
+		<event start="Fri Feb 05 2010 20:01:00 GMT+0100"
+        title="Video Community Lounge">
+		You Tube Visuals
+        </event>
+		
+		<event start="Fri Feb 05 2010 20:02:00 GMT+0100"
+        title="PLOTTERBAR">
+		2D &amp; 3D-PLOTTERBAR (RepMan) 
+        </event>
+		
+		<event start="Fri Feb 05 2010 21:00:00 GMT+0100"
+        title="Rubber Hair">
+		Live &gt; http://www.myspace.com/rubberhair
+        </event>
+
+		<event start="Fri Feb 05 2010 23:00:00 GMT+0100"
+        title="classless Kulla &amp; istari Lasterfahrer">
+		Sozialistischer Plattenbau Live &gt; http://www.classless.org/musik 
+        </event>
+		
+		<event start="Sat Feb 06 2010 20:00:00 GMT+0100" end="Sun Feb 07 2010 03:00:00 GMT+0100" isDuration="true" title="PHUTURITY NOW! Shut-down">
+         Party
+        </event>
+		
+		<event start="Sat Feb 06 2010 17:00:00 GMT+0100"
+        title="BOBBLESPACE Finissage">
+		Last day of the BOBBLESPACE Installation 
+        </event>
+		
+		<event start="Sat Feb 06 2010 20:00:00 GMT+0100"
+        title="Tron 2.0">
+		Network game
+        </event>
+</data>

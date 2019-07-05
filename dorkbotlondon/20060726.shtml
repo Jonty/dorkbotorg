@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>dorkbotlondon</title>
+  </head>
+
+  <style type="text/css">
+    body { 
+      font-family: verdana, helvetica, arial;
+      background: #fff;
+    }
+    h1 {
+      border-top: 1px solid #000;
+    }
+    h1 em {
+      letter-spacing: 2px;
+      font-size: 10px;
+    }
+    h2 {
+      border-top: 1px dashed #888;
+      font-size: 14px;
+    }
+    h3 {
+      font-size: 13px;
+    }
+    dt {
+      font-weight: bold;
+    }
+  </style>
+  <body>
+      <h1>dorkbotlondon<br />
+        <em>people doing strange things with electricity</em>
+      </h1>
+      <dl>
+      <dt>dorkbot #</dt><dd>dorkbotlondon 40</dd>
+      <dt>time/date</dt><dd>7pm Wednesday 26th July 2006</dd>
+      <dt>location</dt><dd>state51, 8-10 Rhoda Street, E2 7EF (directions below)</dd>
+      <dt>featuring the fragrant and marvellous...</dt>
+	<ul>
+          <li><a href="http://www.lektrolab.com/">Lektrolab</a> (Emma Davidson + Paul B. Davis) re-enact the narcissus myth and the art of networking</li>
+          <li><a href="http://www.timblackwell.com/">Tim Blackwell</a> - weaves and swarms</li>
+          <li><a href="http://zwizwa.goto10.org/">Tom Schouten</a> - PURRR -- an interactive forth for microcontrollers</li>
+          <li>Ian Sharp - <a href="http://www.lushprojects.com/hhack/index.html">Hat hack</a></li>
+          <li>plus more...</li> 
+	</ul>
+      </dl>
+ 
+</p>
+
+<h2>more info</h2>
+see the <a href="./">main dorkbotlondon page</a>
+  </body>
+</html>
+

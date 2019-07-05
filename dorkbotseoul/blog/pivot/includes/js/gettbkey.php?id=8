@@ -1,0 +1,12 @@
+
+var tbkey='baf0e0acd4a88c19ab2d0fc15f605629';
+
+function showTBURL(element_id)  {
+        var element = document.getElementById(element_id);
+        element.innerHTML = 'http://dorkbot.org/dorkbotseoul/blog/pivot/tb.php?tb_id=8&amp;key=' + tbkey;
+}
+
+function showTBURLgen(element_id, tburl_gen)  {
+	var element = document.getElementById(element_id);
+	element.innerHTML = tburl_gen;
+}

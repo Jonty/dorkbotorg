@@ -1,0 +1,131 @@
+/*
+Theme Name: Textback
+Theme URI: http://http://www.amypink.com
+Description: The official AMY & PINK Theme.
+Version: 1.0
+Author: Marcel Winatschek
+Author URI: http://www.amypink.com/
+
+See style-core.css for additional styles.
+See style-ie.css for ie-specific fixes.
+*/
+
+body {margin: 0; padding: 0; background: #fff; text-align: center; font: 12px 'Lucida Grande','Arial', sans-serif;}
+table, td {font: 10px 'Lucida Grande','Arial', sans-serif; color: #000;}
+
+/*-smilies without a border-*/
+body img.wp-smiley {
+	border:none;
+}
+
+/* image caption classes */
+
+.captionleft { float: left; margin: 0 1.5em 1em 0; padding: 0.5em; text-align: left; }
+.captionright { float: right; margin: 0 0 1em 1.5em; padding: 0.5em; text-align: left; }
+.captionfull { margin: 0 0 1em 0; padding: 0; text-align: left; }
+.captionleft img, .captionright img, .captionfull img { margin: 0; display: block; }
+.captionleft p, .captionright p, .captionfull p { background: #eee; margin: 0; line-height: 1.6em; padding: 0.5em; border-bottom: 1px solid #ccc; border-top: 1px solid #ccc; font-size: 0.9em; color: #555; }
+
+
+
+.snazzy {
+
+text-align:left;
+overflow:auto;
+}
+/*border:2px ridge;
+background-color:#F5F5F1;	
+;*/
+
+.snazzy a, .snazzy a:hover {
+text-decoration:none;
+}
+
+.sz_cont {
+width:100px;
+display:block;
+overflow:hidden;
+margin:0px 0px 10px;
+}
+
+.sz_page {
+background-color: #ffffef;
+}
+
+.sz_img {
+height:110px;
+}
+
+.snazzy img {
+margin:0;
+padding:0;
+}
+
+.sz_year {
+font-size:22px;
+color:#444;
+font-family:georgia, verdana;
+font-style:italic;
+}
+
+
+.sz_date_yr {
+height:42px;
+font-size:34px;
+
+}
+.sz_month {
+}
+.sz_date_mon {
+height:29px;
+font-size:22px;
+cursor:pointer;
+}
+
+.sz_date_day {
+background: #efefea;
+margin-bottom:1px;
+height:20px;
+font-size:14px;
+font-weight:bold;
+cursor:pointer;
+}
+.sz_day {
+}
+
+.sz_title {
+padding:5px 0px;
+font-weight:bold;
+color:#444;
+text-decoration:none;
+}
+
+
+.sz_titleon {
+line-height:14px;
+color:#eee;
+background-color:#333;
+
+}
+
+.sz_excerpt {
+font-size:9px;
+padding-bottom:5px;
+color:#999;
+text-decoration:none;
+}
+
+.sz_clr {
+padding-top: 20px;
+}
+ 
+.sz_carousel {
+ position: relative;
+ visibility: hidden;
+ left: -5000px;
+}
+
+.sz_carousel li {
+ padding:0px 8px;
+
+}

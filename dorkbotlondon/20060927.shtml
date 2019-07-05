@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>dorkbotlondon</title>
+  </head>
+
+  <style type="text/css">
+    body { 
+      font-family: verdana, helvetica, arial;
+      background: #fff;
+    }
+    h1 {
+      border-top: 1px solid #000;
+    }
+    h1 em {
+      letter-spacing: 2px;
+      font-size: 10px;
+    }
+    h2 {
+      border-top: 1px dashed #888;
+      font-size: 14px;
+    }
+    h3 {
+      font-size: 13px;
+    }
+    dt {
+      font-weight: bold;
+    }
+  </style>
+  <body>
+	<dt>dorkbot #</dt><dd>dorkbotlondon 41</dd>
+	<dt>time/date</dt><dd>7pm Wednesday 27th September 2006</dd>
+	<dt>location</dt><dd>Limehouse Town Hall, 646 Commercial Road, London, E14 7HA (directions below)</dd>
+	<dt>featuring the wise and flavoursome...</dt>
+	<ul>
+	  <li><a href="http://baach.de/">Joerg Baach</a> - <a href="http://copycan.org">copycan.org</a></li>
+	  <li><a href="http://lowfrequency.org">Evan Raskob</a> - Mashing Up Cities and Interactive Art.</li>
+	  <li> opendorks:
+	    <ul>
+	      <li><a href="http://burningdork.slab.org/">burningdork campers</a> - <a href="http://en.wikipedia.org/wiki/Religious_Society_of_Friends#Memorial_services">memorial</a> for burningdork. (Come brothers, sisters, share your thoughts.)</li>
+	      <li>Rodolfo Rosini - cellphone privacy</li>
+	    </ul>
+	  </li>
+	  <li>plus more opendorks (<a href="mailto:dorkbotlondon@dorkbot.org">let us know if you've got one</a>) and more...</li> 
+	</ul>
+      </dl>
+ 
+</p>
+
+<h2>more info</h2>
+see the <a href="./">main dorkbotlondon page</a>
+  </body>
+</html>
+

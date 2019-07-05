@@ -1,0 +1,26 @@
+html, body{margin:0;padding:0}
+body{font: 90% Geneva, Terminal, sans-serif;
+text-align:center; color:#999999;}
+p{margin:0 10px 10px}
+a{padding:5px; text-decoration:none; color:#999999;}
+a:link {color:#09c;}
+a:visited {color:#07a;}
+a:hover {background-color:#eee;}
+div#header{background-color:#FFFFFF;}
+div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;}
+div#container{text-align:left}
+div#container{font: 76% Geneva, Terminal, sans-serif; color:#999999;}
+div#content p{line-height:1.4}
+div#navigation{background:#FF0099;}
+div#navigation{font: Geneva, Terminal, sans-serif; color:#ffffff;}
+div#navigation ul{margin:15px 0; padding:0; list-style-type:none;}
+div#navigation li{margin-bottom:5px;}
+div#extra{background:#CCC8B3;}
+div#footer{background:#BFBD93;}
+div#footer p{margin:0;padding:5px 10px}
+div#container{width:700px;margin:0 auto}
+div#wrapper{float:left;width:100%}
+div#content{margin: 0 150px; border: 1px solid #FF0099;}
+div#navigation{float:left;width:150px;margin-left:-150px}
+div#extra{float:left;width:150px;margin-left:-700px}
+div#footer{clear:left;width:100%}

@@ -1,0 +1,100 @@
+<html>
+<HEAD>
+<title>dorkbot-sea : wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="dorkbot.css" type="text/css">
+
+<TITLE>dorkbot-sea</TITLE>
+</HEAD>
+<body>
+<div align="center"><br>
+  <table width="680" border="0" cellspacing="1" cellpadding="0"
+            bgcolor="#999999">
+    <tr align="center" valign="middle"> 
+      <td bgcolor="#E2DFD0"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+          <tr bgcolor="#F5F6EC"> 
+            <td width="100%" bgcolor="#FFFFFF" align="left" valign="top"> 
+              
+<table width="100%" border="0">
+  <tr align="left" valign="top"> 
+    <td width="9%"><a href="http://www.dorkbot.org/dorkbotsea/index.shtml"><img src="http://dorkbot.org/dorkbotsea/images/dorkbot-logo.gif" width="49" height="50" border="0"></a></td>
+    <td width="45%" align="left"><font class="header">dorkbot-sea</font><br>
+      <font class="italic"><i>people doing strange things with electricity<br>
+      </i></font></td>
+    <td width="46%"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tr align="left" valign="top"> 
+          <td width="25%"> 
+            <p class="navbar"><font class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/archive.shtml">archive</a> 
+              </b></font></p>
+          </td>
+          <td width="25%"> 
+            <p class="navbar"><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/events.shtml"><b>events 
+              </b></a> </font> </p>
+          </td>
+          <td> 
+            <p class="navbar"><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/opportunities.shtml"><b>opportunities</b></a></font> 
+            </p>
+          </td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tr align="left" valign="top"> 
+          <td width="25%"> 
+            <p class="navbar"><font class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/mailinglist.shtml">lists</a></b></font></p>
+          </td>
+          <td width="25%"> 
+            <p class="navbar"><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/wiki.shtml"><b>wiki 
+              </b></a></font> </p>
+          </td>
+          <td width="25%"> 
+            <p class="navbar"><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/links.shtml"><b>links</b></a> 
+              </font></p>
+          </td>
+          <td width="25%"> 
+            <p class="navbar"><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/press.shtml"><b>press 
+              </b></a></font></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+              <br>
+              <table width="100%" border="0">
+                <tr> 
+                  <td align="left" valign="top"> 
+                    <p><b>DorkbotWiki</b> <br>
+                      <br>
+                      <b><a href="http://projects.dorkbot.org/dorkbot-wiki" target="_blank">http://projects.dorkbot.org/dorkbot-wiki</a></b> 
+                      <br>
+                      <br>
+                      You will be prompted for a password to access the Dorkbot 
+                      Wiki. This is a public password and only used to keep spam 
+                      robots out. <br>
+                      <br>
+                      user: <b>dorkbot</b><br>
+                      pw: <b>iluvdorkbot <br>
+                      <br>
+                      </b>note: you will also see the user/pass when clicking 
+                      on the link and bringing up the login window.<br>
+                      <br>
+                      A WikiWikiWeb is a collaborative hypertext environment, 
+                      with an emphasis on easy access to and modification of information. 
+                    </p>
+                    </td>
+                </tr>
+              </table>
+              
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <br>
+</div>
+</body>
+</html>

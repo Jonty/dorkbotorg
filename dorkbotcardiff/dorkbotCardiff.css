@@ -1,0 +1,7 @@
+/* CSS Document */
+
+a:link {  color:#0066FF; text-decoration:none;font-weight: bold;}
+a:visited { color:#0066DD; text-decoration:none;font-weight: bold;}
+a:active {  color:#0066FF;text-decoration:none;font-weight: bold;}
+a:hover {  color:#0000CC; text-decoration:underline;font-weight: bold;}
+

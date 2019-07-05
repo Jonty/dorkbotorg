@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="noindex,follow" />
+<meta name="keywords" content="Special:Recentchanges" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel='alternate' type='application/rss+xml' title='RSS 2.0' href='/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideliu=0&amp;limit=100&amp;feed=rss' />
+<link rel='alternate' type='application/atom+xml' title='Atom 0.3' href='/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideliu=0&amp;limit=100&amp;feed=atom' />
+		<title>Recent changes - DorkbotLondon</title>
+		<style type="text/css" media="screen,projection">/*<![CDATA[*/ @import "/dorkbotlondon/wiki/skins/monobook/main.css?7"; /*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/dorkbotlondon/wiki/skins/common/commonPrint.css" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/dorkbotlondon/wiki/skins/monobook/IE50Fixes.css";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/dorkbotlondon/wiki/skins/monobook/IE55Fixes.css";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/dorkbotlondon/wiki/skins/monobook/IE60Fixes.css";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/dorkbotlondon/wiki/skins/monobook/IE70Fixes.css?1";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/dorkbotlondon/wiki/skins/common/IEFixes.js"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		<script type="text/javascript">var skin = 'monobook';var stylepath = '/dorkbotlondon/wiki/skins';</script>
+		<script type="text/javascript" src="/dorkbotlondon/wiki/skins/common/wikibits.js"><!-- wikibits js --></script>
+		<script type="text/javascript" src="/dorkbotlondon/wiki/index.php?title=-&amp;action=raw&amp;gen=js"><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "/dorkbotlondon/wiki/index.php?title=MediaWiki:Common.css&action=raw&ctype=text/css&smaxage=18000";
+@import "/dorkbotlondon/wiki/index.php?title=MediaWiki:Monobook.css&action=raw&ctype=text/css&smaxage=18000";
+@import "/dorkbotlondon/wiki/index.php?title=-&action=raw&gen=css&maxage=18000";
+/*]]>*/</style>
+		<!-- Head Scripts -->
+			</head>
+<body  class="ns--1 ltr">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 class="firstHeading">Recent changes</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From DorkbotLondon</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>Track the most recent changes to the wiki on this page.
+</p><div class="rcoptions">Below are the last <strong>100</strong> changes in last <strong>7</strong> days.<br />Show last <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;limit=50" title="Special:Recentchanges">50</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;limit=100" title="Special:Recentchanges">100</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;limit=250" title="Special:Recentchanges">250</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;limit=500" title="Special:Recentchanges">500</a> changes in last <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;days=1&amp;limit=100" title="Special:Recentchanges">1</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;days=3&amp;limit=100" title="Special:Recentchanges">3</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;days=7&amp;limit=100" title="Special:Recentchanges">7</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;days=14&amp;limit=100" title="Special:Recentchanges">14</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;days=30&amp;limit=100" title="Special:Recentchanges">30</a> days<br /><a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideminor=1&amp;limit=100" title="Special:Recentchanges">Hide</a> minor edits | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hidebots=0&amp;limit=100" title="Special:Recentchanges">Show</a> bots | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideanons=1&amp;limit=100" title="Special:Recentchanges">Hide</a> anonymous users | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideliu=1&amp;limit=100" title="Special:Recentchanges">Hide</a> logged-in users | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hidepatrolled=1&amp;limit=100" title="Special:Recentchanges">Hide</a> patrolled edits | <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hidemyself=1&amp;limit=100" title="Special:Recentchanges">Hide</a> my edits<br />Show new changes starting from <a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;from=20071027092907&amp;limit=100" title="Special:Recentchanges">09:29, 27 October 2007</a>
+<div class='namespacesettings'><form method='get' action='/dorkbotlondon/wiki/index.php'>
+<input type="hidden" name="limit" value="100" /><input type="hidden" name="title" value="Special:Recentchanges" />
+<div id='nsselect' class='recentchanges'>
+	<label for='namespace'>Namespace:</label>
+	<select id='namespace' name='namespace' class='namespaceselector'>
+	<option value="" selected="selected">all</option><option value="0">(Main)</option><option value="1">Talk</option><option value="2">User</option><option value="3">User talk</option><option value="4">DorkbotLondon</option><option value="5">DorkbotLondon talk</option><option value="6">Image</option><option value="7">Image talk</option><option value="8">MediaWiki</option><option value="9">MediaWiki talk</option><option value="10">Template</option><option value="11">Template talk</option><option value="12">Help</option><option value="13">Help talk</option><option value="14">Category</option><option value="15">Category talk</option>
+</select>
+<input type="submit" value="Go" />
+<input type='checkbox' name='invert' value='1' id='nsinvert' /> <label for='nsinvert'>Invert selection</label>
+</div></form></div></div>
+<h4>27 October 2007</h4>
+<ul class="special"><li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;diff=3340&amp;oldid=3336" title="DorkbotLondon:General disclaimer"  tabindex="1">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;action=history" title="DorkbotLondon:General disclaimer">hist</a>) . .  <span class="minor">m</span>  <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:General_disclaimer" title="DorkbotLondon:General disclaimer">DorkbotLondon:General disclaimer</a>; 06:47 . . <a href="/dorkbotlondon/wiki/index.php?title=User:ErgetTrocr&amp;action=edit" class="new" title="User:ErgetTrocr">ErgetTrocr</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:ErgetTrocr&amp;action=edit" class="new" title="User talk:ErgetTrocr">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=ErgetTrocr" title="Special:Contributions">contribs</a>)</li>
+</ul>
+<h4>26 October 2007</h4>
+<ul class="special"><li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:Privacy_policy&amp;curid=1532&amp;diff=3339&amp;oldid=3316" title="DorkbotLondon:Privacy policy"  tabindex="2">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:Privacy_policy&amp;curid=1532&amp;action=history" title="DorkbotLondon:Privacy policy">hist</a>) . .  <span class="minor">m</span>  <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:Privacy_policy" title="DorkbotLondon:Privacy policy">DorkbotLondon:Privacy policy</a>; 19:36 . . <a href="/dorkbotlondon/wiki/index.php?title=User:RicdrOnorb&amp;action=edit" class="new" title="User:RicdrOnorb">RicdrOnorb</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:RicdrOnorb&amp;action=edit" class="new" title="User talk:RicdrOnorb">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=RicdrOnorb" title="Special:Contributions">contribs</a>)</li>
+</ul>
+<h4>25 October 2007</h4>
+<ul class="special"><li>(<a href="/dorkbotlondon/wiki/index.php?title=WhatToBring2006&amp;curid=1412&amp;diff=3338&amp;oldid=3269" title="WhatToBring2006"  tabindex="3">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=WhatToBring2006&amp;curid=1412&amp;action=history" title="WhatToBring2006">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/WhatToBring2006" title="WhatToBring2006">WhatToBring2006</a>; 14:20 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:About&amp;curid=1531&amp;diff=3337&amp;oldid=3317" title="DorkbotLondon:About"  tabindex="4">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:About&amp;curid=1531&amp;action=history" title="DorkbotLondon:About">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:About" title="DorkbotLondon:About">DorkbotLondon:About</a>; 14:18 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;diff=3336&amp;oldid=3334" title="DorkbotLondon:General disclaimer"  tabindex="5">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;action=history" title="DorkbotLondon:General disclaimer">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:General_disclaimer" title="DorkbotLondon:General disclaimer">DorkbotLondon:General disclaimer</a>; 14:17 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=ConfirmedCampers&amp;curid=1452&amp;diff=3335&amp;oldid=3313" title="ConfirmedCampers"  tabindex="6">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=ConfirmedCampers&amp;curid=1452&amp;action=history" title="ConfirmedCampers">hist</a>) . .  <span class="minor">m</span>  <a href="/dorkbotlondon/wiki/index.php/ConfirmedCampers" title="ConfirmedCampers">ConfirmedCampers</a>; 14:15 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(Reverted edits by <a href="/dorkbotlondon/wiki/index.php/Special:Contributions/222.190.96.196" title="Special:Contributions/222.190.96.196">222.190.96.196</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:222.190.96.196&amp;action=edit" class="new" title="User talk:222.190.96.196">222.190.96.196</a>); changed back to last version by <a href="/dorkbotlondon/wiki/index.php?title=User:Misslake&amp;action=edit" class="new" title="User:Misslake">Misslake</a>)</span></li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;diff=3334&amp;oldid=3315" title="DorkbotLondon:General disclaimer"  tabindex="7">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;action=history" title="DorkbotLondon:General disclaimer">hist</a>) . .  <span class="minor">m</span>  <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:General_disclaimer" title="DorkbotLondon:General disclaimer">DorkbotLondon:General disclaimer</a>; 14:15 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(Reverted edits by <a href="/dorkbotlondon/wiki/index.php/Special:Contributions/222.190.96.196" title="Special:Contributions/222.190.96.196">222.190.96.196</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:222.190.96.196&amp;action=edit" class="new" title="User talk:222.190.96.196">222.190.96.196</a>); changed back to last version by <a href="/dorkbotlondon/wiki/index.php?title=User:166.127.1.216&amp;action=edit" class="new" title="User:166.127.1.216">166.127.1.216</a>)</span></li>
+<li>(<a href="/dorkbotlondon/wiki/index.php/Special:Log/delete" title="Special:Log/delete">Deletion log</a>); 14:15 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(deleted &quot;<a href="/dorkbotlondon/wiki/index.php?title=Talk:ConfirmedCampers2006&amp;action=edit" class="new" title="Talk:ConfirmedCampers2006">Talk:ConfirmedCampers2006</a>&quot;: content was: 'vinomoncaraczelacel')</span></li>
+<li>(<a href="/dorkbotlondon/wiki/index.php/Special:Log/delete" title="Special:Log/delete">Deletion log</a>); 14:15 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(deleted &quot;<a href="/dorkbotlondon/wiki/index.php?title=Talk:Wifi_antenna_diy&amp;action=edit" class="new" title="Talk:Wifi antenna diy">Talk:Wifi antenna diy</a>&quot;)</span></li>
+<li>(<a href="/dorkbotlondon/wiki/index.php/Special:Log/rights" title="Special:Log/rights">Bureaucrat log</a>); 14:13 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(Changed group membership for User:Tallpaul from  to sysop, bureaucrat)</span></li>
+<li>(<a href="/dorkbotlondon/wiki/index.php/Special:Log/block" title="Special:Log/block">Block log</a>); 14:12 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(blocked &quot;<a href="/dorkbotlondon/wiki/index.php?title=User:85.255.120.90&amp;action=edit" class="new" title="User:85.255.120.90">User:85.255.120.90</a>&quot; with an expiry time of infinite: spammer)</span></li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkCamp07&amp;curid=1427&amp;diff=3333&amp;oldid=3319" title="DorkCamp07"  tabindex="12">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkCamp07&amp;curid=1427&amp;action=history" title="DorkCamp07">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/DorkCamp07" title="DorkCamp07">DorkCamp07</a>; 14:11 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(despam)</span></li>
+</ul>
+<h4>24 October 2007</h4>
+<ul class="special"><li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkCamp07&amp;curid=1427&amp;diff=3319&amp;oldid=3264" title="DorkCamp07"  tabindex="13">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkCamp07&amp;curid=1427&amp;action=history" title="DorkCamp07">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/DorkCamp07" title="DorkCamp07">DorkCamp07</a>; 21:14 . . <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=196.20.65.210" title="Special:Contributions">196.20.65.210</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:196.20.65.210&amp;action=edit" class="new" title="User talk:196.20.65.210">Talk</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=ConfirmedCampers2006&amp;curid=1398&amp;diff=3318&amp;oldid=3125" title="ConfirmedCampers2006"  tabindex="14">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=ConfirmedCampers2006&amp;curid=1398&amp;action=history" title="ConfirmedCampers2006">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/ConfirmedCampers2006" title="ConfirmedCampers2006">ConfirmedCampers2006</a>; 21:08 . . <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=196.20.65.210" title="Special:Contributions">196.20.65.210</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:196.20.65.210&amp;action=edit" class="new" title="User talk:196.20.65.210">Talk</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:About&amp;curid=1531&amp;diff=3317&amp;oldid=3273" title="DorkbotLondon:About"  tabindex="15">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:About&amp;curid=1531&amp;action=history" title="DorkbotLondon:About">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:About" title="DorkbotLondon:About">DorkbotLondon:About</a>; 21:04 . . <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=86.65.167.6" title="Special:Contributions">86.65.167.6</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:86.65.167.6&amp;action=edit" class="new" title="User talk:86.65.167.6">Talk</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:Privacy_policy&amp;curid=1532&amp;diff=3316&amp;oldid=3259" title="DorkbotLondon:Privacy policy"  tabindex="16">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:Privacy_policy&amp;curid=1532&amp;action=history" title="DorkbotLondon:Privacy policy">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:Privacy_policy" title="DorkbotLondon:Privacy policy">DorkbotLondon:Privacy policy</a>; 21:00 . . <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=81.201.58.55" title="Special:Contributions">81.201.58.55</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:81.201.58.55&amp;action=edit" class="new" title="User talk:81.201.58.55">Talk</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;diff=3315&amp;oldid=3271" title="DorkbotLondon:General disclaimer"  tabindex="17">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=DorkbotLondon:General_disclaimer&amp;curid=1530&amp;action=history" title="DorkbotLondon:General disclaimer">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:General_disclaimer" title="DorkbotLondon:General disclaimer">DorkbotLondon:General disclaimer</a>; 20:58 . . <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=222.190.96.196" title="Special:Contributions">222.190.96.196</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:222.190.96.196&amp;action=edit" class="new" title="User talk:222.190.96.196">Talk</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=ConfirmedCampers&amp;curid=1452&amp;diff=3313&amp;oldid=3037" title="ConfirmedCampers"  tabindex="18">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=ConfirmedCampers&amp;curid=1452&amp;action=history" title="ConfirmedCampers">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/ConfirmedCampers" title="ConfirmedCampers">ConfirmedCampers</a>; 20:18 . . <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=222.190.96.196" title="Special:Contributions">222.190.96.196</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:222.190.96.196&amp;action=edit" class="new" title="User talk:222.190.96.196">Talk</a>)</li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=Co-Organisers&amp;curid=1495&amp;diff=3308&amp;oldid=3307" title="Co-Organisers"  tabindex="19">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=Co-Organisers&amp;curid=1495&amp;action=history" title="Co-Organisers">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/Co-Organisers" title="Co-Organisers">Co-Organisers</a>; 16:37 . . <a href="/dorkbotlondon/wiki/index.php?title=User:Tallpaul&amp;action=edit" class="new" title="User:Tallpaul">Tallpaul</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Tallpaul&amp;action=edit" class="new" title="User talk:Tallpaul">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Tallpaul" title="Special:Contributions">contribs</a>) <span class='comment'>(Removed (2x link +1 random)spam)</span></li>
+<li>(<a href="/dorkbotlondon/wiki/index.php?title=Co-Organisers&amp;curid=1495&amp;diff=3307&amp;oldid=3202" title="Co-Organisers"  tabindex="20">diff</a>) (<a href="/dorkbotlondon/wiki/index.php?title=Co-Organisers&amp;curid=1495&amp;action=history" title="Co-Organisers">hist</a>) . .    <a href="/dorkbotlondon/wiki/index.php/Co-Organisers" title="Co-Organisers">Co-Organisers</a>; 16:17 . . <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=90.152.8.69" title="Special:Contributions">90.152.8.69</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:90.152.8.69&amp;action=edit" class="new" title="User talk:90.152.8.69">Talk</a>)</li>
+</ul>
+<h4>22 October 2007</h4>
+<ul class="special"><li>(<a href="/dorkbotlondon/wiki/index.php/Special:Log/delete" title="Special:Log/delete">Deletion log</a>); 10:59 . . <a href="/dorkbotlondon/wiki/index.php/User:Yaxu" title="User:Yaxu">Yaxu</a> (<a href="/dorkbotlondon/wiki/index.php?title=User_talk:Yaxu&amp;action=edit" class="new" title="User talk:Yaxu">Talk</a> | <a href="/dorkbotlondon/wiki/index.php?title=Special:Contributions&amp;target=Yaxu" title="Special:Contributions">contribs</a>) <span class='comment'>(deleted &quot;<a href="/dorkbotlondon/wiki/index.php?title=Talk:Wifi_antenna_diy&amp;action=edit" class="new" title="Talk:Wifi antenna diy">Talk:Wifi antenna diy</a>&quot;)</span></li>
+</ul>
+<div class="printfooter">
+Retrieved from "<a href="http://dorkbot.org/dorkbotlondon/wiki/index.php/Special:Recentchanges">http://dorkbot.org/dorkbotlondon/wiki/index.php/Special:Recentchanges</a>"</div>
+						<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<ul>
+				 <li id="ca-article" class="selected"><a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideliu=0&amp;limit=100">Special Page</a></li>
+		</ul>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="/dorkbotlondon/wiki/index.php/User:208.70.24.237" class="new">208.70.24.237</a></li>
+				<li id="pt-anontalk"><a href="/dorkbotlondon/wiki/index.php/User_talk:208.70.24.237" class="new">Talk for this IP</a></li>
+				<li id="pt-anonlogin"><a href="/dorkbotlondon/wiki/index.php?title=Special:Userlogin&amp;returnto=Special:Recentchanges">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://yaxu.org/burningdork.gif);" href="/dorkbotlondon/wiki/index.php/Main_Page" title="Main Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+		<div class='portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/dorkbotlondon/wiki/index.php/Main_Page">Main Page</a></li>
+				<li id="n-DorkCamp-2007"><a href="/dorkbotlondon/wiki/index.php/DorkCamp07">DorkCamp 2007</a></li>
+				<li id="n-recentchanges"><a href="/dorkbotlondon/wiki/index.php/Special:Recentchanges">Recent changes</a></li>
+			</ul>
+		</div>
+	</div>
+		<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/dorkbotlondon/wiki/index.php/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" value="Search" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+			<li id="feedlinks"><span id="feed-rss"><a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideliu=0&amp;limit=100&amp;feed=rss">rss</a>&nbsp;</span>
+					<span id="feed-atom"><a href="/dorkbotlondon/wiki/index.php?title=Special:Recentchanges&amp;hideliu=0&amp;limit=100&amp;feed=atom">atom</a>&nbsp;</span>
+					</li><li id="t-specialpages"><a href="/dorkbotlondon/wiki/index.php/Special:Specialpages">Special pages</a></li>
+			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/dorkbotlondon/wiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a></div>
+			<ul id="f-list">
+				<li id="privacy"><a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:Privacy_policy" title="DorkbotLondon:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:About" title="DorkbotLondon:About">About DorkbotLondon</a></li>
+				<li id="disclaimer"><a href="/dorkbotlondon/wiki/index.php/DorkbotLondon:General_disclaimer" title="DorkbotLondon:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+	<script type="text/javascript"> if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+<!-- Served by roar.music.columbia.edu in 4.69 secs. -->
+</body></html>

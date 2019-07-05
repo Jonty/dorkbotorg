@@ -1,0 +1,10 @@
+body {
+	background: #dddddd;
+	color: #261682;
+	font-family: courier;
+	font-size: 10pt;
+}
+
+a:link { color: #000069; text-decoration: none; }
+a:link.header { color: #690069 }
+a:hover.header { color: #991212 }

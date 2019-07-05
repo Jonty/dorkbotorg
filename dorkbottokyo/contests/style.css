@@ -1,0 +1,30 @@
+.title {
+	font-size:60px;	line-height:80px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	}td {
+	font-size: 12px;
+}
+.ctitle {
+	font-weight: bold;
+	font-size: 16px;
+}
+.description{
+	font-size: 11px;
+	line-height:18px;}
+.tdl {
+	width:100px;
+}
+.tdr {
+	width:600px;
+}
+table {
+	width:700px;
+	border:1px solid #333333;
+	margin-top:6px;
+	margin-bottom:-6px;
+}
+
+.f30b{	font-size:30px;	line-height:42px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	}.f20{	font-size:20px;	line-height:28px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	}.f16b{	font-size:16px;	line-height:20px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	font-weight:bold;	}.f16{	font-size:16px;	line-height:21px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	}.f14b{	font-size:14px;	line-height:24px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	font-weight:bold;	}.f14{	font-size:14px;	line-height:20px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	}.f12{	font-size:12px;	line-height:18px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	}.f11{	font-size:11px;	line-height:18px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	}.f10{	font-size:10px;	line-height:16px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	}.f9{	font-size:9px;	line-height:18px;	font-family: Lucida Grande, verdana, Geneva, sans-serif, osaka;	letter-spacing: 1px;	}div#link {margin-top:10px;margin-bottom:10px;}
+	a{text-decoration:none; color:#00aa00;}a:link{text-decoration:none; color:#00aa00;}a:visited{text-decoration:none; color:#00aa00;}a:hover{text-decoration:underline; color:#00FF00; background:#ffffff;}
+
+span#button a{text-decoration:none; background:#00aa00; padding:15px; color:#ffffff;}span#button a:link{text-decoration:none; background:#00aa00; padding:15px; color:#ffffff;}span#button a:visited{text-decoration:none; background:#00aa00; padding:15px; color:#ffffff;}span#button a:hover{text-decoration:none; background:#00ff00; padding:15px; color:#ffffff;}
+	span#button2 a{text-decoration:none; background:#00aa00; padding:6px; color:#ffffff;}span#button2 a:link{text-decoration:none; background:#00aa00; padding:6px; color:#ffffff;}span#button2 a:visited{text-decoration:none; background:#00aa00; padding:6px; color:#ffffff;}span#button2 a:hover{text-decoration:none; background:#00ff00; padding:6px; color:#ffffff;}
+	body{	margin: 20px 20px 20px 20px;	}

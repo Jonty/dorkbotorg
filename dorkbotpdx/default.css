@@ -1,0 +1,143 @@
+/*******************************************************
+TITLE: Fixed One-Column Layout (Basic) V1.0 (Beta)
+DATE: 20060418
+AUTHOR: The CSS Tinderbox - http://www.csstinderbox.com
+*******************************************************/
+
+body {
+margin:.5em;
+padding:0;
+height:100%;
+background-color:#ffffff;
+color:#000000;  
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:.9em;
+background: url(images/robots.jpg) fixed;
+}
+
+a {
+color:#cc0000;
+text-decoration:underline;
+}
+
+a:hover {
+color:#cccccc;
+text-decoration:none;
+}
+
+blockquote {
+margin:1em;
+padding:.5em;
+background-color:#eeeeee;
+border-top:1px solid #cccccc;
+border-bottom:1px solid #cccccc;
+}
+
+blockquote p {
+margin:.2em;
+}
+
+#centerColumn { 	
+margin:0 auto;
+padding:1em;
+width:38em;
+text-align:left;
+vertical-align: middle;	
+background-color:#ffffff;
+border:1px solid #cccccc;
+}
+
+#centerColumn h2 {
+margin:0 0 -.5em 0;
+padding:.75em 0 0 0;
+font-size:1em;
+letter-spacing:.1em;
+font-variant: small-caps;
+}
+
+#header {
+margin:0 0 0 0;
+padding:0 0 0 0;
+height:10em;
+background-color:#ffffff;
+border:1px solid #cccccc;
+}
+
+#header h1 {
+margin:0 0 -.6em 0;
+padding:1em 0 0 1em;
+font-size:1.5em;
+letter-spacing:.1em;
+font-variant: small-caps;
+}
+
+#header h2 {
+margin:0 0 0 0;
+padding:1em 0 0 1.75em;
+font-size:.9em;
+font-weight:300;
+letter-spacing:.1em;
+font-variant: small-caps;
+}
+
+#fauxRightColumn {
+position:relative;
+float:right;
+margin:.5em 0 0 .5em;
+padding:0 .7em .25em .7em;
+width:11em;
+font-size:.9em;
+background-color:#ffffff;
+border:1px solid #cccccc;
+}
+
+#fauxRightColumn h2 {
+margin-bottom:-1em;
+font-size:.9em;
+font-variant: small-caps;
+}
+
+#fauxRightColumn ul {
+margin:1.5em 0 0 0 !important;
+margin:1.5em 0 0 3em;
+list-style:none;
+}
+
+#fauxRightColumn li {
+margin:0 0 .2em -3em;
+}
+
+#fauxRightColumn li a {
+text-decoration:underline;
+}
+
+#fauxRightColumn li a:hover{
+text-decoration:none;
+}
+
+#footer {
+position:relative;
+bottom:0;
+margin:5em 0 0 0;
+padding:0;
+height:4em;
+line-height:4em;
+text-align:center;
+font-size:.7em;
+background-color:#ffffff;
+border-top:1px solid #cccccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

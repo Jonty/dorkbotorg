@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HEAD>
+<title>dorkbot-sea : archive : dorkbot 30</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="dorkbot_eldan.css" type="text/css">
+</HEAD>
+<body>
+
+<div class="main_container">
+
+
+
+<!-- header table -->
+
+ <table width="100%" border="0">
+  <tr align="left" valign="top"> 
+   <td width="9%"><a href="index.shtml"><img src="images/dorkbot-logo.gif" width="49" height="50" border="0"></a></td>
+   <td width="45%" align="left"><h1>dorkbot-sea</h1>
+    <span class="italic"><i>people doing strange things with electricity 
+    <br>
+    </i></span>
+   </td>
+   <td width="46%"> 
+    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+     <tr align="left" valign="top"> 
+      <td width="25%"> 
+       <p><span class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/archive.shtml">archive</a></b></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/events.shtml"><b>events</b></a></span></p>
+      </td>
+      <td> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/opportunities.shtml"><b>opportunities</b></a></span></p>
+      </td>
+     </tr>
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+     <tr align="left" valign="top"> 
+      <td width="25%"> 
+       <p><span class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/mailinglist.shtml">lists</a></b></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/wiki.shtml"><b>wiki</b></a></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/links.shtml"><b>links</b></a></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/press.shtml"><b>press</b></a></span></p>
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+
+<!-- end of header table -->
+
+
+
+<!-- meeting preamble -->
+
+ <div class="section">
+  <h1>Meeting 30</h1>
+  <h2>The Programmable Web</h2>
+  <p class="preamble">
+   Wednesday, August 2<sup>nd</sup>, 2006 at 7:30pm
+   <br />
+   <b><a href="http://www.cocaseattle.org">Center on Contemporary Art</a></b>, Seattle, WA
+   <br />
+   Admission: Free to all ages and species!
+  </p>
+ </div>
+
+<br />
+
+<!-- end of meeting preamble -->
+
+
+
+<!-- speakers section -->
+
+<br />
+
+ <div class="section">
+  <h1>Presenters</h2>
+
+
+<!-- begin one speaker -->
+  <h2>John Musser:  The Programmable Web</h2>
+  <p>
+   In this interactive presentation we'll take a look at the big picture of the new web mashup world and then see some of the most creative and interesting of the 800+ mashups cataloged at <a href="http://programmableweb.com/">programmableweb.com</a>.
+  </p>
+ 
+  <p>
+   John Musser is the Seattle-based founder of ProgammableWeb.com, the online resource for mashups, APIs and the web as platform. He is a technology consultant, writer and teacher. During his 20-year career in software development he has shipped five award-winning software products in three industries, taught at Columbia University and the University of Washington.
+  </p>
+<!-- end one speaker -->
+
+
+
+
+<!-- begin one speaker -->
+  <h2>Jordan Schwartz:  Pixie Hunt</h2>
+  <p>
+   Pixie Hunt is a location-aware cameraphone-based mobile scavenger hunt game, in which participants take photos to complete tasks, see where their opponents are and what photos they are taking in real-time and smack talk one another in friendly competition.   The application was built using enough disparate technologies to gag a goat, including C#, Windows Mobile, Flickr, Virtual Earth, GPS, GSM, Bluetooth, javascript and UPOC.   I will give a brief overview of the game and learnings from it, as well as discuss some of the ups and downs of using such a wide variety of technologies to build an application.
+  </p>
+<!-- end one speaker -->
+
+
+
+
+<!-- begin one speaker -->
+  <h2>Danyel Fisher:  Crunching History</h2>
+  <p>
+   Danyel Fisher is a researcher at Microsoft's Research facility, studying and building systems for social computing and collaboration. In the last 30-odd years, he's found himself living in a variety of different places. A mashed-up life calls for a good mashed-up view. When he got involved with the MapCruncher project, he started thinking about what it would mean to interactively map out his life.
+  </p>
+<!-- end one speaker -->
+
+
+
+
+<!-- begin one speaker -->
+  <h2>Michael Worobec:  Speak and See</h2>
+  <p>
+   Presenting the "Speak and See": Proving two wrongs do in fact make a right, Mike Worobec combines two flawed technologies in series to create something of actual value. The first of these technologies is large vocabulary, untrained, speech recognition. The program, called Sphynx, was created by Carnegie Mellon University and is used in such applications as the automation of closed-caption generation for broadcast news. The other technology is Google image search, which is used in such applications as checking to see if one's 'ex' or prospective girlfriend appears naked somewhere on the Web. Both technologies are quite imprecise on their own. But, when combined in series, the two prove their worth by providing a direct and amazingly accurate conduit between visual and linguistic human cognition. You see, the errors tend to average out, leaving, on average, a correct result. Just speak into the microphone, and the appropriate image is rapidly displayed. Say "Boobs" or "Nixon", or even better, "Boobs and Nixon", and the Speak and See will deliver. What does it deliver? You'll have to speak and see for yourself.
+  </p>
+ 
+  <p>
+   Mike Worobec is a software engineer, and an electronic artist. He holds a BFA from The University of New Mexico (well, almost, once he finally takes English 220), and a BA in Mathematics from Grinnell. Thus, he has a robust left and right brain. The interconnections between the two sides are, however, somewhat flawed. The use of various substances to compensate for these deficiencies therefore qualifies as legitimate medical purpose. Most treatments, though, have proven ineffective. The making of nerd art, however, has proven to be a most effective therapy.
+  </p>
+<!-- end one speaker -->
+
+
+
+
+
+
+<!-- begin one speaker -->
+  <h2>Meghan Trainor: 16 Horsepower</h2>
+  <p>
+   Meghan Trainor is an New York-based artist, originally from Seattle, who focuses on exploring the dynamics of technology within society. She will be demonstrating part of her performance work "16 Horsepower" which consists of a series of RFID embedded objects that interact with an audio database.   This piece aims to help the audience understand and imagine the coming "Internet of Things" and other elements of emerging ubiquitous computing.
+  </p>
+<!-- end one speaker -->
+
+
+ </div>
+
+<br />
+
+<!-- end of speakers section -->
+
+
+
+<!-- begin opendork postamble -->
+
+<br />
+
+ <div class="section">
+  <h1>Open Dork / Show and Tell</h1>
+  <p>
+   <strong>YOU!!!</strong> Yes, if you have a project - any project, at any stage of completeness, an idea - any idea, at any stage of bakedness, an artwork - any kind of artwork at any stage of doneness, please do bring it along to the dorkbot meeting and claim your 10 minutes worth of fame after the presenters.
+  </p>
+ </div>
+
+<!-- end of opendork postamble -->
+
+
+
+</div> <!-- main_container -->
+
+&nbsp; <!-- silly hack to make browsers leave some space below the bottom margin -->
+
+</body>
+</html>

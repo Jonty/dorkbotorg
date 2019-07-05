@@ -1,0 +1,100 @@
+.Body {
+    color: #3f3f3f;
+    font-family: 'Verdana', 'sans-serif';
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 7px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Summary_Body {
+    color: #3f3f3f;
+    font-family: 'Verdana', 'sans-serif';
+    font-size: 15px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_navigationbar_style_default {
+    background: transparent url(NavBarBlue1-11.png) repeat scroll top left;
+    border: 1px #000000 none;
+    float: none;
+    margin: 0px;
+}
+.graphic_shape_style_default, .graphic_shape_style_default_10, .graphic_shape_style_default_17 {
+    background: #ffffff;
+    border: 1px #000000 solid;
+    float: none;
+    margin: 0px;
+}
+.graphic_shape_style_default_10, .graphic_shape_style_default_17 {
+    background: #f5f3f3;
+    border: 1px #666666 solid;
+}
+.graphic_shape_style_default_17 {
+    background: #ffffff;
+    border: 1px #000000 solid;
+}
+.graphic_textbox_layout_style_default {
+    margin: 4px;
+}
+.graphic_textbox_style_default {
+    background: transparent;
+    border: 1px #000000 none;
+    float: none;
+    margin: 0px;
+}
+a {
+    color: #007dff;
+    text-decoration: none;
+}
+a:visited {
+    color: #007dff;
+    text-decoration: none;
+}
+a:hover {
+    color: #0056d3;
+    text-decoration: none;
+}
+.Spacer {display: inline; }
+.Spacer {display: inline-block; }
+ol {
+    list-style-image: none;
+    list-style-position: inside;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+.Bullet {    border: none;
+    text-decoration: none;
+}
+div {
+    overflow: visible;
+}
+img {
+    border: none;
+}

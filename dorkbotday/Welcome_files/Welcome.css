@@ -1,0 +1,30 @@
+.graphic_navigationbar_style_default {
+    background: transparent;
+    border: 2px #000000 none;
+    float: none;
+    margin: 0px;
+    opacity: 1.00;
+}
+a {
+    color: #621f1a;
+    text-decoration: none;
+}
+a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+    color: #d64600;
+    text-decoration: none;
+}
+div {
+    overflow: visible;
+}
+img {
+    border: none;
+}
+.InlineBlock {display: inline; }
+.InlineBlock {display: inline-block; }
+.tinyText {
+    font-size: 1px;
+}

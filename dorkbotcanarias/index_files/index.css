@@ -1,0 +1,87 @@
+.Free_Form {
+    color: #000000;
+    font-family: 'HelveticaNeue', 'Helvetica Neue';
+    font-size: 9.00pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.47;
+    margin-bottom: 0;
+    margin-left: 0.00pt;
+    margin-right: 0.00pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0.00pt;
+    text-transform: none;
+    vertical-align: 0.000000em;
+}
+.Encabezamiento {
+    color: #000000;
+    font-family: 'HelveticaNeue', 'Helvetica Neue';
+    font-size: 14.00pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 0.91;
+    margin-bottom: 0;
+    margin-left: 0.00pt;
+    margin-right: 0.00pt;
+    margin-top: 0;
+    padding-bottom: 6;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0.00pt;
+    text-transform: uppercase;
+    vertical-align: 0.000000em;
+}
+.Cuerpo_2 {
+    color: #4c4c4c;
+    font-family: 'HelveticaNeue', 'Helvetica Neue';
+    font-size: 9.00pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.47;
+    margin-bottom: 0;
+    margin-left: 0.00pt;
+    margin-right: 0.00pt;
+    margin-top: 0;
+    padding-bottom: 9;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0.00pt;
+    text-transform: none;
+    vertical-align: 0.000000em;
+}
+.Cuerpo {
+    color: #000000;
+    font-family: 'HelveticaNeue', 'Helvetica Neue';
+    font-size: 9.00pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.47;
+    margin-bottom: 0;
+    margin-left: 0.00pt;
+    margin-right: 0.00pt;
+    margin-top: 0;
+    padding-bottom: 9;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0.00pt;
+    text-transform: none;
+    vertical-align: 0.000000em;
+}
+.Gris {
+    color: #4c4c4c;
+}

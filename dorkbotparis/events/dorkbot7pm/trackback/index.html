@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>  Dorkbot Paris #7 : post mortem at  dorkbot paris</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="WordPress 2.2.2" />
+	<meta name="template" content="K2 Beta Two svn" />
+ 	<meta name="description" content="" />
+  
+	<link rel="stylesheet" type="text/css" media="screen" href="http://dorkbot.org/dorkbotparis/wp-content/themes/default/style.css" />
+	<link rel="stylesheet" type="text/css" media="print" href="http://dorkbot.org/dorkbotparis/wp-content/themes/K2v096/css/print.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="http://dorkbot.org/dorkbotparis/wp-content/themes/K2v096/css/rollingarchives.css" />
+		
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://dorkbot.org/dorkbotparis/feed" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://dorkbot.org/dorkbotparis/feed/rss" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://dorkbot.org/dorkbotparis/feed/atom" />
+
+		<link rel="pingback" href="http://dorkbot.org/dorkbotparis/xmlrpc.php" />
+	
+		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dorkbot.org/dorkbotparis/xmlrpc.php?rsd" />
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-content/plugins/vipers-video-quicktags/vipers-video-quicktags.js?ver=5.4.0'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-includes/js/prototype.js?ver=1.5.0-0'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.7.0'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-includes/js/scriptaculous/effects.js?ver=1.7.0'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-content/themes/K2v096/js/k2functions.js.php?ver=223'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-includes/js/scriptaculous/slider.js?ver=1.7.0'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-content/themes/K2v096/js/trimmer.js.php?ver=247'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-content/themes/K2v096/js/rollingarchives.js.php?ver=224'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-content/themes/K2v096/js/livesearch.js.php?ver=262'></script>
+<script type='text/javascript' src='http://dorkbot.org/dorkbotparis/wp-content/themes/K2v096/js/comments.js.php?ver=216'></script>
+	<!-- Viper's Video Quicktags CSS -->
+	<style type="text/css">
+		.vvqbox { margin: 5px auto 0 auto; text-align: center; }
+
+		/* hides the second object from all versions of IE */
+		* html object.mov {
+			display: none;
+		}
+
+		/* displays the second object in all versions of IE apart from 5 on PC */
+		* html object.mov/**/ {
+			display: inline;
+		}
+
+		/* hides the second object from all versions of IE >= 5.5 */
+		* html object.mov {
+			display/**/: none;
+		}
+	</style>
+		<style type="text/css">
+				</style>
+			
+
+	<script type="text/javascript">
+	//<![CDATA[
+		var K2 = {};
+
+				K2.LiveSearch = new Livesearch("searchform", "dynamic-content", "current-content",
+			window.location.href.match(/^(http:\/\/[^\/]+)/)[1] + "/dorkbotparis/wp-content/themes/K2v096/rollingarchive.php",
+			"Type and Wait to Search",
+			"go");
+		
+				K2.RollingArchives = new RollingArchives("rollingarchives", "rollingcontent",
+			window.location.href.match(/^(http:\/\/[^\/]+)/)[1] + "/dorkbotparis/wp-content/themes/K2v096/theloop.php",
+			"Page %1$d of %2$d");
+		
+			//]]>
+	</script>
+
+		<link rel='archives' title='May 2008' href='http://dorkbot.org/dorkbotparis/2008/05' />
+	<link rel='archives' title='March 2008' href='http://dorkbot.org/dorkbotparis/2008/03' />
+	<link rel='archives' title='February 2008' href='http://dorkbot.org/dorkbotparis/2008/02' />
+	<link rel='archives' title='December 2007' href='http://dorkbot.org/dorkbotparis/2007/12' />
+	<link rel='archives' title='October 2007' href='http://dorkbot.org/dorkbotparis/2007/10' />
+</head>
+
+<body class="wordpress k2 y2008 m08 d21 h09 single s-y2007 s-m12 s-d05 s-h07 s-category-events s-author-daviD sidebar-single" >
+<div id="page">
+
+	<div id="header">
+		<h1><a href="http://dorkbot.org/dorkbotparis/">dorkbot paris</a></h1>
+		<p class="description">(<a href="http://dorkbot.org">dorkbot</a> >> dorkbot paris)</p>
+
+		<ul class="menu">
+						<li class="current_page_item"><a href="http://dorkbot.org/dorkbotparis/" title="news">news</a></li>
+						<li class="page_item"><a href="http://dorkbot.org/dorkbotparis/editions" title="Editions passées">Editions passées</a></li>
+<li class="page_item"><a href="http://dorkbot.org/dorkbotparis/about" title="A propos">A propos</a></li>
+          				<li class="page_item"><a href="http://www.flickr.com/groups/dorkbotparis/" title="Photos">Flickr</a></li>
+					</ul>
+
+	</div>
+
+		<hr />
+<div class="content">
+
+	<div id="primary">
+		<div id="current-content" class="hfeed">
+
+			
+	
+	 
+
+
+	
+			
+	<hr />
+
+	
+	<div class="navigation">
+		<div class="left"><span>&laquo;</span> <a href="http://dorkbot.org/dorkbotparis/events/dorkbot6aucube">Dorkbot Paris #6 - Le Cube, 16/10/2007</a></div>		<div class="right"><a href="http://dorkbot.org/dorkbotparis/events/dorkbotdarkbot-economie-0">Dorkbot/Darkbot Paris #8 - samedi 16 février - Economie 0 / Upgrade! Paris</a> <span>&raquo;</span></div>		<div class="clear"></div>
+	</div>
+
+	
+	<hr />
+
+		<div id="post-14" class="hentry p1 post publish author-daviD category-events y2007 m12 d05 h07 alt">
+			<div class="entry-head">
+				<h3 class="entry-title"><a href="http://dorkbot.org/dorkbotparis/events/dorkbot7pm" rel="bookmark" title='Permanent Link to "Dorkbot Paris #7 : post mortem"'>Dorkbot Paris #7 : post mortem</a></h3>
+				
+				<div class="entry-meta">
+					<span class="chronodata">
+						Published by <address class="vcard author"><a href="http://dorkbot.org/dorkbotparis/author/david/" class="url fn" title="View all posts by daviD">daviD</a></address> <abbr class="published" title="2007-12-05T00:58:35-0500">at December 5, 2007</abbr>					</span>
+
+					<span class="entry-category">
+						in <a href="http://dorkbot.org/dorkbotparis/category/events" title="View all posts in events">events</a>.					</span>
+
+					
+					
+									</div> <!-- .entry-meta -->
+			</div> <!-- .entry-head -->
+
+			<div class="entry-content">
+				<p>Dorkbot Paris #7 a eu lieu pendant le festival &#8220;Les mondes hors pistes&#8221; (célébrant les 10 ans de l&#8217;émission Tracks) les 1er et 2 décembre à  Paris. Beaucoup de personnes sont passées nous voir au cours de ces deux jours pour interagir avec les différentes installations, créer leurs propres circuits électroniques improvisés, détourner des objets ou tout simplement discuter&#8230;</p>
+<p>Les détails des installations, objets, ateliers et performances proposées par l&#8217;équipe de Dorkbot Paris pendant ces deux jours est disponible ici :</p>
+<p><a href="http://dorkbot.org/dorkbotparis/editions/dorkbot7">http://dorkbot.org/dorkbotparis/editions/dorkbot7 </a></p>
+<p>Cette page est en cours de construction, nous ajouterons des photos, vidéos, etc. petit à petit. N&#8217;hésitez pas à  nous contacter (dorkbotparis  at dorkbot point org) si vous avez documenté votre passage parmi nous. Pour les utilisateurs de Flickr :  un groupe Dorkbot Paris existe déjà , utilisez le lien présent dans le menu principal du site.</p>
+<p>Merci à tous ceux et celles qui sont passé(e)s par notre &#8220;territoire&#8221; durant tout ce week-end&#8230;</p>
+<p>L&#8217;équipe Dorkbot Paris</p>
+
+							</div> <!-- .entry-content -->
+
+		</div> <!-- #post-ID -->
+
+		
+	
+			
+	
+	<div class="comments">
+
+		<h4><span id="comments">0</span> R&eacute;ponses &agrave; &#8220;Dorkbot Paris #7 : post mortem&#8221;</h4>
+
+		<div class="metalinks">
+			<span class="commentsrsslink"><a href='http://dorkbot.org/dorkbotparis/events/dorkbot7pm/feed'>Feed for this Entry</a></span>
+			<span class="trackbacklink"><a href="http://dorkbot.org/dorkbotparis/events/dorkbot7pm/trackback" title="Copy this URI to trackback this entry.">Trackback Address</a></span>		</div>
+
+		
+	<hr />
+
+				
+				
+		 
+		<ol id="commentlist">
+			<li id="leavecomment">
+				Pas de commentaires			</li>
+		</ol>
+				
+		
+	</div> <!-- END .comments 1 -->
+		
+		
+		<div class="comments">
+		<h4 id="respond" class="reply">Laisser un commentaire</h4>
+		
+		
+			<form action="http://dorkbot.org/dorkbotparis/wp-comments-post.php" method="post" id="commentform">
+
+						
+							<div id="comment-personaldetails">
+					<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" />
+					<label for="author"><strong>Name</strong> (required)</label></p>
+					
+					<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+					<label for="email"><strong>Mail</strong> (will not be published) (required)</label></p>
+					
+					<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+					<label for="url"><strong>Website</strong></label></p>			
+				</div>
+							<!--<p><strong>XHTML:</strong> You can use these tags &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;code&gt; &lt;em&gt; &lt;i&gt; &lt;strike&gt; &lt;strong&gt; :</p>-->
+		
+				<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+		
+								
+				<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit" />
+				<input type="hidden" name="comment_post_ID" value="14" /></p>
+				
+				<div class="clear"></div>
+
+				
+			</form>
+
+				
+			
+	<hr />
+
+	
+	<div class="navigation">
+		<div class="left"><span>&laquo;</span> <a href="http://dorkbot.org/dorkbotparis/events/dorkbot6aucube">Dorkbot Paris #6 - Le Cube, 16/10/2007</a></div>		<div class="right"><a href="http://dorkbot.org/dorkbotparis/events/dorkbotdarkbot-economie-0">Dorkbot/Darkbot Paris #8 - samedi 16 février - Economie 0 / Upgrade! Paris</a> <span>&raquo;</span></div>		<div class="clear"></div>
+	</div>
+
+	
+	<hr />
+	
+	</div> <!-- END .comments #2 -->
+	
+		</div> <!-- #current-content -->
+
+		<div id="dynamic-content"></div>
+	</div> <!-- #primary -->
+
+	<hr />
+<div id="sidebar-main" class="secondary">
+
+		<ul class="languagemenu">
+			<li align="right">
+			<li class=""><a href="/dorkbotparis/events/dorkbot7pm?lang_pref=en">english</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/dorkbotparis/events/dorkbot7pm?lang_pref=fr">français</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>			</li>
+		</ul>
+		
+	
+	
+	
+	
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+</div> <!-- #sidebar-main -->
+
+
+<div class="clear"></div>
+
+</div> <!-- .content -->
+
+	<div class="clear"></div>
+
+</div> <!-- Close Page -->
+
+<hr />
+
+<div id="footer">
+	<p>dorkbot paris == (<a href="http://wordpress.org/" title="Where children sing songs of binary bliss">WordPress 2.2.2</a> + <a href="http://getk2.com/" title="Loves you like a kitten.">K2<!--Beta Two svn--></a>) + data</p>
+		<!-- 32 queries. 6.0370 seconds. -->
+</div>
+
+
+</body>
+</html> 

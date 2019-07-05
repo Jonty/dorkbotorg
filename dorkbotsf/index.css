@@ -1,0 +1,44 @@
+body {
+   background-attachment: fixed;
+   background-color: transparent;
+   background-image: url('power2.jpg');  
+ 
+   scrollbar-face-color:#3134AE; scrollbar-shadow-color: #87CEFA;
+   scrollbar-highlight-color: #87CEFA; scrollbar-3dlight-color: #87CEFA;
+   scrollbar-darkshadow-color:#87CEFA; scrollbar-track-color: #FFFFFF;
+   scrollbar-arrow-color: #87CEFA;
+
+   font-family: verdana,arial;
+   font-size: 8pt;
+   font-color: #FFFFFF;
+
+   p { color: #700D0D }
+}
+
+table { width:90%; 
+        background-color:#CCCCCC; 
+        filter:93; 
+        opacity:1.00; 
+        -moz-opacity:1.00; 
+        border-color:#000033; 
+        border-style:solid; 
+        border-width:4px; 
+} 
+
+table table, td {
+background-color:#CCCCCC;
+border:none;
+border-width:0;}
+.text table tr td p { color: darkblue; }
+
+   div { font-family:verdana,arial,sans-serif; font-size: 8pt; font-color: #FFFFFF}   
+   td { font-family: verdana, arial, sans-serif; font-size: 8pt; color: #3134AE; text-decoration: none}
+
+	a { font-family: verdana,arial,sans-serif; font-size: 8pt; color: #000000;}
+	a:link { font-family: verdana, arial, sans-serif; font-size: 8pt; color: #000000; text-decoration: underline; cursor: hand}
+	a:hover { color: #FA4A04; font-family: verdana,arial,san-serif; font-size: 8pt; cursor: hand}
+	a:active { color: #FF0000; font-family: verdana,arial,san-serif; font-size: 8pt; cursor:hand}
+  
+	h1,h2,h3,h4,h5,h6 { font-family: verdana,arial,helvetica,sans-serif; color: #700D0D}
+ 
+   

@@ -1,0 +1,33 @@
+
+<HTML>
+<HEAD>
+<LINK REL="SHORTCUT ICON" HREF="/icons/mm-icon.png">
+<META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<TITLE>dorkbot.org Mailing Lists</TITLE>
+</HEAD>
+<BODY bgcolor="white">
+
+<table WIDTH="100%" BORDER="0">
+  <tr>
+    <td COLSPAN="2" BGCOLOR="#99ccff"><center><h2>dorkbot.org Mailing Lists</h2></center></td>
+  </tr>
+  <tr>
+    <td COLSPAN="2"><font color="ff5060" size="+1">No such list <em>dorkbot.org</em></font><p>There currently are no publicly-advertised
+            <a href="http://www.gnu.org/software/mailman/index.html">Mailman</a> mailing lists on dorkbot.org. To visit the general information page for an unadvertised list,
+        open a URL similar to this one, but with a '/' and the right
+        list name appended.
+        <p>List administrators, you can visit <a href="http://dorkbot.org/mailman/admin">the list admin overview page</a> to find the management interface for your list.
+         <p>If you are having trouble using the lists, please contact <a href="mailto:mailman@dorkbot.org">mailman@dorkbot.org</a>.<p></td>
+  </tr>
+</table>
+<hr>
+<table WIDTH="100%" BORDER="0">
+  <tr>
+    <td><img src="/icons/mailman.jpg" alt="Delivered by Mailman" border=0><br>version 2.1.5</td>
+    <td><img src="/icons/PythonPowered.png" alt="Python Powered" border=0></td>
+    <td><img src="/icons/gnu-head-tiny.jpg" alt="GNU's Not Unix" border=0></td>
+  </tr>
+</table>
+
+</BODY>
+</HTML>

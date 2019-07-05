@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss version="0.91">
+   <channel>
+
+<title>dorkbot-sf #20: people doing strange things with electricity</title>
+     <link>http://dorkbot.org/dorkbotsf</link>
+     <description>dorkbot: people doing strange things with electricity
+</description>
+     <language>en-us</language>
+
+    <item>
+    <title>dorkbotSF 20 Podcast</title>
+    <enclosure url="http://dorkbot.org/dorkbotsf/archive/podcasts/dorkbot20.mp3" length="56673666" type="audio/mpeg"/>
+    <description><a href="http://dorkbot.org/dorkbotsf/archive/podcasts/dorkbot20.mp3">Podcast of dorkbotSF #20 @ onomy: scott minneman + dale macdonald | jill miller.</a></description>
+    </item>
+</channel>
+</rss>
+

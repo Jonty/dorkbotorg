@@ -1,0 +1,223 @@
+<html>
+<head>
+<link rel="stylesheet"
+href="http://dorkbot.org/dorkbotnyc/dorkbotnyc_styles.css">
+<link rel="shortcut icon" href="/favicon.ico" >
+<title>dorkbot-nyc</title>
+</head>
+<body>
+<a href="http://dorkbot.org" class="header">dorkbot.org</a>-><a 
+href="http://dorkbot.org/dorkbotnyc"class="header">dorkbot-nyc</a>
+<br>
+<a
+href="http://dorkbot.org/dorkbotnyc/about.shtml"
+class="header">about</a> |
+<a 
+href="http://dorkbot.org/dorkbotnyc/previous.shtml" 
+class="header">previous meetings</a> | 
+<a
+href="http://vimeo.com/dorkbot"
+class="header">video archives</a> | 
+<a
+href="http://dorkbot.org/dorkbotnyc/FAQ.shtml"
+class="header">FAQs</a> |
+<a
+href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-lists.shtml" 
+class="header">
+mailing lists</a> | 
+
+<a
+href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-links.shtml" 
+class="header">
+dorky links</a> | 
+<a   
+href="http://dorkbot.org/dorkbotnyc/themes.shtml" class="header">dorkbot 
+theme songs!</a> | 
+<a href="http://location1.org/dorkbot-t-shirts" class="header">dorkbot t-shirts!</a>
+<p>
+
+
+<hr>
+<br><br>
+<center>
+<img src="http://dorkbot.org/dorkbotnyc/blue_green_logo.png" border="0"><br>
+<em>people doing strange things with electricity</em>
+<p>
+</center>
+
+
+<p><br>
+<br>
+
+<a href="http://moonmilk.com" class="link">Ranjit Bhatnagar</a> was kind enough to send his notes
+from the 06 January 2010 meeting:
+
+<pre>
+
+Dorkbot
+
+John saunders nyccnc.com
+Home shop CNC & proto
+
+Small apt, day job
+Entrepeneur, tinkerer
+Cnc shop in little manhaatan apt!
+
+CNC:
+machining- subtraction
+Printing- addition (makerbot shoutout)
+
+Community- nycr shoutout
+
+Online services like ponoko
+
+Why?
+Cool, create, prove & test, impress investors etc, design for manufacture
+Bootstrap
+Knowledge
+Fun
+Help others
+
+Cnc in NYC?
+Size can be trout [I have no idea what i tried to type there that
+iPhone turned into "trout"]
+Noise not so bad, a bit messy
+Shipping can be tricky
+Power consumption!
+
+Shows milled samples including tiny steam engine made in 2 days, rifle
+practice target
+
+Q how much $?  Mill, controller, software
+Sw 300
+Controller + mill? diy 800 to comercial 1500-2000
+Gets metal online, more exp than scrapyard but convenient
+
+Shows pic of workshop in 10x10 bedroom
+
+Learning-
+Online forums etc
+Smartflix for instructional DVDs - they have a hundred on metalworking alone
+
+Q- sw for 3d forms?  Rhino, bobcad, solidworks educational, alibre free...
+Doesn't know opensource but recommends makerbot web site fr open
+source 3d advice (plugs makerbot machine again)
+
+Q- sw for cutting paths - process f going from design to part
+Cad, cam, controller, machining
+
+No complaints from neighbors!
+
+Cutting correctly is quieter than wrong (too slow or too fast!)
+
+Consumable tooling- imported end mills cost about $3 and last hours
+Always wear goggles
+
+Q/ how does he market his services
+- doesn't - friends of friends
+
+Hired a mech engineer to help with rifle target - designing for
+efficiency is satisfying
+
+Tight tolerances are easy - gets 2 thousandths
+Mill weighs about 125 lbs
+
+
+
+SP Weather Station
+spweatherstation.net
+Natalie Campbell w Heidi neilsen
+Rooftop weather station in long island city (flux factory), weather
+reports, guest lectures, and art
+How people relate to data and to environment
+Amateur weather net founded by ham radio people
+Developing homemade instruments to supplement commercial ones
+
+Weather Reports: portfolio exchange (like APA)
+Inspired by qsl cards - exchanging paper records
+Wind direction drawings - doodled by wind with human assistnce!
+Shows lots of interesting data-based and weather-inspired visual art
+
+Other projects-
+Forum/fan club/community & participation
+Bake sale with air quality marshmallows!
+Research other artists' representationof clouds weather etc
+Interest in old and new weather and data reporting technologies
+Old weather predicting devce used leeches who get agitated in bad
+weather and trip triggers to ring bells. Turned out to work ok!
+
+Dan- working with heidi to reconstruct- deconstruct the leech Tempest
+Prognosticator
+Physicist at Albert einstein college of medicine
+Designs instruments- art weather instruments are fun
+Shows corcuits for low low voltage measurement transmission over long
+wires for weather installs
+... To simple servo for cheap plotter
+
+Proposed modern prognosticator uses accelerometer to detect leech
+agitation, filter data from multiple leeches and send Twitter or email
+etc
+At whitby museum Yorkshire
+
+Weather chnnel web site etc get lots of data from personal weather stations
+
+
+
+Plotters!
+Chiplotle.org
+
+Pen plotters in use long before computers
+XY plotter - like turtle graphics!
+Examples of 1960's plotter art (not a lot- plotters expensive in early days)
+Cheap inkjets killed plotters mostly
+
+Plotters have more interesting physical interactions with paper, ink
+mixing, etc compared to inkjet raster
+Can use variety of pens, pencils, papers...
+
+Types: xy plotter, x-plotter with paper feed,
+
+They've collected 15 plotters so far
+Go on eBay before they get to be valuable collector items!
+
+Vertical x-y is handy for less desk space eg dxy1300
+Paper-movers are faster than xy
+Xy handles wider variety of materials
+
+Can get expired old pens on eBay, sometimes they stll work or you can refill em
+
+Get serial connection, avoid HP-IB or parallel connection
+
+Most Roland and hp plotters take interchangable standard pens, can buy
+adapters- pens are disposable but can be refilled
+
+
+Recommended search on eBay :
+Pen plotter -vinyl -ceramic -fiber -holder -pencil -lead -disposable
+-black -blue -red -green
+
+Old plotters come with ancient driver software
+Chiplotle is contemporary plotter controk software - libraries for hpgl
+Hpgl is simple text based control lang but more pleasant to use
+chiplotle in python
+Free & open source, knows lots of plotters, handles limited buffer sizes etc
+Represents plotter as object w methods
+
+Demo of interactive plotting in python command line
+
+Can convert from other vector formats  like eps or pass thru a raw hpgl file
+
+Typewriter simulator! Plotters usually have built-in fonts
+
+</pre>
+
+<p><br>
+<hr>
+<font size="-2">
+all materials on this website copyright 2000-2010 douglas irving repetto 
+and the individual artists
+</font>
+</body></html>
+
+
+

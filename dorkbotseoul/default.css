@@ -1,0 +1,210 @@
+div#placeholder
+{
+
+	position : relative;
+	top: 300 px;
+
+}
+
+div#menubar
+{
+	position : relative;
+	top : 0px;
+	height: 40px;
+	margin-bottom: 7px;
+        background: #808080;
+        border: 1px solid #777;
+        padding: 10px;
+        padding-top: 7px;
+        padding-bottom: 0px; 
+}
+
+div#blog_button a:hover  
+{
+        background-color: #666;
+
+}
+
+
+div#blog_button a
+{
+
+	float:left;
+        position:absolute;
+        width: 30px;
+        height: 29px;
+	left: 650px;
+	top: 10px;
+	border: 1px solid #ccc;
+        padding: 10px;
+	padding-top: 7px;
+        padding-bottom: 0px;
+	margin-bottom: 7px;
+        background: #000;	
+	 color: #fff;
+      display: block;
+
+}
+
+div#mail_button a:hover  
+{
+        background-color: #666;
+
+}
+
+
+div#mail_button a
+{
+
+        float:left;
+        position:absolute;
+        width: 50px;
+        height: 29px;
+        left: 702px;                                                             
+        top: 10px;
+	border: 1px solid #ccc;
+        padding: 10px;
+        padding-top: 7px;
+        padding-bottom: 0px;
+        margin-bottom: 7px;
+        background: #000;
+	 color: #fff;
+      display: block;
+
+}
+
+div#about_button a:hover  
+{
+        background-color: #666;
+
+}
+
+
+div#about_button a
+{
+        
+        float:left;
+        position:absolute;
+        width: 40px;
+        height: 29px;
+        left: 774px;
+        top: 10px;
+	border: 1px solid #ccc;
+        padding: 10px;
+        padding-top: 7px;
+        padding-bottom: 0px;
+        margin-bottom: 7px;
+        background: #000;
+	 color: #fff;
+      display: block;
+
+}
+
+div#contact_button a:hover  
+{
+        background-color: #666;
+
+}
+
+
+div#contact_button a
+{
+
+        float:left;
+        position:absolute;
+        width: 60px;
+        height: 29px;
+        left: 836px;
+        top: 10px;
+	border: 1px solid #ccc;
+        padding: 10px;
+        padding-top: 7px;
+        padding-bottom: 0px;
+        margin-bottom: 7px;
+        background: #000;
+ color: #fff;
+      display: block;
+
+}
+
+div#wiki_button a:hover
+{
+	background-color: #666;
+	
+}
+
+div#wiki_button a
+{
+
+        float:left;
+        position:absolute;
+        width: 30px;
+        height: 29px;
+        left: 918px;
+        top: 10px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        padding-top: 7px;
+        padding-bottom: 0px;
+        margin-bottom: 7px;
+        background: #000;
+ 	color: #fff;
+        display: block;
+}
+
+
+div#systemWorking
+{
+
+	float:right;
+        position:absolute;
+        width: auto;
+        height: auto;
+        right: 0px;
+        top: 0px;
+	border: 1px solid #ccc;
+        padding: 2px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        background: #000;
+
+}
+
+
+div.header
+{       
+
+        font-family: "Lucida Grande", Verdana, Arial, Sans-Serif;
+        font-size: 10px;
+        color: #fff;
+        font-weight: normal;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        margin-left: 1px;
+        margin-right: 1px;
+}
+
+div.bannerTitle
+{
+	width: 600px;
+        font-family: "Lucida Grande", Verdana, Arial, Sans-Serif;
+        font-size: 18px;
+        color: #fff;
+        font-weight: normal;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        margin-left: 1px;
+        margin-right: 1px;
+}
+
+#container p {
+	
+	position: relative;
+	left: 100px;
+	top: 30px;
+	text-align: left;
+	font: 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	width: 700px;
+	color: #808080;
+}

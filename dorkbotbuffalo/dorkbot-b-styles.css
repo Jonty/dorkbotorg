@@ -1,0 +1,157 @@
+body{
+color: #191919;
+//color: #333333;	
+//font-family: "Arial Narrow", Arial, Helvetica, sans-serif;
+font-family: Arial, Helvetica, sans-serif;
+
+font-size: .9em;	
+padding: 0px;
+margin-left: 10px;
+
+margin-top: 0px;
+//background-color:#FF66FF;
+background-color: #FF3333;
+
+}
+
+p{
+//font-size: .5em;	
+}
+
+a:link {color: #ffcc33}     /* unvisited link */
+a:visited {color: #ffcc33}  /* visited link */
+a:hover {color: #191919; text-decoration:none;}   /* mouse over link */
+a:active {color: #191919; text-decoration:none;}   /* selected link */
+
+.img-link{
+	//border: solid green 10px; 
+	border-style: none; 
+}
+
+a.nav-link:link {color: #ffcc33; text-decoration:none;}     /* unvisited link */
+a.nav-link:visited {color: #ffcc33; text-decoration:none;}  /* visited link */
+a.nav-link:hover {color: #191919; text-decoration:none;}   /* mouse over link */
+a.nav-link:active {color: #191919; text-decoration:none;}   /* selected link */
+
+
+//OLD #FF33FF
+
+
+
+a img { 
+	border-style: none; 
+	//border: solid green 10px; 
+	//border-width: 0px;
+	} 
+
+
+
+
+#site-nav{
+	padding:0;
+	margin:0;
+	list-style-type: square;
+//margin-left: 100px;
+font-size: 2em;
+}
+
+.site-nav{
+	padding-right:.4em;
+	display: inline;
+}
+
+
+h2{
+	font-size: 1em;
+	padding: 0px;	
+}
+
+
+h3{
+font-weight: bold;
+font-size: 3em;	
+margin-bottom:0px;	
+}
+
+
+#title-wrapper{
+padding-top: 2em;	
+}
+
+.title{
+
+		font-weight:normal;
+		font-size:7em;
+	line-height:64%;
+		letter-spacing:1px;
+		margin-left: -.05em;
+		padding: 0px;;
+}		
+	
+
+h1{
+	
+	border-bottom:none;font-weight:normal;font-size:3em;line-height:64%;letter-spacing:1px;text-transform:uppercase;
+	margin-bottom: 5px;
+}
+
+
+.headline{
+	font-weight: bold;
+	padding-left: 8px;
+	padding-right: 4px;
+	margin-left: -8px;
+}	
+
+
+.logo{
+	margin-top: -2px;
+	//padding: 4px;
+	margin-bottom: 12px;
+	
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color: #f3c826;	
+		padding-left: 6px;
+	padding-bottom: 0px;
+	
+}	
+
+.item{
+	//background-color: #f3c826;
+
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color: #f3c826;	
+		margin-top: 12px;
+	padding-left: 6px;
+	padding-bottom: 2px;
+
+
+	
+	width: 588px;
+
+}
+
+hr{
+width: 640px;
+margin-top: 2px;	
+margin-bottom: 2px;	
+//background-color: #FFDE20;	
+//color: #FFDE20;
+background-color: #f3c826;	
+color: #f3c826;
+border: 0px;
+height: 2px;
+margin-left:100px;
+}
+
+
+
+.content{
+
+width: 550px;	
+margin-left:100px;
+padding: 2px;
+
+}

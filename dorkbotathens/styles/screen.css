@@ -1,0 +1,8 @@
+* { margin: 0; padding: 0; list-style: none; text-decoration: none; }
+body { margin: 25px; background: #000; font: normal 10px Verdana, Sans-serif; text-align: center; }
+#container { width: 300px; background: url("../images/container.png"); margin-left: auto; margin-right: auto; text-align: left; }
+#footer { padding: 25px 0 35px 0; background: url("../images/bottom.png") 0 100% no-repeat; text-align: center; }
+h1 { font: normal 64px Georgia, Sans-serif; padding: 35px 0 0 35px; background: url("../images/top.png") repeat-x; }
+h2 { font: bold 11px Tahoma, Sans-serif; letter-spacing: 0.95px; padding: 0 0 0 42px; }
+h3 { margin: 10px 0 0 20px; padding: 0 0 3px 9px; border-left: 10px solid #000; }
+p { padding: 0 40px 0 40px; }

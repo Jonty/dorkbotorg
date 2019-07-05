@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+ <head>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <meta name="description" content="persone che fanno cose strane con l'elettricità, people doing strange things with electricity" />
+ <meta name="keywords" content="Online Zone Journals, OZJournals, Open Source Blog Software, PHP Script" />
+ <meta name="author" content="DN2" />
+ <title> DORKBOTBRESCIA | FAQ </title>
+ <style type="text/css">
+ <!--
+ @import url("themes/default/zitemplate00.css");
+ -->
+ </style>
+ </head>
+ 
+ <body>
+ <div id="container">
+ <!-- header -->
+ <div id="header">
+ <a href="index.php"><h1> DORKBOTBRESCIA </h1></a><p class="slogan"> persone che fanno cose strane con l'elettricità </p>
+
+ </div>
+ <!-- main menu -->
+ <div id="mainmenu">
+ <ul>
+ <li><a href="index.php">Home</a></li> 
+<li><a href="index.php?show=pages&f=1">info</a></li> 
+<li><a href="index.php?show=pages&f=2">obbiettivi</a></li> 
+<li><a href="index.php?show=pages&f=3">organizzazione</a></li> 
+<li><a href="index.php?show=pages&f=4">chi</a></li> 
+<li><a href="index.php?show=pages&f=5">FAQ</a></li> 
+<li><a href="index.php?show=pages&f=6">mailing list</a></li> 
+<li><a href="index.php?show=archives&p=main">Archives</a></li> 
+<li><a href="index.php?show=signin">Sign In</a></li> 
+
+ </ul>
+ </div>
+ <!-- content area -->
+ <div id="content">
+ <table>
+ <tr>
+ <td width="200" valign="top">
+ 
+
+ <h4> Categories </h4>
+No categories.<br />
+
+ <h4> Monthly Archives </h4>
+<ul><li><a href="index.php?show=archives&y=2009&m=April">April 2009</a></li>
+</ul>
+ <h4> Miscellaneous </h4>
+<ul>
+<li><a href="index.php?show=rss">Subscribe to RSS</a></li>
+<li><a href="javascript: window.print();">Print this Page</a></li>
+<li><a href="javascript: window.external.AddFavorite(location.href,document.title);">Add to Favorites</a></li>
+</ul>
+ 
+ 
+ </td>
+ <td width="560" valign="top"><h3>FAQ</h3>
+<h5>Posted by <a href="mailto:davide.anni@laba.edu">DN2</a> on Sunday, April 12, 2009 08:59 pm </h5>
+<p> <p align="justify"><em>Frequently Asked Questions</em></p><p align="justify"><strong>Domanda Vengo pagato per partecipare come relatore a Dorkbot-Brescia?</strong></p><p align="justify"><strong>Risposta </strong>Dorkbot-Brescia ha un orientamento non profit; le conoscenze gli spazi e i mezzi vengono messe a disposizione in modo libero;</p><div align="justify"><dl><dt><strong>D Devo iscrivermi a qualcosa per partecipare a dorkbot?</strong></dt><dt>&nbsp;</dt><dt><strong>R</strong> No. Dorkbot &egrave; gratuito-libero ed aperto al pubblico. Non ci sono tessere, iscrizioni n&eacute; soldi da versare. Anche se portare cibo o bevande per il buffet &egrave; sempre una buona idea.</dt></dl><dl><dt><strong>D Vorrei presentare qualcosa a dorkbot-Brescia il mio progetto va bene? Che stile/genere/scenario &egrave; pi&ugrave; interessante?</strong></dt><dd>     <br /></dd><dt><strong>R</strong> Dorkbot-Brescia cerca di essere il pi&ugrave; possibile neutrale riguardo alla provenienza dei progetti. L&#39;unico elemento comune &egrave; l&#39;uso della tecnologia (elettricit&agrave;)</dt><dd>     <br /></dd><dt><strong>D E se volessi solo far vedere un&#39;opera/progetto che ho realizzato?</strong></dt><dd>     <br /></dd><dt><strong>R</strong> Brevi demo/performance saranno apprezzate, ma dorkbot non &egrave; il posto giusto per presentare lunghe performance d&#39;arte, lungometraggi e affini.</dt><dd>     <br /></dd><dt><strong>D Sono un giornalista posso presentarmi ad una riunione e scrivere un articolo su dorkbot o una delle presentazioni?</strong></dt><dd>     <br /></dd><dt><strong>R</strong> S&igrave;. Le riunioni di dorkbot sono aperte a tutti. Dovete per&ograve; chiedere il permesso a chi presenta di registrare il loro lavoro e il permesso di poterlo pubblicare! Se avete registatori o videocamere, dovete assolutemente chiedere il permesso ai presentatori. Dorkbot &egrave; un luogo informale, disponibile, amichevole e di incontro, il disturbo di questo libero scambio di idee non &egrave; accettato. </dt><dd>     <br /></dd><dt><strong>D Perch&eacute; organizzate sempre le rinuioni nei giorni in cui sono occupato/a?</strong></dt><dd>     <br /></dd><dt><strong>R</strong> Ci spiace che tu non possa partecipare. Accontentare tutti &egrave; purtroppo impossibile.</dt><dd>     <br /></dd><dt><strong>D Cosa significa il nome Dorkbot?.</strong></dt><dd>     <br /></dd><dt><strong>R</strong> Nulla.</dt></dl></div><p align="justify">&nbsp;</p> </p>
+
+</td>
+ </tr>
+ </table>
+ </div>
+ <!-- content area -->
+ <div id="footer">
+ <em>CC License <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">DORKBOTBRESCIA by DN2<br />
+http://dorkbot.org/dorkbotbsa<br />
+
+ </div>
+ </div>
+ </body>
+ </html>

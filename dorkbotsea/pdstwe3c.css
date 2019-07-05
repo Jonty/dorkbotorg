@@ -1,0 +1,618 @@
+body
+{
+	background-color: #ade;
+	padding: 0px;
+	margin: 0px;
+}
+
+a, a:link, a:visited
+{
+	text-decoration: none;
+}
+
+a:hover, a:active
+{
+	text-decoration: underline;
+}
+
+div.maincontainer
+{
+	width: 673px;
+	height: 1040px;
+	background-color: #a6dae8;
+	border: 3px solid #c6c3bf;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 5;
+}
+
+div.largeimage
+{
+	margin-left: auto;
+	padding: 0;
+	border: 0;
+}
+
+div.navbar
+{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 30px;
+	border: 0;
+	width: 648px;
+	height: 85px;
+	z-index: 10;
+	padding: 0;
+}
+
+div.nav_img
+{
+	width: 102px;
+	float: left;
+	clear: left;
+	margin-right: 14px;
+	margin-left: 13px;
+	z-index: 11;
+}
+
+div.nav_text
+{
+	width: 230px;
+	clear: none;
+	float: left;
+	z-index: 12;
+}
+
+div.nav_links
+{
+	width: 263px;
+	margin-left: 14px;
+	margin-right: 7px;
+	clear: none;
+	float: right;
+	padding-top: 7px;
+	z-index: 13;
+}
+
+div.nav_links p
+{
+	text-align: justify;
+	padding: 0;
+	margin: 0;
+	word-spacing: 4px;
+}
+
+div.navbar, div.navbar a
+{
+	color: #dc7731;
+	font-weight: bold;
+	font-family: "Pastelaria", "Eurostile", Verdana, Arial, Helvetica, Helv, sans-serif;
+	font-size: 10pt;
+}
+
+span.header, span.header a
+{
+	line-height: 120%;
+	font-size: 21pt;
+	padding-left: 0;
+	margin-left: 0;
+}
+
+span.subhead
+{
+	line-height: 120%;
+	font-style: italic;
+}
+
+div.left_text
+{
+	position: absolute;
+	margin-left: auto;
+	padding-left: 20px;
+	top: 398px;
+	width: 211px;
+	height: 450px;
+	clear: none;
+	z-index: 50;
+}
+
+div.left_text, div.left_text p
+{
+	font-family: Eurostile, Arial, Helvetica, Helv, cursive;
+	font-weight: bold;
+	font-size: 15pt;
+	color: #686A69;	
+}
+
+div.left_text a, div.left_text a, div.left_text a:link, div.left_text a:visited
+{
+	text-decoration: none;
+	color: #686A69;
+}
+
+div.left_text a:hover, div.left_text a:active
+{
+	text-decoration: underline;
+	color: #686A69;
+}
+
+div.bottomright
+{
+	float: right;
+	clear: right;
+	position: absolute;
+	height: 110px;
+	width: 673px;
+	margin-right: auto;
+	text-align: right;
+	top: 928px;
+	z-index: 25;
+}
+
+div.smallimage
+{
+	margin-left: auto;
+	padding: 0;
+	border: 0;
+	padding-top: 44px;
+	padding-left: 31px;
+	z-index: 30;
+}
+
+div.secondaryheader
+{
+	position: absolute;
+	margin-left: auto;
+	width: 673px;
+	top: 218px;
+	padding-left: 374px;
+	z-index: 30;
+}
+
+h1, div.secondaryheader h1, h1 a, div.secondaryheader h1 a
+{
+	font-family: "Little Days", "French Script MT", "Lucida Calligraphy", Arial, Helvetica, Helv, cursive;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 26pt;
+	color: #dc7731;
+	padding: 0;
+	margin: 0;
+}
+
+div.textcontainer
+{
+	width: 603px;
+	margin-left: auto;
+	margin-left: 34px;
+	margin-right: 34px;
+}
+
+div.leftcolumn, div.rightcolumn
+{
+	padding: 0px;
+	width: 263px;
+	color: #686A69;
+	font-family: Eurostile, Arial, Helvetica, Helv, cursive;
+	font-weight: normal;
+	font-size: 16pt;
+}
+
+div.leftcolumn a, div.rightcolumn a
+{
+	color: #686A69;
+}
+
+div.leftcolumn p
+{
+	line-height: 120%;
+}
+
+div.rightcolumn p
+{
+	line-height: 120%;
+}
+
+div.leftcolumn
+{
+	margin-left: 0px;
+	margin-right: 38px;
+	clear: none;
+	float: left;
+	text-align: right;
+}
+
+div.rightcolumn
+{
+	margin-left: 38px;
+	margin-right: 0px;
+	clear: right;
+	float: right;
+	text-align: left;
+}
+
+div.onecolumn
+{
+	margin-left: 26px;
+	margin-right: 26px;
+	padding: 26px;
+	z-index: 75;
+}
+
+div.onecolumn p
+{
+	padding-top: 4px;
+	text-align: justify;
+	font-family: Eurostile, Arial, Helvetica, Helv, sans-serif;
+	color: #686A69;
+	font-size: 13pt;
+}
+
+div.onecolumn ol, div.onecolumn ul
+{
+	text-align: justify;
+	font-family: Eurostile, Arial, Helvetica, Helv, sans-serif;
+	color: #686A69;
+}
+
+div.onecolumn li
+{
+	font-size: 11pt;
+	margin-bottom: 0.5ex;
+}
+
+div.onecolumn a
+{
+	font-family: Eurostile, Arial, Helvetica, Helv, sans-serif;
+	color: #369;
+	font-size: 13pt;
+}
+
+div.onecolumn div.image
+{
+	text-align: center;
+	margin: 13px;
+	border: 0;
+}
+
+div.image img
+{
+	border: 1px solid #686A69;
+	padding: 0;
+}
+
+em, div.onecolumn em
+{
+	font-family: "Little Days", "French Script MT", "Lucida Calligraphy", Verdana, Arial, Helvetica, Helv, cursive;
+	font-size: 20pt;
+	color: #dc7731;	
+	text-transform: lowercase;
+	font-style: normal;
+	padding-right: 13px;
+	padding-bottom: 0;
+	line-height: 12px;
+}
+
+strong, div.onecolumn strong
+{
+	font-family: "Little Days", "French Script MT", "Lucida Calligraphy", Pastelaria, Eurostile, Arial, Helvetica, Helv, cursive;
+	color: #dc7731;	
+	font-size: 18pt;
+}
+
+div.floatleft, div.floatright
+{
+	width: 215px;
+	padding: 0;
+	z-index: 75;
+}
+
+div.floatleft a em, div.floatright a em
+{
+	padding-right: 0;
+}
+
+div.floatleft
+{
+	margin-right: 12px;
+	clear: none;
+	float: left;
+	text-align: right;
+}
+
+div.floatright
+{
+	margin-left: 12px;
+	clear: none;
+	float: right;
+	text-align: left;
+}
+
+div.calendartable
+{
+	padding: 50px;
+}
+
+h2, div.calendartable h2
+{
+	font-family: "Little Days", "French Script MT", "Lucida Calligraphy", Arial, Helvetica, Helv, cursive;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 26pt;
+	color: #dc7731;
+	padding-left: 1ex;
+	padding-top: 10px;
+	margin: 0;	
+}
+
+h3, div.calendartable h3
+{
+	font-family: "Little Days", "Lucida Calligraphy", "Eurostile", Arial, Helvetica, Helv, cursive;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 20pt;
+	color: #dc7731;
+	padding: 0;
+	margin: 0;	
+	text-align: center;
+}
+
+div.calendartable table
+{
+	border: 1px solid #c6c3bf;	
+	width: 100%;
+	margin-bottom: 30px;
+	padding: 0;
+	background-color: #bcd;
+}
+
+div.calendartable table th
+{
+	font-family: "Little Days", "Lucida Calligraphy", Arial, Helvetica, Helv, cursive;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 20pt;
+	color: #686A69;
+	padding: 2px;
+	margin: 0;	
+	text-align: center;
+	border: none;
+	width: 14%;
+	background-color: #ade;
+}
+
+div.calendartable table td
+{
+	border: none;
+	width: 14%;
+	color: #686A69;
+	font-family: "Pastelaria", "Eurostile", Verdana, Arial, Helvetica, Helv, sans-serif;
+	padding: 2px;
+	margin: 0;
+	vertical-align: top;
+	text-align: center;
+	background-color: #ade;
+}
+
+div.calendartable p
+{
+	color: #686A69;
+	font-family: "Pastelaria", "Eurostile", Verdana, Arial, Helvetica, Helv, sans-serif;	
+}
+
+div.calendartable a
+{
+	color: #36a;
+}
+
+img.logo911
+{
+	float: left;
+	padding-right: 20px;
+	vertical-align: middle;
+}
+
+img.logodasein
+{
+	float: right;
+	margin-left: 95px;
+	vertical-align: middle;
+}
+
+div.imageblock
+{
+	margin-left: 17px;
+	text-align: center;
+}
+
+div.imageblock img
+{
+	margin-right: 17px;
+	margin-bottom: 17px;
+	vertical-align: middle;
+	border: 3px double #dc7731;
+}
+
+.nodisplay
+{
+	display: none;
+}
+
+@media print
+{
+	.noprint, .navbar, .floatleft, .floatright, div.image, .bottomright
+	{
+		display: none;
+	}
+
+	div.onecolumn p a:link:after, div.onecolumn p a:visited:after, div.onecolumn p a:after, div.onecolumn li a:link:after, div.onecolumn li a:visited:after, div.onecolumn li a:after
+	{
+   		content: " [" attr(href) "] ";
+   		font-size: 80%;
+   	}
+   	
+   	div.left_text p a:link:after, div.left_text p a:visited:after, div.left_text p a:after, div.leftcolumn p a:link:after, div.leftcolumn p a:visited:after, div.leftcolumn p a:after, div.rightcolumn p a:link:after, div.rightcolumn p a:visited:after, div.rightcolumn p a:after
+   	{
+   		content: "";
+   	}
+   	
+   	img
+   	{
+   		page-break-inside: avoid !important;
+   	}
+	
+	body
+	{
+		padding: 0px;
+		margin: 0px;
+	}
+	
+	a, a:link, a:visited, a:hover, a:active
+	{
+		text-decoration: none;
+		color: #686A69;
+	}
+	
+	div.maincontainer
+	{
+		width: 673px;
+		height: 100% !important;
+		background-color: #ade;
+		border: 3px solid #c6c3bf;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding: 0px;
+	}
+	
+	div.largeimage
+	{
+		margin-left: auto;
+		padding: 0;
+		border: 0;
+		height: 100%;
+		margin-top: -60px;
+		clip: rect(60px, 0px, 0px, 0px);
+	}
+	
+	div.left_text
+	{
+		top: 350px;
+	}
+	
+	div.smallimage
+	{
+		padding-top: 0px;
+		padding-left: 65px;
+	}
+	
+	div.secondaryheader
+	{
+		position: absolute;
+		margin-left: auto;
+		width: 673px;
+		top: 180px;
+		padding-left: 360px;
+	}
+	
+	h1, div.secondaryheader h1, h1 a, div.secondaryheader h1 a
+	{
+		font-size: 20pt;
+		color: #dc7731;
+	}
+	
+	div.textcontainer
+	{
+		width: 90%;
+	}
+	
+	div.leftcolumn, div.rightcolumn
+	{
+		font-size: 14pt;
+	}
+	
+	div.leftcolumn p
+	{
+		line-height: 100%;
+	}
+	
+	div.rightcolumn p
+	{
+		line-height: 100%;
+	}
+	
+	div.onecolumn
+	{
+		margin-left: 10px;
+		margin-right: 10px;
+		padding: 10px;
+	}
+	
+	div.onecolumn p
+	{
+		padding-top: 1px;
+		text-align: justify;
+		font-family: Eurostile, Arial, Helvetica, Helv, sans-serif;
+		color: #686A69;
+		font-size: 11pt;
+	}
+	
+	div.onecolumn ol, div.onecolumn ul
+	{
+		text-align: justify;
+		font-family: Eurostile, Arial, Helvetica, Helv, sans-serif;
+		color: #686A69;
+	}
+	
+	div.onecolumn li
+	{
+		font-size: 10pt;
+		margin-bottom: 0.5ex;
+	}
+	
+	div.onecolumn a
+	{
+		font-family: Eurostile, Arial, Helvetica, Helv, sans-serif;
+		color: #369;
+		font-size: 11pt;
+	}
+	
+	div.onecolumn div.image
+	{
+		text-align: center;
+		margin: 10px;
+		border: 0;
+	}
+	
+	div.image img
+	{
+		border: 1px solid #686A69;
+		padding: 0;
+	}
+	
+	em, div.onecolumn em
+	{
+		font-size: 16pt;
+	}
+	
+	strong, div.onecolumn strong
+	{
+		font-size: 14pt;
+	}
+	
+	div.imageblock
+	{
+		margin-left: 10px;
+		text-align: center;
+	}
+	
+	div.imageblock img
+	{
+		margin-right: 10px;
+		margin-bottom: 10px;
+		vertical-align: middle;
+		border: 1px solid #dc7731;
+	}
+}

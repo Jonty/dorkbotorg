@@ -1,0 +1,223 @@
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td {
+margin: 0;
+padding: 0;
+}
+h1,h2,h3,h4,h5,h6 {
+}
+ol,ul {
+list-style: none;
+}
+address, caption, cite, code, dfn, em, th, var {
+	font-size: 10px;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+fieldset,img {
+border: 0;
+}
+caption,th {
+text-align: left;
+}
+q:before, q:after {
+	content: '';}
+
+#homebody {
+	text-align: left;
+	width: 916px;
+	padding-top: 200px;}
+#wrapper {
+	width: 916px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;}
+#header {
+	margin: 20px 0;
+	height: 150px;}
+body {
+	margin: 0 auto;
+	padding: 0;
+	font-family: Arial, Helvetica, 微软雅黑, sans-serif;
+        font-size:11px;
+	text-align:center;}
+.description {}
+#header img {border: 0px solid #bebebe; float: left;}
+#footer {}
+
+
+p {line-height: 140%; padding: 1em 0 .5em 0;}
+strong {font-weight: bold;}
+h2 { font-size: 14px; padding-top: 10px; }
+h3 {
+font-size: 18px;
+padding-top: 10px;
+text-transform: none;
+}
+
+
+#sidebar {
+	text-align: left;
+	position: absolute;
+	top: 170px;
+	width: 200px;
+	padding-bottom: 25px;}
+#sidebar h1 {font-weight: bold; color: black;font-size:20px;}
+#sidebar h3 {font-weight: normal; color: black;font-size:11px;}
+#sidebar a {text-decoration: none;}
+#sidebar p a { text-decoration: none;}
+#sidebar h1 a { color: black; font-weight: bold; text-decoration: none;font-size:20px;}
+
+
+
+a:link, a:visited { font-weight: bold; text-decoration: none; color: black;}
+a:hover {  color: #85ff00; text-decoration: none;}
+a:link.subscribe, a:visited.subscribe {font-weight: bold; text-decoration: none;}
+a:hover.subscribe  {text-decoration: none;}
+
+.cat a:link, .cat a:visited{font-weight: bold; text-decoration: none;}
+.cat a:hover{text-decoration: none;}
+
+
+
+ul {padding-bottom: 0em;}
+ul.related li a{font-weight: bold; display: block;}
+ul.related li {display: block;}
+ul.archive li{padding-left: 0; padding-bottom: 0em; padding-right: 0; padding-top: 0; display: block;}
+ul.archive p {
+display: block; padding: 0;}
+ul.archive li p {padding-left: 0; padding-bottom: 0em; padding-right: 0; padding-top: 0em;}
+ul.archive {margin: 0; padding:0;}
+
+p.postmetadata {
+margin: 10px 0 25px;
+}
+
+.post li a { }
+.post li p {display: inline;}
+.post li {display: inline;}
+.post li {display: block;}
+.post {
+	text-align: left;
+	margin-left: 0px;
+	width: 336px;
+	position: absolute;
+	top: 170px;
+	padding-bottom: 25px;}
+.post img {
+	border-width: 0px;
+	border-style: solid;
+	max-width: 330px;
+	padding: 2px;}
+.post-image {border-width: 0px; border-style: solid; width: 45px; height: 45px;content: uri('images/m.jpg');}
+.post p:first-child { padding-top: 0;font-size: 16px;line-height:100%;font-weight: bold;}
+.post blockquote { font-size: 11px; border-left-width: 5px; border-left: solid silver; margin: 1.2em 0 1.2em 2em; padding-left: 1em;}
+.post blockquote p:first-child { padding-top: 0;font-size:11px;line-height:100%;font-weight: normal;}
+
+.cat {text-transform: uppercase;}
+
+.normal {}
+.navigation {
+margin: 0 0 1em;
+}
+.center {text-align: center;}
+.borderless img, img.borderless {border: none;}
+.imgleft {float:left;}
+em {font-style: italic;}
+.alignleft {float: left;}
+.alignright {float: right;}
+/* @end */
+/* @group Comments */
+div.bubble {
+width: auto;
+margin-bottom: 24px;
+}
+div.bubble blockquote {
+margin: 0px;
+padding: 10px;
+border: 1px solid #c9c2c1;}
+div.bubble blockquote p {
+margin: 0px;
+padding: 0px;
+}
+div.bubble cite {
+position: relative;
+margin: -7px;
+padding: 7px 0px 10px 15px;
+top: 5px;
+background: transparent url('images/tip.gif') no-repeat 20px 0;
+display: block;
+}
+.alt {
+margin: 0;
+padding: 0;
+}
+#commentform p {
+padding: 5px 0;
+;
+}
+#comment {
+width: 336px;
+height: 100px;
+}
+.nocomments {
+text-align: center;
+margin: 0;
+padding: 0;
+}
+.commentmetadata {
+margin: 0;
+display: block;
+}
+#commentPreview {
+}
+/* @end */
+/* @group Calendar */
+#wp-calendar {
+empty-cells: show;
+margin: 10px auto 0;
+width: 125px;
+}
+#wp-calendar #next a {
+padding-right: 10px;
+text-align: right;
+}
+#wp-calendar #prev a {
+padding-left: 10px;
+text-align: left;
+}
+#wp-calendar a {
+display: block;
+}
+#wp-calendar caption {
+text-align: center;
+width: 100%;
+}
+#wp-calendar td {
+padding: 3px 0;
+text-align: center;
+}
+#wp-calendar td.pad:hover { /* Doesn't work in IE */
+ }
+#wp-calendar #prev a, #wp-calendar #next a {
+}
+#wp-calendar a {
+font-weight: bold;
+text-decoration: none;
+}
+#wp-calendar caption {
+text-align: center;
+}
+#wp-calendar th {
+text-transform: none;
+}
+
+
+
+#search_form {
+width: 15px;}
+.search_input {
+width: 5px;}
+/*Theme Name: Upstart Blogger Modicus 2-Column
+Author: <a href="http://upstartblogger.com/">Upstart Blogger</a>*/
+/* @end */

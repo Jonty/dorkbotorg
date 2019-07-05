@@ -1,0 +1,28 @@
+body { margin-top: 0px; margin-left: 0px; margin-right: 0px; background-color:#8BD3E5; } 
+
+p { font-family: verdana, arial, sans-serif; font-size:11px; color:#000000; line-height:18px; text-align:justify; }
+p.links { font-family: verdana, arial, sans-serif; font-size:11px; color:#FF7F00; line-height:18px; } 
+
+A { color: #FF7F00; text-decoration: none; } 
+A:link { color: #FF7F00; text-decoration: none; } 
+A:visited { color: #FF7F00; text-decoration: none; } 
+A:active { color: #FF7F00; } 
+A:hover { color: #000000; } 
+
+td.body { padding:20px;} 
+
+font.list { font-family: verdana, arial, sans-serif; font-size: 11px; color: #000000; line-height:18px; text-align:justify; } 
+font.italic { font-family: verdana, arial, sans-serif; font-size: 12px; color: #000000; line-height:18px; text-align:justify; }
+font.header { font-family: verdana, arial, sans-serif; font-size: 20px; color: #000000; line-height:24px; } 
+
+<!--
+BODY {
+SCROLLBAR-FACE-COLOR: #000000;
+SCROLLBAR-HIGHLIGHT-COLOR: #FFFAFA;
+SCROLLBAR-SHADOW-COLOR: #D3D3D3;
+SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;
+SCROLLBAR-ARROW-COLOR:  #000000;
+SCROLLBAR-TRACK-COLOR: #FFFFFF;
+SCROLLBAR-DARKSHADOW-COLOR: #F5F5F5;
+ }
+-->

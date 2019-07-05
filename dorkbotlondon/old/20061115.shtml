@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>dorkbotlondon</title>
+  </head>
+
+  <style type="text/css">
+    body { 
+      font-family: verdana, helvetica, arial;
+      background: #fff;
+    }
+    h1 {
+      border-top: 1px solid #000;
+    }
+    h1 em {
+      letter-spacing: 2px;
+      font-size: 10px;
+    }
+    h2 {
+      border-top: 1px dashed #888;
+      font-size: 14px;
+    }
+    h3 {
+      font-size: 13px;
+    }
+    dt {
+      font-weight: bold;
+    }
+  </style>
+  <body>
+	<dt>dorkbot #</dt><dd>dorkbotlondon 42</dd>
+	<dt>time/date</dt><dd>7pm Wednesday 15th November 2006</dd>
+	<dt>location</dt><dd>state51, 8 Rhoda Street, E2 7EF (directions below)</dd>
+	<dt>featuring the wise and flavoursome...</dt>
+	<ul>
+          <li><a href="http://www.musicforbodies.net/">Music for Bodies</a> - a collaboration featuring Kaffe Matthews,
+ David
+ Muth and Alex Haw.
+             <br />
+             From 6pm for the hour before dorkbotlondon at state51, you can visit and enjoy the sonic furniture installed at Rich Mix, 2 mins walk from state51 (<a href="http://maps.google.co.uk/maps?f=q&hl=en&q=E1+6LA+to+e2+7ef&ie=UTF8&z=17&om=1">map</a>):
+               <ul><li><em>"Dorks are invited to bring around their electronic sound sources of
+   choice in order to plug it into our sonic furniture (which operates
+   with 1/4 inch jack inputs) and play their music / patches while it
+   can be heard and felt by others."</em></li></ul>
+	  </li>
+          <li><a href="http://www.nikramage.com/">Nik Ramage</a> (tbc)</li>
+          <li><a href="http://www.cus.cam.ac.uk/~nc272/">Nick Collins</a> - nonstandard sound synthesis
+          </li>
+          <li>Iain Sharp - Three blind mice</li>
+	</ul>
+      </dl>
+ 
+</p>
+<h2>Directions</h2>
+state51, 8 rhoda street, off the top of brick lane.<br />
+<dl>
+         <dt>map</dt><dd><a href="http://www.streetmap.co.uk/streetmap.dll?Postcode2Map?code=e2+7ef&title=dorkbot+location+-+state51&back=dorkbotlondon&url=http://dorkbot.org/dorkbotlondon/&nolocal=X">here</a>, the arrow points at state51</dd>
+         <dt>appearance</dt><dd>factory surrounded by metal fence and with 'state51' in big letters on the gate.</dd>
+         <dt>from liverpool street tube</dt><dd>walk north up bishopsgate (which becomes shoreditch high street), then turn right into bethnal green road, left into brick lane and first left into rhoda street.</dd>
+         <dt>from the number 8 bus</dt><dd> it goes along bethnal green road - get off at the brick lane/bethnal green road crossroads and go north up brick lane and first left into rhoda street.</dd>
+         <dt>from bethnal green tube</dt><dd> walk west along bethnal green road, about 15 minutes later you should hit the brick lane crossroads - turn right then first left into rhoda street.</dd>
+</dl>
+
+<h2>more info</h2>
+see the <a href="./">main dorkbotlondon page</a>
+  </body>
+</html>
+

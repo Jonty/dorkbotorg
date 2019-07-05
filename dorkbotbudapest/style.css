@@ -1,0 +1,335 @@
+/*
+Theme Name: Persian
+Original Theme URI: http://www.chrisjdavis.org/persian/
+Description: A nice Persian Rugish theme with a pattern background
+Version: 1.0
+
+Ported to Drupal 4.5 by Chrisada Sookdhis
+*/
+
+a 		{ color: #069; text-decoration: none;} 
+		a:link		{ color: #cc3300; text-decoration: none;} 
+		a:visited	{ color: #999; text-decoration: none;} 
+		a:active	{ color: #69C; text-decoration: none;} 
+		a:hover		{ color: #69C; text-decoration: underline;}
+		a[rel~="met"]:after 
+{
+	content:   " *";
+}
+
+blockquote
+{
+	margin: 0px 0px 0px 25px;
+	padding: 0px;
+	border: 1px;
+	font-style: italic;
+}
+
+.main-content
+{
+	background-color: #fff;
+	top: 0px;
+	width: 480px;
+	padding: 0px 10px 0px 15px;
+	margin: 0px 0px 0px 50px;
+	color: #333;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	text-align:justify;
+	background: #fff;
+	font-family: Georgia, Verdana, Serif;
+}
+.bottomsep
+{
+	border-color: #999;
+	border-width: 0px 0px 1px 0px;
+	border-style: solid none solid none;
+	padding: 4px 0px 4px 0px;
+	font-family: geneva, arial, verdana, helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+	text-align: left;
+}
+
+.bottomsep ul
+{
+	display: inline;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.bottomsep li
+{
+	display: inline;
+}
+
+.center
+{
+	text-align: center;
+  font-family : Georgia, Verdana, Serif;
+	text-align : center;
+	font-size : 12px; 
+}
+
+.inline li
+{
+	display: inline;
+	padding: 10px;
+	list-style: none;
+}
+	
+.container
+{
+	background: #fff url(patt_back.png);
+	height: 100%;
+	width: 655px;
+	margin: auto;
+	padding: 9px 0px 9px 7px;
+	border-top: solid 0px #000;
+	border-left: solid 0px #6A0300;
+	border-right: solid 0px #6A0300;
+	border-bottom: solid 0px #000;
+}		
+
+.date
+{
+	font-family: palatino, georgia, times new roman, times, serif;
+	font-size: 12px;
+	color: #333;
+	text-align: right;
+}
+.footer
+{
+	width: 605px;
+	height: 20px;
+	background-color: #fff;
+	padding: 10px 5px 5px 15px;
+	margin: 0px 10px 0px 10px;
+	border-top: solid 1px #999;
+	border-left: solid 1px #999;
+	border-right: solid 1px #999;
+	border-bottom: solid 1px #999;
+	font-family : Georgia, Verdana, Serif;
+	text-align : center;
+	font-size : 12px;
+}
+
+.header
+{
+	background: #fff url(top.png) no-repeat center;
+	width: 615px;
+	height: 94px;
+	padding: 5px;
+	margin: 0px 0px 0px 10px;
+	border: 1px;
+	border-style: solid;
+	border-color: #999;
+}
+
+img
+{
+	border: 0px;
+}
+
+.indent
+{
+	padding: 0px 0px 10px 20px;
+}
+
+.main
+{
+	background-color: #transparent;
+	left: 10px;
+	top: 169px;
+	width: 593px;
+	padding: 2px 20px 5px 0px;
+	margin: 0px;
+	font-family : Palatino, Georgia, Verdana, Serif;
+	text-align : justify;
+	font-size : 12px;
+	border-width: 1px 1px 1px 1px;
+	border-color: #999;
+	border-style: solid;
+}
+
+.pic
+{
+	background-color: #fff;
+	padding: 5px;
+	margin-left: 8px;
+	border: 1px;
+	border-style: solid;
+	border-color: #b8b8b8;
+}
+
+.float
+{
+        padding: 5px;
+}
+
+.separator
+{
+	height: 48px;
+	background: url(seperator.gif) #fff no-repeat center;
+	margin-top: 20px;
+   padding: 5px;
+   margin-bottom: 30px;
+}
+
+.seperator
+{
+	margin-top: 20px;
+        padding: 5px;
+        margin-bottom: 30px;
+        background-color: #F5F5D3;
+        border-bottom: 1px solid #ccc;
+        border-top: 1px solid #ccc;
+        text-align: center;
+}
+
+.sitename
+{
+	text-align: center;
+	margin-top: 17px;
+	font-family: Georgia, Verdana, Serif;
+	font-size: 25px;
+	color: #fff;
+}
+
+.title
+{
+	font-family: palatino, times new roman, times, georgia, serif;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 1.1;
+	color: #790705;
+	text-align: left;
+	text-shadow: #666 3px 3px 3px;
+	padding: 0px 0px 8px 0px;
+	margin: -6px 0px -10px 0px;
+}
+.updated
+{
+	padding: 5px;
+	margin: 5px 10px;
+	background-color: #ffcccc;
+	border: 1px;
+	border-color: #790705;
+	border-style: solid;
+	color: #333;
+}
+
+.wrapper 
+{
+		position: relative;
+		background-color: #fff;
+		width: 615px;
+		top: 0px;
+		left: 0px;
+		padding: 5px;
+		margin: 5px 10px 10px 10px;
+		border: 1px;
+		border-style: solid;
+		border-color: #999;
+}
+
+/* Drupal specific */
+
+.messages, #mission {
+	margin: 3em 0;
+}
+
+#topbar
+{
+	height: 15px;
+	margin: 0;
+	padding: 3px 0 3px 20px;
+	font-family : Georgia, Verdana, Serif;
+	text-align : left;
+	font-size : 12px;
+}
+
+#topbar li.block {
+	position: relative;
+	list-style: none;
+	float: left;
+	margin: 0;
+	padding: 0 1em 0 0;
+	z-index: 20;
+}
+#topbar li.block div.content {
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 1.2em;
+	background-color: #fff;
+	border: solid 1px #999;
+	width: 150px;
+}
+#topbar > li.block div.content {
+	left: auto;
+	top: auto;
+}
+#topbar li.block:hover div.content {
+	display: block;
+}
+#topbar li.over div.content {
+	display: block;
+}
+#search {
+	list-style: none;
+}
+
+#search .form-text {
+	width: 100px;
+	padding: 0px;
+	margin: 0;
+	color: #999;
+	border: 1px solid #999;
+	padding-left: 2px;
+	font-size: 0.8em;
+}
+
+#rightbar {
+	display: block;
+	position: relative;
+	width: 140px;
+	margin-right: -5px;
+	padding: 5px;
+	float: right;
+	background-color: #fff;
+	border: solid 1px #999;
+}
+#rightbar li.block {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.comment {
+	margin: 2em 0;
+}
+.comment .links {
+	font-size: 0.8em;
+}
+textarea {
+	width: 100%;
+}
+.form-item input.form-text,
+.form-item textarea.textarea {
+	width: 100%;
+	padding: 0;
+}
+.form-item select {
+	width: auto;
+}
+.box .form-item select {
+	font-size: 0.8em;
+}
+.user-login-block .form-item input {
+	width: auto;
+}

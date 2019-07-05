@@ -1,0 +1,31 @@
+
+body {
+background: #dddddd;
+color: #261682;
+font-family: courier;
+font-size: 10pt;
+}
+
+td {
+font-family: courier;
+font-size: 10pt;
+}
+
+td.cal {
+font-size: 12pt;
+background: #bbbbbb;
+}
+
+img {
+border: 0;
+}
+
+em { font-style: italic; } 
+
+a:link { color: #31a3ff; text-decoration: none; }
+a:visited { color: #31a3ff; text-decoration: none; }
+
+a:link.header { color: #f66639; text-decoration: none; }   
+a:visited.header { color: #f66639; text-decoration: none; }
+a:hover.header { color: #f66639; } 
+a:active.header { color: #f66639; }

@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HEAD>
+<title>dorkbot-sea : archive : dorkbot 33</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="dorkbot_eldan.css" type="text/css">
+</HEAD>
+<body>
+
+<div class="main_container">
+
+
+
+<!-- header table -->
+
+ <table width="100%" border="0">
+  <tr align="left" valign="top"> 
+   <td width="9%"><a href="index.shtml"><img src="images/dorkbot-logo.gif" width="49" height="50" border="0" alt="a logic gate from a made-up circuit" /></a></td>
+   <td width="45%" align="left"><h1>dorkbot-sea</h1>
+    <span class="italic"><i>people doing strange things with electricity 
+    <br>
+    </i></span>
+   </td>
+   <td width="46%"> 
+    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+     <tr align="left" valign="top"> 
+      <td width="25%"> 
+       <p><span class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/archive.shtml">archive</a></b></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/events.shtml"><b>events</b></a></span></p>
+      </td>
+      <td> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/opportunities.shtml"><b>opportunities</b></a></span></p>
+      </td>
+     </tr>
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+     <tr align="left" valign="top"> 
+      <td width="25%"> 
+       <p><span class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/mailinglist.shtml">lists</a></b></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/wiki.shtml"><b>wiki</b></a></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/links.shtml"><b>links</b></a></span></p>
+      </td>
+      <td width="25%"> 
+       <p><span class="italic"><a href="http://www.dorkbot.org/dorkbotsea/press.shtml"><b>press</b></a></span></p>
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+
+<!-- end of header table -->
+
+
+
+<!-- meeting preamble -->
+
+ <div class="section">
+  <h1>Meeting 33 <br /><i><font color="red">venue change for November - details below - please read on</font></i></h1>
+  <h2>The View From Up There</h2>
+  <p class="preamble">
+   Wednesday, November 1<sup>st</sup>, 2006 at 7:30pm
+   <br />
+   <b><a href="http://www.capitolhillarts.com/">Capitol Hill Arts Center</a></b>, 1621 12<sup>th</sup> Avenue, Seattle, WA 98122
+   <br />
+   Admission: Free to all ages and species!
+  </p>
+ </div>
+
+<br />
+
+<!-- end of meeting preamble -->
+
+
+
+<!-- speakers section -->
+
+<br />
+
+ <div class="section">
+  <h1>Presenters</h2>
+
+
+<!-- begin one speaker -->
+  <h2><a href="http://www.imakethings.com/">Bre Pettis</a>: Kite Aerial Photography</h2>
+  <p>
+   <a href="http://flickr.com/photos/bre/200419974/"><img src="images/db33-gasworks_100x75.jpg" width="100" height="75" alt="Gasworks Park from a kite" class="left" /></a>
+   <a href="http://flickr.com/photos/bre/202155022/"><img src="images/db33-calanderson240x180.jpg" width="240" height="180" alt="Cal Anderson Park from a kite" class="right" /></a>
+   Bre will share his kite aerial photography rigs and give you hints on how to avoid knocking someones head off with a pound and a half of payload attached to a long string.
+  </p>
+
+  <ul>
+   <li><a href="http://www.makezine.com/blog/archive/2006/07/make_podcast_weekend_projects_2.html">Bre's video for MAKE Magazine</a></li>
+   <li><a href="http://flickr.com/photos/bre/sets/72157594217668789/">Kite Aerial Photoset - Cal Anderson Park</a></li>
+   <li><a href="http://flickr.com/photos/bre/sets/72157594215128029/">Kite Aerial Photoset - Gasworks Park</a></li>
+  </ul>
+ 
+  <p>
+   <a href="http://www.makezine.com/blog/archive/2006/07/make_podcast_weekend_projects_2.html"><img src="images/db33-bre_and_kitecam246x138.jpg" width="246" height="138" alt="Bre and one of his toys" class="right" /></a>
+   Bre Pettis makes things and then makes videos of them for MAKE: Magazine.
+  </p>
+<!-- end one speaker -->
+
+
+
+
+<!-- begin one speaker -->
+  <h2><br />Peter Brown and Juice Box: <a href="http://blogsicle.net/pages/assimilator">The Assimilator Project</a></h2>
+  <p>
+   <a href="http://blogsicle.net/files/systems_layout.png"><img src="images/db33-assimilator_schematic125x140.jpg" width="125" height="140" alt="The Assimilator Project: schematic" class="right" /></a>
+   The goal was to enable people to have a first-person perspective of being 500 feet in the air, without the pesky need to get in a helicopter or air plane.
+   <a href="http://blog.realityallstarz.com/pages/about"><img src="images/db33_ptb176x144.jpg" width="176" height="144" alt="Peter Brown" class="left" /></a>
+   The project used simple off the shelf wireless video equipment, LCD video goggles, lots of string, and a large helium balloon.  Put on the goggles and see what the balloon would see as it rises and falls.  The project got an art grant from Ignition Northwest for its maiden voyage at Critical Massive and was taken to Burning Man this summer.
+  </p>
+
+  <p>
+   Peter Brown is a software entrepreneur working on web technologies in Seattle. This is his first "art" project.
+  </p>
+<!-- end one speaker -->
+
+
+
+
+<!-- begin one speaker -->
+  <h2><br />Ryan Weh and Brad Larsen: Radio-Controlled Blimp-Mounted Camera</h2>
+  <p>
+   Brad and Ryan have been interested in radio control flying toys for a very long time.  They'd always enjoyed the thought of getting aerial videos from a radio control airplane, and only fairly recently come up with a working setup that satisfies their basic objectives, even though they have been slowly working on the problem of sending up a wireless camera from an airship for some time.  In fact, the camera part turned out to be easy and relatively cheap, but the biggest holdup was in finding a way to view or record the video from the ground (or both), on the field with minimal backup power.  At the meeting they'll talk about the issues that they came across when trying the various camera systems, and  how they converged onto the solution that they are using now.  They will also cover some other issues with using the camera itself, such as some basic vibration damping advice.
+  </p>
+
+  <p>
+   Brad Larsen is an industrial designer and an inventor with his name on various patents.  He currently develops toy airplanes new pepper grinders and other inventions.
+  </p>
+
+  <p>
+   Ryan Weh is a student in Physics at the UW.  He has a <a href="http://www.quixotism.org/">personal website</a>, and hosts <a href="http://www.theidea.bz/forums/wsci/">a forum</a> for Bill Beaty's Amasci website.
+  </p>
+<!-- end one speaker -->
+
+
+ </div>
+
+<br />
+
+<!-- end of speakers section -->
+
+
+
+<!-- begin opendork postamble -->
+
+<br />
+
+ <div class="section">
+  <h1>Open Dork / Show and Tell</h1>
+  <p>
+   <strong>YOU!!!</strong> Yes, if you have a project - any project, at any stage of completeness, an idea - any idea, at any stage of bakedness, an artwork - any kind of artwork at any stage of doneness, please do bring it along to the dorkbot meeting and claim your 10 minutes worth of fame after the presenters.
+  </p>
+ </div>
+
+<!-- end of opendork postamble -->
+
+
+
+</div> <!-- main_container -->
+
+&nbsp; <!-- silly hack to make browsers leave some space below the bottom margin -->
+
+</body>
+</html>

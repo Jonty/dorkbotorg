@@ -1,0 +1,519 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>dorkbot Tacoma</title>
+		<meta name="keywords" content="dorkbot, dorkbottac, dorkbot tacoma, tacoma, electricity, art">
+		<script language="javascript">
+<!--
+var currentdescription = 4;
+var currentitem = 0;
+
+function toggleText(item, description)
+{
+	if (currentitem == 0)
+	{
+		currentitem = item;
+		item.style.backgroundColor = "#999999";
+	}
+	
+	if (currentdescription == description)
+		return;
+		
+	currentitem.style.backgroundColor = "";
+	item.style.backgroundColor = "#999999";
+	currentitem = item;
+		
+	eval("text" + currentdescription).style.display = 'none';
+//	switch (currentdescription)
+//	{
+//		case 0:
+//			text0.style.display = 'none';
+//		break;
+//		case 1:
+//			text1.style.display = 'none';
+//		break;
+//		case 2:
+//			text2.style.display = 'none';
+//		break;
+//	}
+	
+	currentdescription = description;
+	eval("text" + currentdescription).style.display = 'block';
+	
+//	switch (currentdescription)
+//	{
+//		case 0:
+//			text0.style.display = 'block';
+//		break;
+//		case 1:
+//			text1.style.display = 'block';
+//		break;
+//		case 2:
+//			text2.style.display = 'block';
+//		break;
+//	}				
+}
+function hightlightMeeting(meetingItem)
+{
+	meetingItem.style.color="#0000ff";
+	meetingItem.style.cursor="arrow";
+}
+
+function lolightMeeting(meetingItem)
+{
+	meetingItem.style.color="#993333";
+    meetingItem.style.cursor="default";
+
+}
+
+function setUI()
+{
+	currentitem = document.all.item("currentmeeting");
+	currentdescription = 4;
+	currentitem.style.backgroundColor = "#999999";
+}
+//-->
+		</script>
+		<style> .meetinglist {color:#993333}
+	</style>
+	</head>
+	<body onload="return setUI();">
+        &nbsp;<TABLE id="Table1" cellSpacing="0" cellPadding="1" width="700" height="550" align="center" border="1">
+			<TR>
+				<TD vAlign="middle" align="right" width="50%" bgColor="#33ff99" colSpan="2">
+					<P align="center"><FONT face="Courier New" size="7"><STRONG>dorkbot</STRONG></FONT><FONT size="5"><SUB><STRONG><FONT size="6">tacoma</FONT><BR>
+								</STRONG></SUB></FONT><FONT face="Arial" size="2">people doing strange 
+							things with electricity...<BR>
+						</FONT>
+					</P>
+				</TD>
+				<TD vAlign="middle" align="center" width="*"><BR>
+					<TABLE id="Table3" cellSpacing="1" cellPadding="1" width="80%" border="0">
+						<TR>
+							<TD>
+								<P align="left"><FONT face="MS Sans Serif" size="1">... a monthly meeting of artists 
+										(sound/image/movement/whatever), designers, engineers, students, scientists, 
+										and other interested parties from the Tacoma area who are involved in the 
+										creative use of electricity - electronic art
+                                    (in the broadest sense of the word).</FONT></P>
+							</TD>
+						</TR>
+					</TABLE>
+					<BR>
+				</TD>
+			</TR>
+			<TR>
+				<TD vAlign="top" align="center" width="30%" rowSpan="2">
+					<TABLE id="Table2" cellSpacing="0" cellPadding="8" width="100%" border="0">
+						<TR>
+							<TD>
+								<P align="center"><FONT color="#000000"><FONT face="MS Sans Serif"><FONT size="5"><STRONG>Meetings<BR>
+												</STRONG><FONT size="1"><STRONG>dorkbot meetings are free and open to the public</STRONG>
+												</FONT>
+												<BR>
+											</FONT></FONT></FONT>
+								</P>
+								<P align="center"><FONT face="MS Sans Serif" color="#000000" size="1">
+										<TABLE id="Table7" cellSpacing="1" cellPadding="6" width="80%" bgColor="#000000" border="1">
+											<TR>
+												<TD vAlign="middle" align="center"><FONT color="#ffffff" size="1">********<br />
+                                                    <br />Join the Tacoma 
+														announce list to get meeting announcements emailed <A style="FONT-SIZE: larger; COLOR: #ffffff" href="http://dorkbot.org/mailman/listinfo/dorkbottac-announce">
+                                                            dorkbottac-announce</A><br />
+                                                    <br />
+                                                    ********</FONT>
+												</TD>
+											</TR>
+										</TABLE>
+									</FONT>
+								</P>
+							</TD>
+						</TR>
+						<TR>
+							<TD align="center"><FONT face="MS Sans Serif" size="1">Meetings are on the third Tuesday of every month<br />
+                                <BR>
+                                Meetings are at:<br />
+                                Tacoma School of the Arts' Club SOTA<br />
+                                1117 Broadway, Tacoma<BR>
+                                (with an exception in May)<br /><BR />
+                                From 7:00PM to 10:00PM<BR>
+                                (doors open at 6:30)</FONT></TD>
+						</TR>
+						<TR>
+							<TD align="center"><FONT color="#000000"><FONT face="MS Sans Serif"><FONT size="5"><FONT size="2"><STRONG><FONT size="1">Past 
+														and future meetings...</FONT></STRONG>
+												<BR>
+											</FONT></FONT></FONT></FONT>
+								<table id="Table8" height="200" width="100%" border="1">
+									<TR>
+										<TD vAlign="top">
+											<div style="OVERFLOW: auto; WIDTH: 100%; HEIGHT: 200">
+												<DIV class="meetinglist" id="currentmeeting" onmouseover="return hightlightMeeting(this);" onclick="return toggleText(this, 4);"
+													onmouseout="return lolightMeeting(this);"><FONT face="MS Sans Serif" size="1"><STRONG>#4 Dorkbot Tacoma #4</STRONG><BR>
+														<FONT size="1">(June 19, 2007)</FONT></FONT><BR />
+												</DIV>
+                                                <hr width="70%">
+												<DIV class="meetinglist" onmouseover="return hightlightMeeting(this);" onclick="return toggleText(this, 3);"
+													onmouseout="return lolightMeeting(this);"><FONT face="MS Sans Serif" size="1"><STRONG>#3 Dorkbot Tacoma #3</STRONG><BR>
+														<FONT size="1">(April 24, 2007)</FONT></FONT><BR />
+												</DIV>
+                                                <hr width="70%">
+												<DIV class="meetinglist" onmouseover="return hightlightMeeting(this);" onclick="return toggleText(this, 2);"
+													onmouseout="return lolightMeeting(this);"><FONT face="MS Sans Serif" size="1"><STRONG>#2 Dorkbot Tacoma #2</STRONG><BR>
+														<FONT size="1">(March 20, 2007)</FONT></FONT><BR />
+												</DIV>
+                                                <hr width="70%">
+												<DIV class="meetinglist" onmouseover="return hightlightMeeting(this);" onclick="return toggleText(this, 1);"
+													onmouseout="return lolightMeeting(this);"><FONT face="MS Sans Serif" size="1"><STRONG>#1 Dorkbot Tacoma #1</STRONG><BR>
+														<FONT size="1">(February 20, 2007)</FONT></FONT><BR />
+												</DIV>
+                                                <hr width="70%">
+												<DIV class="meetinglist" onmouseover="return hightlightMeeting(this);"
+													onclick="return toggleText(this, 0);" onmouseout="return lolightMeeting(this);"><FONT face="MS Sans Serif" size="1"><STRONG> Other dorkbots</STRONG>&nbsp;<BR>
+														<FONT size="1">(dorkbot is global)</FONT></FONT><BR />
+												</DIV>
+												<HR width="70%">
+                                            </div>
+										</TD>
+									</TR>
+								</table>
+							</TD>
+						</TR>
+					</TABLE>
+					<BR>
+				</TD>
+				<TD vAlign="top" align="center" width="40%" rowSpan="1"><BR>
+						<DIV id="text4" style="WIDTH: 100%; HEIGHT: 420">
+						<TABLE id="Table16" cellSpacing="6" cellPadding="1" width="100%" border="0">
+							<TR>
+								<TD width="80%" colSpan="2" align="center"><FONT face="MS Sans Serif" size="1"><STRONG> #4 Dorkbot Tacoma #4<br />
+                                    Dorkbot Tacoma's fourth meeting!<BR />
+                                    April 24, at Tacoma School of the Arts'<br />
+                                    Club SOTA, 1117 Broadway, 7:00 PM</STRONG></FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 align="center">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							</TABLE>
+<div style="OVERFLOW: auto; WIDTH: 100%; HEIGHT: 360">
+						<TABLE id="Table17" cellSpacing="6" cellPadding="1" width="100%" border="0">
+
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting004/Bill demo dorkbot4.JPG" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Bill Beaty</STRONG> - <a href="http://amasci.com/wsci/">Weird Science Salon</a> Founder and mad professor emeritus <a href="http://amasci.com/me.html">William J. Beaty</a> has been goading Seattle’s science hobbyists into action – and leading them from the front – since 1984: that’s twenty years of bangs and whimpers. Bill returns to demonstrate his Crooke's cathode ray tube, and knowing Bill, other possible surprises as well.</FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting004/SoTA.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Informal Open Dork</STRONG> - One of our speakers didn't make it tonight but Tacoma dorkbotters rose to the occasion, circled our chairs and talked about things dork. Julie talked about her upcoming fashion show at urbanXchange - looking for tech effects, Eric brought an electrically shrunken quarter, Doug showed his silver medal from Robothon.</FONT></TD>
+							</TR>
+<!--							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/mystery-guest3.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Open Dork</STRONG> - There will be time
+                                    at every meeting for informal presentations, announcements, and information sharing.</FONT></TD>
+							</TR>
+-->							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"></TD>
+								<TD width="*"></TD>
+							</TR>
+						</TABLE>
+					</DIV>
+					</div>
+
+					<DIV id="text3" style="WIDTH: 100%; DISPLAY: none; HEIGHT: 420">
+						<TABLE id="Table14" cellSpacing="6" cellPadding="1" width="100%" border="0">
+							<TR>
+								<TD width="80%" colSpan="2" align="center"><FONT face="MS Sans Serif" size="1"><STRONG> #3 Dorkbot Tacoma #3<br />
+                                    Dorkbot Tacoma's third meeting!<BR />
+                                    April 24, at Tacoma School of the Arts'<br />
+                                    Club SOTA, 1117 Broadway, 7:00 PM</STRONG></FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 align="center">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							</TABLE>
+<div style="OVERFLOW: auto; WIDTH: 100%; HEIGHT: 360">
+						<TABLE id="Table15" cellSpacing="6" cellPadding="1" width="100%" border="0">
+
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting003/Doug Bell.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Doug Bell</STRONG> - Doug uses Microsoft Excel as an engineering and art design and simulation tool, and would like to show us a bit about how he does it, by using the X/Y (Scatter) Chart mode for general purpose drawing, driven by spreadsheets.</FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting003/ryan and brad.JPG" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Ryan Weh and Brad Larsen</STRONG> - Radio-Controlled Blimp-Mounted Camera. At the meeting they'll talk about the issues that they came across when trying the various camera systems, and how they converged onto the solution that they are using now. They will also cover some other issues with using the camera itself, such as some basic vibration damping advice.</FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/mystery-guest3.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Open Dork</STRONG> - There will be time
+                                    at every meeting for informal presentations, announcements, and information sharing.</FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"></TD>
+								<TD width="*"></TD>
+							</TR>
+						</TABLE>
+					</DIV>
+					</div>
+
+					<DIV id="text2" style="WIDTH: 100%; DISPLAY: none; HEIGHT: 420"">
+						<TABLE id="Table5" cellSpacing="6" cellPadding="1" width="100%" border="0">
+							<TR>
+								<TD width="80%" colSpan="2" align="center"><FONT face="MS Sans Serif" size="1"><STRONG> #2 Dorkbot Tacoma #2<br />
+                                    Dorkbot Tacoma's second meeting!<BR />
+                                    March 20, at Tacoma School of the Arts'<br />
+                                    Club SOTA, 1117 Broadway, 7:00 PM</STRONG></FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 align="center">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							</TABLE>
+<div style="OVERFLOW: auto; WIDTH: 100%; HEIGHT: 360">
+						<TABLE id="Table11" cellSpacing="6" cellPadding="1" width="100%" border="0">
+
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting002/billsmoke.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>William J. Beaty </STRONG>- <a href="http://amasci.com/wsci/">Weird Science Salon</a> Founder and mad professor emeritus <a href="http://amasci.com/me.html">William J. Beaty</a> has been goading Seattle’s science hobbyists into action – and leading them from the front – since 1984: that’s twenty years of bangs and whimpers. Bill will bring Captain Kangaroo's magic drawing board (overhead proj) and do various random stuff. He'll also bring his <a href="http://amasci.com/weird/microexp.html ">microwave oven</a>, argon bottle, etc.</FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting002/joe-benner-fish.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Joe Benner</STRONG> - Tacoma art and technology buff Joe Benner will talk about the Kinetic Wooden Fish on a Stick sculpture that he made for the Tacoma Siteworks Dance Festival. </FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/mystery-guest3.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Open Dork</STRONG> - There will be time
+                                    at every meeting for informal presentations, announcements, and information sharing.</FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"></TD>
+								<TD width="*"></TD>
+							</TR>
+						</TABLE>
+					</DIV>
+					</div>
+					<DIV id="text1" style="WIDTH: 100%; DISPLAY: none; HEIGHT: 420">
+						<TABLE id="Table12" cellSpacing="6" cellPadding="1" width="100%" border="0">
+							<TR>
+								<TD width="80%" colSpan="2" align="center"><FONT face="MS Sans Serif" size="1"><STRONG> #1 Dorkbot Tacoma #1<br />
+                                    Dorkbot Tacoma's first meeting!<BR />
+                                    February 20, at Tacoma School of the Arts'<br />
+                                    Club SOTA, 1117 Broadway, 7:00 PM</STRONG></FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 align="center">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							</TABLE>
+<div style="OVERFLOW: auto; WIDTH: 100%; HEIGHT: 360">
+						<TABLE id="Table13" cellSpacing="6" cellPadding="1" width="100%" border="0">
+
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting001/justin-show-small.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Justin Gorman </STRONG>- The Justin Show is a multi-media presentation by Tacoma-based artist <a href="http://www.justinjgorman.com">Justin Gorman</a>, a cohesive collage of unique short stories, rants, observations and satirical political critique. The presentation is a synthesis of produced videos drawn from Mr. Gorman's four solo CD releases, and PowerPoint presentations inspired by the ease of appropriation in this era of digital information.</FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80" valign="top"><IMG alt="" src="images/meeting001/eric-mcneill-01.jpg" width="75" border="1"></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG>Eric McNeill</STRONG> - Untitled: Portrait, Movement - Rabbit!!!: Seattle-based artist and technologist <a href="http://smellsnew.com">Eric McNeill</a> will discuss the design and construction of his animated LED panels, and will also give an introduction to using Rabbit Microprocessors. In addition to simply showing lo-res video, "Untitled (Portrait/Movement)" is an example of some of the more advanced things you can do with a $50 micro like the Rabbit - for example, networking support to allow the piece to put or fetch media on or from the Internet. </FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2 valign="top">
+							        <HR width="70%">
+							    </td>
+							</tr>
+								<TR>
+								<TD width="80" valign="top"></TD>
+								<TD width="*"></TD>
+							</TR>
+						</TABLE>
+					</DIV>
+					</div>
+					<DIV id="text0" style="WIDTH: 100%; DISPLAY: none; HEIGHT: 420">
+						<TABLE id="Table4" cellSpacing="6" cellPadding="1" width="100%" border="0">
+							<TR>
+								<TD width="80%" colSpan="2"><FONT face="MS Sans Serif" size="1"><STRONG>Other dorkbots<br />
+                                    </STRONG></FONT></TD>
+							</TR>
+							<tr>
+							    <td colspan=2>
+							        <HR width="70%">
+							    </td>
+							</tr>
+							</TABLE>
+<div style="OVERFLOW: auto; WIDTH: 100%; HEIGHT: 360">
+						    <TABLE id="Table10" cellSpacing="6" cellPadding="1" width="100%" border="0">
+							<TR>
+								<TD width="80" valign=middle><a href="http://www.dorkbot.org"><IMG alt="" src="images/dorkbot_logo.jpg" width="75" border="0"></a></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG><a href="http://www.dorkbot.org">Dorkbot.org</a> </STRONG>- Dorkbot central.
+                                    The mother ship. The central location for all things 'dork'. Dorkbot happens around the world. Check it out!</FONT>
+                                </TD>                           
+							</TR>
+							<tr>
+							    <td colspan=2>
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80"><a href="http://dorkbot.org/dorkbotnyc"><IMG alt="" src="images/nyc-logo.jpg" width="75" border="0"></a></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG><a href="http://dorkbot.org/dorkbotnyc">Dorkbot NYC</a></STRONG> - First there was dorkbotnyc, a monthly meeting of electronic artists in new york. </FONT></TD>
+							</TR>
+  							<tr>
+							    <td colspan=2>
+							        <HR width="70%">
+							    </td>
+							</tr>
+                            <tr>
+								<TD width="80" align=center valign=middle><a href="http://dorkbot.org/dorkbotsea/"><IMG alt="" src="images/dorkbotsea-logo.gif" width="40" border="0"></a></TD>
+								<TD vAlign="top" width="*"><FONT face="MS Sans Serif" size="1"><STRONG><a href="http://dorkbot.org/dorkbotsea/">Dorkbot Seattle</a></STRONG>
+										- See what our neighboring dorks to the North have been doing over the past few years.</FONT></TD>
+                            </tr>
+							<tr>
+							    <td colspan=2>
+							        <HR width="70%">
+							    </td>
+							</tr>
+							<TR>
+								<TD width="80"></TD>
+								<TD width="*"></TD>
+							</TR>
+						</TABLE>
+					</DIV>
+					</DIV>
+					
+				</TD>
+				<TD vAlign="top" align="center" width="*"><FONT face="geneva,ms sans serif,sans-serif" size="1"><BR>
+						
+							<TABLE id="Table6" cellSpacing="1" cellPadding="6" width="80%" bgColor="#000000" border="1">
+								<TR>
+									<TD vAlign="middle" align="center"><FONT color="#ffffff" size="1">********<br />
+                                        <br />
+                                        Join the Tacoma 
+											blabber list to communicate with other Tacoma 'dorks'<BR>
+											<A style="FONT-SIZE: larger; COLOR: #ffffff" href="http://dorkbot.org/mailman/listinfo/dorkbottac-blabber">dorkbottac-blabber</A><br />
+                                        <br />
+                                        ********</FONT>
+									</TD>
+								</TR>
+							</TABLE>
+						
+						<BR>
+						<BR>
+						<BR>
+						<TABLE id="Table9" cellSpacing="1" cellPadding="1" width="85%" border="0">
+							<TR>
+								<TD><FONT face="geneva,ms sans serif,sans-serif" size="1"><STRONG>The purpose of dorkbot is to:<BR>
+										</STRONG></FONT>
+								</TD>
+							</TR>
+							<TR>
+								<TD><FONT face="geneva,ms sans serif,sans-serif" size="1"><BR>
+										give artists/programmers/engineers an opportunity for informal peer review
+										<hr width="40%">
+										establish a forum for the presentation of new art works, technology, software, hardware
+										<hr width="40%">
+										help establish relationships and foster collaboration between people with 
+										various backgrounds and interests
+										<hr width="40%">
+										give us all a chance to see the cool things that our neighbors are working on
+										<hr width="40%">
+									</FONT>
+								</TD>
+							</TR>
+						</TABLE>
+					</FONT>
+				</TD>
+			</TR>
+			<TR>
+			     <td align="center" width="40%" valign="middle">
+			     <table width="100%" height="100" border="1">
+			        <tr>
+			        <td  align="center" width="100%" bgcolor="#000000" >
+                    <FONT color="#ffffff" face="geneva,ms sans serif,sans-serif" size="1">
+                        <br />
+                        ********<br />
+                        <br />
+                        If you want to speak at a dorkbot meeting please contact us. We'd love to hear from you. <BR />
+                        <A style="FONT-SIZE: larger; COLOR: #ffffff" href="mailto: dorkbottac dorkbot org">
+                            Contact dorkbot Tacoma
+						</A>
+					<br />
+                        <br />
+                        ********<br />
+                        <br />
+                    </FONT>            
+			        </td>
+			        </tr>
+			     </table>
+                </td>
+
+
+				<TD align="right" width="*" valign="bottom">
+				<FONT face="MS Sans Serif" size="2">
+                    <br />
+                    <a href="http://dorkbot.org/press">dorkbot in the news</a><br />
+                    <br />
+                    <br />
+                    <br />
+					<A href="http://dorkbot.org"><IMG alt="" src="images/dorkbot_logo.jpg" width="90%" border="0"></A><BR>
+					<A href="http://dorkbot.org">dorkbot.org</A>
+				</FONT>
+				</TD>
+			</TR>
+		</TABLE>
+	</body>
+</html>

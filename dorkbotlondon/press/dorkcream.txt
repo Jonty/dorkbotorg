@@ -1,0 +1,457 @@
+
+********************************************************************
+
+
+                 cream  * 12 *
+
+
+********************************************************************
+
+This dose of cream has a slightly unusual flavour. This is the first 'guest
+edited' issue, and has grown out of a specific context and group of people from
+dorkbotlondon, (www.dorkbot.org/dorkbotlondon), a monthly meeting of artists,
+technologists, musicians and 'people doing strange things with electricity'. For
+this reason, the texts are not all strictly 'critique' in themselves, but help
+to construct a critical position by suggesting ways of working and thinking
+about electronic art.
+
+At dorkbotlondon last Wednesday, the final presentation was Ashraf Nehru's
+'Frankie the Robot' an animated 3 dimensional DJ robot who seamlessly mixes up
+to 4 mp3 tracks, synchronising even the most disparate rhythms, and wiggling his
+hips provocatively as he spins his virtual vinyl. This is one future of music
+performance: the endless re-mixing of existing tracks from every genre
+imaginable, automatically synched into a beat-perfect, uniform rhythm by a
+faceless performer/player. Frankie is already driven by a Playstation2
+controller, and is coming soon as a commercial game. There are other futures,
+cracks and seams in the veneer of digital music that have their own
+particularities and aesthetics, some of which are presented here.
+
+These three texts are reflections on music and musicianship, and how the
+limits, techniques and potentials of those categories are influenced by digital
+technologies. Alex Mclean, musician, programmer and artist (www.slab.org) picks
+out some irritating norms of electronic music and then, as curative, introduces
+us to the bash shell as musical performance tool. Jo Walsh (www.zooleika.org.uk)
+imagines how semantic webs of meta-information  reconfigure our relationship to
+music and music making. Michael Weinkove's (www.talkaoke.com) text is a critical
+study of the changing icon of the musician, tracing the passage of the humble
+technician to the superstar DJ we know today.
+
+But this is not just about music. The performer, the virtuoso, the artiste, the
+audience; these figures are changing. Perhaps in music, one of the most
+economically active and universally significant areas of culture, one which has
+embraced digital technologies most fervently, we can find clues as to how these
+roles are developing in other areas of cultural production.
+
+
+Saul Albert
+-----------------------------------------
+saul@twenteenthcentury.com              23/02/03
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+contents of this cream:
+
+Alex Mclean     -       ANGRY
+                -       /usr/bin/bash as a performative tool
+Jo Walsh        -       Hypermusic
+Michael Weinkove     -     The Future DJ Culture
+
+
+::::::::::::::::::::::::::::::::::::::_____________>
+
+
+ANGRY   -       Alex Mclean
+
+
+There are many examples of electronic artists surrounding their pieces with
+dazzling effects while not actually letting you observe its central nature.
+
+
+These are false boundaries.
+
+Laptop musicians have plenty of movement happening inside their computer but
+usually don't let us in on at any of it.  Movement adds so much to musical
+performance but we can't see it because their software doesn't allow us to, or
+they are too shy to let us see their screen.  Open up your music for us!  Your
+computer can be so much more than a portable music studio.  If the music is
+alive in there, let us see it.
+
+Interfaces should not be so over-important as to hide the very experience they
+are trying to interface us to.  Take http://www.altzero.net as an example.
+Mapping one dimensional volume controls onto a two dimensional plane, and then
+hiding them in a three dimensional rotating sphere adds little to music that is
+by its nature multidimensional.  Piling in visual effects on top of all this is
+playing the audience as a fool.
+
+And finally, random events are no replacement for real interactivity. Random
+numbers are perhaps the easiest source of data, but are by their nature
+structureless and meaningless.  They should surely not be used as the core
+structure behind an artwork.
+
+These pieces of work annoy me because when I look for their promise, I either
+find I am denied access or find nothing when I finally get there.  Open up your
+processes!
+
+
+::::::::::::::_____________>
+
+
+/usr/bin/bash as a performative tool    -       Alex Mclean
+
+
+I'm writing this to share some thoughts with those already initiated with the
+bash shell. Those otherwise interested might like to read this
+(http://www.gnu.org/software/bash/bash.html) first. If any parts of this article
+are unclear or you have any questions, please email me (cream@slab.org) and I'll
+clarify.
+
+I've probably spent more time at a bash prompt than I have in any other place
+apart from bed. It's my primary computer interface; it's part of most of my
+daily tasks and rituals. I do use a GUI windowing environment, but still find
+myself typing far more than clicking.
+
+So what do I perform with bash? I make music with self-written Perl scripts,
+that synchronise, play sounds and control synthesis parameters via a central
+server. Some of these scripts are interactive and some aren't, and so a great
+deal of the performance is controlled from the command line, starting sets of
+scripts with particular parameters and then choosing the right moment to kill
+them.
+
+Typing long, textual commands seems like a slow and inexpressive way to make
+live music. However I find this much faster than using a mouse, and more
+expressive than using a guitar; but then, I'm a fast typist and am not much good
+at playing the guitar. I also know a few handy bash shortcuts...
+
+So lets cut to the meat. Here's how I use the bash prompt.
+
+
+^n ^p ^b ^f ^a ^e
+
+These are navigation control keys, in fact the first four are simple aliases
+for the arrow keys; down, up, left and right respectively. These are keys I need
+all the time but are located far away from the 'home keys'. You only save a
+fraction of a second by hitting ^b rather than left-arrow, but in my opinion
+shaving all these fractions is what turns you into a bash prompt maestro.
+
+
+^r
+
+Control and r is perhaps my most used performative expression. It lets you do a
+reverse search through your entire command history. So if I want to find a
+command I ran at a gig a couple of weeks or months ago, I can, with a few
+key-presses. This is great, because I have no memory of my own.
+
+There's a problem with this; you might accidentally re-run that dodgy 'rm -rf
+.' command and delete all your files. You can pop the following HISTIGNORE
+environment variable in your .bash_profile to stop this from happening, and
+while you're there, why not drop in a HISTSIZE variable to keep your history for
+longer:
+
+HISTIGNORE="rm *"
+HISTSIZE="2048"
+export HISTIGNORE HISTSIZE
+
+
+tab completion
+
+Another shell shortcut under-used by many; tab completion! Most know that when
+you type the first few characters of a command, file or directory name and then
+press tab, the shell fills in the rest of the for you. But! It doesn't just
+apply to filenames... Bash now has 'programmable completion', meaning that it
+will now complete hostnames, process names, usernames, etc, etc... Download a
+config file from here (http://www.caliban.org/bash/index.shtml#completion) and
+weep with joy!
+
+
+the last bit
+
+Well, those are the most important bash keystrokes I use. When performing I
+tend to end up with a lot of processes all over a mess of xterms, all with
+various processes running in the background. So I end up using 'ps -wux' and
+'kill' a lot to list and kill my processes. People seem to enjoy watching me
+scrabble around, flicking through xterms running obtuse homemade curses
+interfaces. Hopefully it's not too distracting everyone from the music itself...
+
+Although it tends to come as default with Linux based systems, 'bash' is by no
+means the only Unix shell. For example 'zsh' is well loved among its loyal fan
+base. So have a look around, but whatever shell you opt for and whatever Unix
+art you are creating, check out the man pages and you might find some wonderful
+shortcuts to command prompt heaven.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==--=-=-=-=-=-=-=-=-==-==-=-=-=
+alex mclean is a member of the state51 conspiracy
+(http://state51.co.uk), one half of the technopop combo slub
+(http://slub.org) and founder of the slaboratory (http://slab.org).
+-=-===-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--
+
+
+:::::::::::::::::::___________>
+
+
+Hypermusic      -       Jo Walsh
+
+
+the data that data carries within it, connects to around it, hopeful or
+heedless; metadata.
+
+a chunk of data can speak for itself - 'i will be intelligible by the rules of
+this format', 'so-and-so created this copy of me at such-and-such a date'. a
+statement about the data can live somewhere else - 'the data at that location,
+properly deployed, is a kind of jazz music', 'it relates strongly to this other
+thing in my personal taste' - remembered, and offered or spidered into a
+distributed network of agent stores.
+
+or statements can emerge through a process of inference, extrapolating new
+statements from the connections between existing ones - 'if X was in this band
+at the time they made this tune, then X is probably playing in it' [better] or
+the data that can be described by rules in the system - properties like 'bar
+length' and 'bpm' with algorithms to discover them in chunks of musical data.
+
+a commercial service offers to identify any recorded tune, no matter how
+noisily played back, compared against its vast database of recordings. with
+feedback and progressive reification, it will become easy to identify and
+describe, for example, the structures most associated with certain states of
+mind, or changes in atmosphere. to note and annotate the progression of a
+musical progression, a certain (pattern)(regularity) of repetition working its
+way through centuries and cultures. the identification of different synths,
+software, fundamental sound sources becomes simpler with each propagating piece
+of music.
+
+the music data and metadata contained in the filesharer systems and on the web
+is much greater and more deeply cross-referenced than the largest commercial
+system. imagine; properties extrapolated from those properties, peoples'
+opinions about all of them, indicating some archetypal tune or beat pattern.
+
+the establishment of prior art amounts to copyrighting the musical genome. a
+representation of the contrasting legal complexities of musicmaking and software
+making. music can also be software, software can produce perennially different
+music, like infinite drum and bass; each performance of the same named thing is
+effortlessly variable. music is subject to transclusion, to filtering, at the
+hands of the ultimate listener or through an intermediary.
+
+between us all we make a kind of hypermusic, in a network modelled to reflect
+more change.
+
+
+-=-=-=-=--=-=-=-=-=--=-=-=-=-==-=-=-=-=-=-=-==-=
+jo walsh is a freelance semantic web bot hacker
+-=-=-=-=--=-=-=-=-=--=-=-=-=-==-=-=-=-=-=-=-==-=
+
+
+:::::::::::::::::::::::::::::::::::::::::_________>
+
+
+The Future DJ Culture   -       Michael Weinkove.
+
+
+'Hitherto it is questionable if all the mechanical inventions yet made have
+lightened the day's toil of any human being. They have enabled a greater
+population to live the same life of drudgery and imprisonment, and an increased
+number of manufacturers and others to make fortunes.' - The Principles of
+Political Economy. John Stuart Mill
+
+Dance Factory
+
+We enter a building bigger than an aircraft hangar-like a recently erected,
+warehouse or factory, yet to be let. An ocean of resin -coated concrete floors,
+the only machines present are the sound system. But it's dark and deafeningly
+noisy. There are 10 000 people there, all facing an illuminated figure on a
+distant stage, the DJ, a man engrossed. In the era when factories have become
+buzzing, silent, peopleless, computer controlled kingdoms, so the future DJ
+festival becomes a reenactment of the classical factory experience. This system
+is capable of generating over 120 decibels of sound. A tiny diamond the size of
+a poppy seed vibrates as the concentric vinyl channel beneath rotates at a set
+rate. The resulting tiny fluctuations in charge are amplified by a series of
+transistors in the mixing console. The signal is passed through a series of
+processors, split according to frequency as it is sent to several racks of power
+amps and amplified again. Magnified many million tim!
+es, the signals are converted back to sound by the loudspeakers.
+
+Here in Barcelona, at the Sonar Festival of Electronic Music, it's possible to
+enjoy the latest stage of development in the evolution of the dance movement.
+Once upon a time the DJ appeared as the behind the scenes technician, a man who
+tastefully, tirelessly and thanklessly selected hits that the people wanted to
+dance to, occasionally introducing a new tune. He meekly facilitated enjoyment
+at the party. With the emergence of hip hop, the DJ began to accompany the
+rhymes instead of a backing band, and became an equal, if somewhat backstage
+member of the band. Now the DJ has been promoted to the position of lead singer
+and the musicians who created the music are no longer required to be present for
+the live event. But the DJ's elevation has not stopped there. The superstar DJ
+has graduated from the discreet DJ booth of contemporary nightclubs to the
+upstage -illuminated with smoke, strobes and laser lights.
+
+
+Selector, Mixer, Refiner
+
+
+The DJ's job description is threefold.
+
+"journey by DJ" - The DJ chooses the records to play in which order. It is
+suggested that he selects tracks according to the mood of the crowd. This is the
+most important part of the DJ's job a kind of dance music curator-a facilitator
+for dance music to be heard in the right order.
+
+"scratchmaster" - Interestingly DJ competitions which have arisen don't
+concentrate on this aspect of the DJ's role but focus on the second part- the
+DJ's ability to mix and blend individual records together into a continuous
+seamless soundtrack and the DJ's own input of scratching; playing the record
+rhythmically backwards and forwards, and sampling; taking a digital clippet from
+a pre-existing track and overlaying it repetitively.
+
+The third part is to get the sound right, adjusting the EQ levels (treble and
+bass but more complicated) and other more sophisticated sound manipulation
+exercises which give the DJs their "unique" sound.
+
+
+"he uses a Pioneer FX500 for delay and echoes especially and two super filters
+that completely kill the sound
+... people notice. They always come up asking what the mix is and I tell them,
+'It's the original mix, but I'm fucking with it and throwing an accapella over
+it'" - Erick Morillo in DJ magazine, 2nd -15th June 01
+
+
+The DJ's role is one part editorial, two parts technical. It's a job which
+requires connoissieurship and technical skill but it's not especially
+performative. To worship the DJ on the stage is to engender a cult that
+celebrates technical ability on an equal level with creativity. The body
+language of the DJ on stage is the body language of an expert getting on with
+his job, like a diamond cutter.
+
+
+Superstar DJ
+
+Why must the superstar DJ must be on stage? Because he is a superstar. What we
+see at this DJ festival in Barcelona is a visual terminology originating from
+the rock star stadium gig: a tiny figure on a high stage in a massive sports
+arena. One thinks of  Robbie Williams or U2, performers with an exuberant,
+distinctly messianic character. Robbie Williams is the sex god, the audience
+shamanised as a single body by the charisma of the performer, before he has even
+opened his mouth. Abetted by hype, lights and sound reinforcement, he can whip
+the crowd into a frenzy. By the way, Robbie Williams is just an ordinary bloke,
+except he's Robbie Williams. This idea of the ordinary bloke/megastar
+oscillation has been taken further by Williams than any other British performer.
+He says himself he was just a man in the right place at the right time. he likes
+girls, junk food and football. British pop stars don't have to be extreme
+anymore. Their personas have none of the exuberance of Bo!
+wie or Bolan or Lennon.
+
+One of the developments of late nineties pop was that pop stars no  longer had
+to prove their specialness. It is self evident from their position within the
+structure. Earlier pop stars had to be extreme, weird and arty to justify their
+status. The distancing/familiarization of the celebrity system is now enough to
+establish them without distorting their personality (though perhaps
+concentrating it). The Spice Girls gained popularity by being marketed as the
+girl next door having a bit of fun. They are more genuine, everyday, down to
+earth. The superstar DJ takes this celebration of the ordinary man even further.
+
+But where does this leave the crowd? In a conventional dancehall or nightclub,
+people dance in small huddles, facing each other. Here they face the
+non-performing superstar DJ, no longer interacting with each other but facing a
+single central node. The attraction of these large festivals or concerts has
+always been as much about the gravity and craziness of so many people in one
+place as about what they have come to see or do. A large crowd brings excitement
+to itself in its very presence, a worry as much as a mass marketing opportunity.
+The crowd has a unity, a power, a modus operandi that deviates from the normal
+rules of social engagement. The rock star has a power to coalesce this mass of
+individuals into a single motile force in the same way that one imagines that a
+radical orator may have done in the nineteenth century. Even when nothing
+happens, the sudden realisation within the mass of its potential gives an event
+a buzz. There is a force inherent in so many young pe!
+ople coming together. How does the future DJ manage to neutralise this force so
+effectively?
+
+
+Power means nothing without control
+
+The DJ is a leader who is respected not for his passion or charisma but for
+making the right choice at the right moment. We celebrate professionalism above
+all. In this respect the DJ gives the people what they want. Through his
+expertise he anticipates what the crowd wants. Yet he feels the vibe, rather
+than explicitly consulting them. After all he is the man with the vision in
+control of the crowd. The superstar DJ is a new kind of leader, who leads by
+example into an ever more simplified cultural paradigm. It's like rock and roll
+without the jazz or the funk or spunk what ever you want to call it.
+
+One of the features of the evolution of the future DJ culture is the attitude
+to requests. A friend of mine was a DJ twenty years ago. His "set" was made up
+of requests-playing the hits of the time that people knew from the radio, or
+things that were current in the dance halls and discos at the time. A friend of
+a friend of mine is a DJ in London clubs today. He has a business card printed
+especially to give to people who ask him for requests. It says, "Fuck off you
+cunt". The recipient is generally so excited to receive a business card from the
+DJ, so intoxicated, so disorientated by the ambience, that he puts it in his
+pocket and walks off. This suggests a growing confidence. DJs have in their own
+vision, in their ability to take control of the crowd and take it where they
+think it should go. The crowd have faith in the DJ to be able to do this.
+
+
+The tendency towards an evermore "efficient" entertainment.
+
+'Deep, progressive grooves' - Flyer advertising a club night
+
+Producers no longer bombard us with creativity but refine it and present as
+little of it as possible within as bigger structure as possible. A diamond is
+nothing without its display case. So the most is made of every gem that is
+discovered. The gem is there too at the centre of the DJ's setup. The stripping
+away of everything non-functional from a non-functional product reveals its
+context only. Through streamlining to maximize profits, mass entertainment
+products actually reveal the structure of the commercial world. Thus mass
+culture has a kind of fractal structure; i.e. the patterns repeat at various
+levels of analysis.
+
+Take the example of the TV show Blind Date. It repeats endlessly the
+essentially dilemma of the product. How can I choose from this limited range of
+merchandise without first knowing about them? I cannot know about them without
+having first made my commitment. The necessary typical  dissatisfaction at the
+outcome of this choice becomes the entertainment. It is a dissatisfaction which
+is echoed by the viewers who spent an hour watching the programme to find out
+what would happen.
+
+In the same way the DJ's music is stripped to the bare minimum. This is
+undoubtedly the cheapest way to entertain 10 000 young people at a live event.
+The prevailing mass product is always the cheapest thing you can sell to the
+maximum number of people. A DJ is cheaper than a band. There is only one person
+to pay rather than perhaps four. They need less technical support than a band,
+no soundchecks or complicated and dangerous cabling. They are more predictable
+than a band. The DJ gets on and does the job. He plays the music. There will be
+no encore, no prima donna strops, no last minute nerves, no laryngitis. Formerly
+people would only come in thousands to see bands. With the advent of the
+superstar DJ, a man playing other people's recordings can bring in just as many.
+The two turntables and a mixer connected to a PA system is the universal setup
+that you can find in virtually any country worldwide. It is the lingua franca of
+live entertainment.
+
+I stand, moved by this global event. I don't see people having a good time, I
+see the future here, it is a future of global sameness. Gradually everything
+that makes us different will be dissolved, because it is everything that is
+different that makes us fight.
+
+-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-
+Michael Weinkove is a chat show host (http://www.talkaoke.com)
+and radio personality (http://www.traffic-island.co.uk).
+-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-
+
+
+<_________________________:::::::::::::::::::::::::::::::::::::::::::::
+
+
+cream is an experimental collaboration of writers and curators in the field of
+art, with a focus on art in networks. You can subscribe to cream and we invite
+you to forward this mail to anybody you feel might be interested in the content
+of cream.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Contributors and supporters of cream so far: Saul Albert, Inke Arns, Tilman
+Baumgaertel, Josephine Bosma, Sarah Cook, Florian Cramer, Steve Dietz, Katharina
+Gsöllpointner, Karin Hinterleitner, Frederic Madre, Armin Medosch, Robbin
+Murphy, Tetsuo Kogawa, Uli Wegenast, Alex McLean, Jo Walsh, Michael Weinkove.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+contact cream at:  cream-info@laudanum.net
+web site:  cream.artcriticism.org
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

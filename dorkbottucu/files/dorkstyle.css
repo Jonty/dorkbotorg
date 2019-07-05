@@ -1,0 +1,272 @@
+* {margin: 0;padding: 0;}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainwrap {
+	margin: 0 auto;
+	padding: 10px;	
+	width: 960px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+	background: url(volcan.jpg) 0 0 no-repeat;
+	width: 960px;
+	height: 451px;
+	position: relative;
+}
+
+#header p {
+	font-size: 0.9em;
+	line-height: 1.5em;
+	font-weight: bold;
+	color: red;
+	margin: 10px 0;
+}
+
+#header p a {
+	color: red;
+	text-decoration: underline;
+}
+
+#header_text {
+	width: 200px;
+	position: absolute;
+	left: 50px;
+	top: 20px;
+	margin: 0;
+	padding: 0;	
+}
+
+#header_text h1 {display:none;}
+
+#header_menu ul {list-style: none;margin: 10px 0 0 0;}
+
+#header_menu li {
+	display: inline;
+	font-size: 1em;
+	line-height: 2em;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;	
+	margin: 0 20px 0 0;
+}
+
+#header_menu li a {
+	display: block;
+	width: 300px;
+	height: 71px;
+	color: #444;
+	text-decoration: none;
+	text-align: center;
+	line-height: 71px;
+	float: left;
+	padding: 20px 0 20px 0;
+}
+
+#header_menu li a:hover {
+	color: #444;
+	background: url(menu_back.png);
+}
+
+.title_img {float: left;margin: 0 20px 0 0;}
+
+#content {
+	width: 610px;
+	float: left;
+	padding: 0 20px 0 0;
+	margin: 0 0 20px 0;
+}
+
+#content iframe {margin: 10px 0;}
+
+#content p {
+	font-size: 0.9em;
+	line-height: 1.5em;
+	color: #444;
+	margin: 10px 0;
+}
+
+#content ul {
+	list-style: outside;
+	margin: 0 0 0 15px;
+	padding: 0;
+}
+
+#content li {}
+
+#content h1 {
+	font-size: 1.2em;
+	line-height: 1.8em;
+	color: #444;
+	font-weight: bold;
+	text-transform: uppercase;	
+	margin: 10px 0 20px 0;
+}
+
+#content h2 {
+	font-size: 1.2em;
+	line-height: 1.8em;
+	color: #999;
+	font-weight: bold;
+	text-transform: uppercase;	
+}
+
+#content h3 {
+	font-size: 1em;
+	line-height: 1.8em;
+	color: orange;
+	font-weight: bold;
+	margin: 20px 0 10px 0;
+}
+
+#content p.nombreorga {
+	margin: 20px 0 0 0;
+	padding: 0;
+	color: #9400d3;
+	font-weight: bold;
+}
+
+#content p.perfilorga {margin: 0;padding: 0;}
+
+#content p.linkorga {margin: 0;padding: 0;}
+
+#content small {font-size: 10px;}
+
+#quedorkbot, #dondedorkbot, #contactodorkbot {
+	display: block;
+	width: 100%;
+	height: 5px;
+	margin: 20px 0 40px 0;
+}
+
+#rightbar {width: 300px;float: right;}
+
+#rightbar h1 {
+	font-size: 1.2em;
+	line-height: 1.8em;
+	color: orange;
+	font-weight: bold;
+	text-transform: uppercase;	
+	margin: 10px 0;
+}
+
+#rightbar ul {
+	list-style: none;
+	margin: 0 0 40px 0;
+	padding: 0 10px;
+	background: #B8BACF;
+}
+
+#rightbar ul li {
+	margin: 0;
+	padding: 0;
+	font-size:0.95em;
+	letter-spacing: 3px;
+	line-height: 2em;
+}
+
+#rightbar ul li a {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+#rightbar ul li a:hover {
+	margin: 0;
+	padding: 0;
+	text-decoration: underline;
+}
+
+#rightbar div.feedburnerFeedBlock {
+	margin: 10px 0;
+	padding: 0 10px 0 0;
+}
+
+#rightbar div.feedburnerFeedBlock p.feedTitle {
+	margin: 0 0 5px;
+	padding: 0;
+	font-weight: bold;
+	color: orange;
+	line-height: 2em;
+}
+
+#rightbar div.feedburnerFeedBlock p.feedTitle a {
+	color: orange;
+	text-decoration: none;
+}
+
+#rightbar div.feedburnerFeedBlock p.feedTitle a:hover {
+	text-decoration: underline;
+}
+
+#rightbar div.feedburnerFeedBlock ul {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+}
+
+#rightbar div.feedburnerFeedBlock ul li {
+	margin: 0;
+	padding: 0;
+	font-size: 11px;
+	letter-spacing: 0px;
+	line-height: 1.5em;
+}
+
+#rightbar div.feedburnerFeedBlock ul li div {
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+
+#rightbar div.feedburnerFeedBlock ul li span.headline {
+	margin: 0;
+	padding: 0;
+}
+
+#rightbar div.feedburnerFeedBlock ul li span.headline a {
+	margin: 0;
+	padding: 0;
+}
+
+#rightbar div.feedburnerFeedBlock ul li span.headline a:hover {
+	margin: 0;
+	padding: 0;
+}
+
+#rightbar div.feedburnerFeedBlock p.fbsubscribelink {
+	margin: 15px 0 0;
+	padding: 0;
+	font-size: 11px;
+}
+
+div#creditfooter {display: none;}
+
+#footer {
+	width: 920px;
+	clear: both;
+	padding: 20px;
+	margin: 20px 0;
+	background: #999;
+	color: #fff;
+	font-size: 0.9em;
+	font-weight: bold;
+}
+
+#footer p {margin: 0 0 10px 0;}
+
+#sponsorslogos {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+img.spons_img {
+	margin: 0 0 10px 0;
+	padding: 10px;
+	border: 1px solid #ccc;
+}

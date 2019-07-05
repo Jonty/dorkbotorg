@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HEAD>
+<title>dorkbot-sea : archive : dorkbot 26</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="dorkbot.css" type="text/css">
+
+
+</HEAD>
+<body>
+<div align="center"><br>
+  <table width="680" border="0" cellspacing="1" cellpadding="0"
+            bgcolor="#3C5555">
+    <tr align="center" valign="middle"> 
+      <td bgcolor="#D5A55B"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+          <tr bgcolor="#FFFFFF"> 
+            <td width="100%" align="left" valign="top" bgcolor="#FFFFFF"> 
+              <table width="100%" border="0">
+                <tr align="left" valign="top"> 
+                  <td width="9%"><a href="index.shtml"><img src="images/dorkbot-logo.gif" width="49" height="50" border="0"></a></td>
+                  <td width="45%" align="left"><font class="header">dorkbot-sea</font><br>
+                    <font class="italic"><i>people doing strange things with electricity 
+                    <br>
+                    </i></font></td>
+                  <td width="46%"> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                      <tr align="left" valign="top"> 
+                        <td width="25%"> 
+                          <p><font class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/archive.shtml">archive</a> 
+                            </b></font></p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/events.shtml"><b>events 
+                            </b></a> </font> </p>
+                        </td>
+                        <td> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/opportunities.shtml"><b>opportunities</b></a></font> 
+                          </p>
+                        </td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                      <tr align="left" valign="top"> 
+                        <td width="25%"> 
+                          <p><font class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/mailinglist.shtml">lists</a></b></font></p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/wiki.shtml"><b>wiki 
+                            </b></a></font> </p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/links.shtml"><b>links</b></a> 
+                            </font></p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/press.shtml"><b>press 
+                            </b></a></font></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <br>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr> 
+                  <td align="left" valign="top"> <p><font class="header">Meeting 
+                      26</font></p>
+                    <p><strong>RFID - Identity That Gets Under your Skin<br>
+                      </strong>Wednesday, March 1st, 2006 at 7.00pm <br>
+                      <b><a href="http://www.cocaseattle.org">Center on Contemporary 
+                      Art</a></b>, Seattle, WA<br>
+                      curated by MIKE WOROBEC <br>
+                      Admission: Free, all ages and species</p>
+                    <p>&nbsp;</p>
+                    <p><font class="header">Speakers</font></p>
+                    <p><img src="images/db26-scottprofile.jpg" width="200" height="355" border="0" align="left"><img src="images/spacer.jpg" width="10" height="360" border="0" align="left"><strong>JOE 
+                      MCCARTHY: The Practicalities, Peril and Promise of RFID<br>
+                      <br>
+                      </strong>Radio frequency identification (RFID) technology 
+                      enables an ever increasing range of objects to be automatically 
+                      identified. This talk will provide a brief overview of how 
+                      RFID technology works, followed by a whirlwind tour of a 
+                      number of applications of the technology, with varying degrees 
+                      of utility, risk and appeal. </p>
+                    <p><img src="images/db26-mike.jpg" width="200" height="355" border="0" align="right"><img src="images/spacer.jpg" width="10" height="360" border="0" align="right">We 
+                      will also be demonstrating our &quot;proactive display&quot; 
+                      application, which links RFID tags to online profiles and 
+                      shows elements of those profiles on large computer displays 
+                      when their RFID-tag-wearing owners are detected nearby, 
+                      creating new opportunities for interactions and connections 
+                      among people in a shared space ... like a Dorkbot meeting. 
+                      Anyone interested in sharing something about themselves 
+                      on a display at the March meeting is encouraged to create 
+                      a <a href="http://interrelativity.com/dorkbot" target="_blank"><strong>profile</strong></a>.</p>
+                    <p>Joe McCarthy is the Founder and Connector-in-Chief of Interrelativity, 
+                      Inc., whose mission is to use technology to help people 
+                      relate to one another in shared physical spaces. Prior to 
+                      founding Interrelativity, Joe's career included roles as 
+                      a researcher at Intel and Accenture, a professor at University 
+                      of Hartford, an independent consultant, and lead guitarist 
+                      of the band Freeway Jam. More information about Joe and 
+                      his work can be found on the <strong><a href="http://interrelativity.com" target="_blank">Interrelativity</a></strong> 
+                      web site and Joe's <strong><a href="http://gumption.typepad.com/blog" target="_blank">weblog</a></strong>.</p>
+                    </td>
+                </tr>
+              </table>
+              <br>
+              <br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr align="left" valign="top"> 
+                  <td colspan="2"><p><strong>AMAL GRAAFSTRA: Embedded RFID</strong><br>
+                      <br>
+                      RFID has been around a long time. Only recently has it gained 
+                      popularity with hobbyists and gadetiers, making its way 
+                      into their home brew projects and even under their own skins. 
+                      This presentation will showcase a couple home-built RFID 
+                      based projects (building instructions for which can be found 
+                      in the RFID Toys book. www.rfidtoys.net). I will also speak 
+                      about implantable RFID tags, the implantation process, physical 
+                      risks involved, and the privacy and security concerns that 
+                      revolve around RFID.<br>
+                      <br>
+                    </p>
+                    </td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="50%"><img src="images/db26-beerrobot2.jpg" width="315" height="236" border="0"></td>
+                  <td width="50%" align="right"><img src="images/db26-amal2.jpg" width="315" height="236" border="0"></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td colspan="2"><p> <br>
+                      <strong><a href="http://www.rfidtoys.net/author.asp" target="_blank">Amal's 
+                      Bio</a></strong> | <a href="http://www.amal.net/rfid.html" target="_blank"><strong>Images</strong></a> 
+                      | <strong><a href="http://www.rfidtoys.net" target="_blank">rfidtoys.net</a></strong> 
+                      | <a href="http://www.flickr.com/photo_zoom.gne?id=76079471&size=o&context=set-1631755" target="_blank"><strong>Injector 
+                      and Tag</strong></a> | <strong><a href="http://www.flickr.com/photo_zoom.gne?id=7267159&context=set-181299&size=o" target="_blank">Implant 
+                      Location</a></strong><br>
+                    </p></td>
+                </tr>
+              </table>
+              <br>
+              <br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr align="left" valign="top"> 
+                  <td width="100%"><p><strong>DOUG KLUNDER (ACLU-WA Privacy Project 
+                      Director): RFID and Privacy</strong></p>
+                    <p><img src="images/db26-aclu.gif" width="237" height="101" border="0" align="left"><img src="images/spacer.jpg" width="10" height="110" border="0" align="left">RFID 
+                      is the subject of growing debate about its societal effects. 
+                      Proponents claim vast efficiencies and cost savings, and 
+                      opponents claim massive privacy invasions. Both sides tend 
+                      to lump all RFID applications together, without making distinctions 
+                      between them. This presentation will attempt to explore 
+                      some of the nuances, focusing on circumstances under which 
+                      RFID poses a true threat to privacy, and suggesting some 
+                      possible ways to minimize those threats.</p>
+                    <p><img src="images/db26-bannerphoto.jpg" width="172" height="101" border="0" align="right"><img src="images/spacer.jpg" width="10" height="110" border="0" align="right">Doug 
+                      Klunder is the Privacy Project Director at the <a href="http://www.aclu-wa.org/" target="_blank"><strong>American 
+                      Civil Liberties Union of Washington</strong></a>. His original 
+                      training is in Computer Science; he spent over 10 years 
+                      in software development at Microsoft, where he was the lead 
+                      developer for the first versions of Microsoft Excel and 
+                      Microsoft Money. More recently, he became a lawyer. He now 
+                      combines his technology and legal backgrounds in work on 
+                      privacy issues for the ACLU. He concentrates on informational 
+                      privacy (e.g., public records, data mining, medical privacy) 
+                      and technological threats to privacy (e.g., biometrics and 
+                      surveillance). Work includes legislative analysis, litigation, 
+                      and public education.<br>
+                      <br>
+                    </p></td>
+                </tr>
+              </table>
+              <br>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr> 
+                  <td align="left" valign="top"> <p><font class="header">Open 
+                      Dork/Show and Tell</font></p>
+                    <p><img src="images/db23-wewantyou.jpg" width="123" height="175" border="0" align="left"><img src="images/spacer.jpg" width="10" height="180" border="0" align="left">We 
+                      want you! Yes, you!!! If you have a project &#8211; any 
+                      project, at any stage of completeness, an idea &#8211; any 
+                      idea, at any stage of bakedness, an artwork &#8211; any 
+                      kind of artwork at any stage of doneness, please do bring 
+                      it along to the dorkbot meeting and claim your 10 minutes 
+                      worth of fame after the presenters. And of course, if you 
+                      have an RFID-related anything &#8211; any kind of RFID anything 
+                      &#8211; then bring it along and show us all!</p>
+                    </td>
+                </tr>
+              </table> </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <br>
+</div>
+</body>
+</html>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+<ttl>60</ttl>
+<title>dorkbot pittsburgh podcasts</title>
+<link>http://dorkbot.org/dorkbotpgh</link>
+<language>en-us</language>
+<copyright></copyright>
+<itunes:subtitle>dorkbot pittsburgh podcasts</itunes:subtitle>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:summary>podcasts from the monthly dorkbot pittsburgh meeting</itunes:summary>
+<description>dorkbot pittsburgh is a local chapter of the international dorkbot movement.  When possible, we will record our speakers and make them available in audio or video podcast.</description>
+<itunes:owner>
+<itunes:name>dorkbot pittsburgh podcasts</itunes:name>
+<itunes:email>dorkbotpgh@dorkbot.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Technology"></itunes:category>
+<category>Technology</category>
+<itunes:explicit>No</itunes:explicit>
+
+<item>
+<title>Keny Marshall, February 2009</title>
+<description>Artist Keny Marshall discusses his work.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Keny Marshall</itunes:subtitle>
+<itunes:summary>Artist Keny Marshall discusses his work.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200902-keny.m4v" length="204731337" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200902-keny.m4v</guid>
+<pubDate>Feb, 27 Fri 09 12:00:00 EDT</pubDate>
+<itunes:duration>33:04</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, Keny Marshall</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Carin Mincemoyer, February 2009</title>
+<description>Artist Carin Mincemoyer discusses her work.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Carin Mincemoyer</itunes:subtitle>
+<itunes:summary>Artist Carin Mincemoyerdiscusses her work.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200902-carin.m4v" length="147105135" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200902-carin.m4v</guid>
+<pubDate>Feb, 27 Fri 09 12:00:00 EDT</pubDate>
+<itunes:duration>23:47</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, Carin Mincemoyer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Chico MacMurtrie, January 2009</title>
+<description>Artist Chico MacMurtrie discusses his work.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Chico MacMurtrie</itunes:subtitle>
+<itunes:summary>Artist Chico MacMurtrie discusses his work.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200901-chico.m4v" length="339209038" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200901-chico.m4v</guid>
+<pubDate>Feb, 6 Fri 09 12:00:00 EDT</pubDate>
+<itunes:duration>54:45</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, Chico MacMurtrie</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Richard Pell, October 2008</title>
+<description>Artist Richard Pell discusses his work.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Richard Pell</itunes:subtitle>
+<itunes:summary>Artist Richard Pell discusses his work.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200811-richard.m4v" length="372165087" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200811-richard.m4v</guid>
+<pubDate>Sun, 10 Jan 09 12:00:00 EDT</pubDate>
+<itunes:duration>60:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, Richard Pell</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Jill Miller, October 2008</title>
+<description>Artist Jill Miller discusses her recent work.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Jill Miller</itunes:subtitle>
+<itunes:summary>Artist Jill Miller discusses her recent work.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200810-jill.m4v" length="205713442" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200810-jill.m4v</guid>
+<pubDate>Sun, 26 Oct 08 12:00:00 EDT</pubDate>
+<itunes:duration>33:17</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, jill miller</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+<item>
+<title>Eric Paulos, Carnegie Mellon HCI, October 2008</title>
+<description>Eric Paulos, a new faculty member at HCI, shows some of his past and present work.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Eric Paulos, Carnegie Mellon HCI</itunes:subtitle>
+<itunes:summary>Eric Paulos, a new faculty member at HCI, shows some of his past and present work.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200810-eric.m4v" length="269166163" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200810-eric.m4v</guid>
+<pubDate>Sun, 26 Oct 08 12:00:00 EDT</pubDate>
+<itunes:duration>43:29</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, eric paulos</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+
+<item>
+<title>Eric Schweikardt, RoBlocks, April 2008</title>
+<description>Eric is a deliberate comprehensivist – his background is in architecture and now he makes modular robotic stuff.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Eric Schweikardt, RoBlocks</itunes:subtitle>
+<itunes:summary>Eric is a deliberate comprehensivist – his background is in architecture and now he makes modular robotic stuff.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200804-eric.m4v" length="218966217" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200804-eric.m4v</guid>
+<pubDate>Sat, 05 May 08 12:00:00 EDT</pubDate>
+<itunes:duration>35:24</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, roblocks</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Marek Michalowski, Keepon/BeatBots, April 2008</title>
+<description>Marek discusses BeatBots, a project to develop rhythmically intelligent robots for research and entertainment.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Marek Michalowski, Keepon/BeatBots</itunes:subtitle>
+<itunes:summary>Marek discusses BeatBots, a project to develop rhythmically intelligent robots for research and entertainment.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200804-marek.m4v" length="223035503" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200804-marek.m4v</guid>
+<pubDate>Sat, 05 May 08 12:00:00 EDT</pubDate>
+<itunes:duration>35:24</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, keepon, beatbots</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Jia Ji, Dancetown, March 2008</title>
+<description>Jia Ji, product manager for Dancetown, discusses and demonstrates their senior-friendly exercise game.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Jia Ji, Dancetown</itunes:subtitle>
+<itunes:summary>Jia Ji, product manager for Dancetown, discusses and demonstrates their senior-friendly exercise game..</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200803-jia.m4v" length="239541436" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200803-jia.m4v</guid>
+<pubDate>Sat, 22 Mar 08 12:00:00 EDT</pubDate>
+<itunes:duration>38:44</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, dancetown</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Jim Jen, AlphaLab, March 2008</title>
+<description>GJim is the Executive in Residence at AlphaLab, a six month program for software startups that provides companies with funding, free office space, services, and access to investors and advisors.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Jim Jen, AlphaLab</itunes:subtitle>
+<itunes:summary>Jim is the Executive in Residence at AlphaLab, a six month program for software startups that provides companies with funding, free office space, services, and access to investors and advisors.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200803-jim.m4v" length="218023251" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200803-jim.m4v</guid>
+<pubDate>Sat, 22 Mar 2008 12:00:00 EDT</pubDate>
+<itunes:duration>35:16</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, slphalab</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Jenn Gooch, One Cold Hand, January 2008</title>
+<description>Jenninfer Gooch is an artist in the MFA program at Carnegie Mellon.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Jenn Gooch, One Cold Hand</itunes:subtitle>
+<itunes:summary>enninfer Gooch, an artist in the MFA program at Carnegie Mellon, talks about her work</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200801-jenn.m4v" length="256084814" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200801-jenn.m4v</guid>
+<pubDate>Sun, 26 Oct 08 12:00:00 EDT</pubDate>
+<itunes:duration>41:24</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, jenn gooch</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+<item>
+<title>Lori Hepner, Interdisciplinary Artist, October 2007</title>
+<description>Lori Hepner discusses past and recent visual work focusing on aspects of coding in computer language and digital culture.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Lori Hepner, Interdisciplinary Artist</itunes:subtitle>
+<itunes:summary>Lori Hepner discusses past and recent visual work focusing on aspects of coding in computer language and digital culture.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200710-lori.m4v" length="601120093" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200710-lori.m4v</guid>
+<pubDate>Sat, 20 Oct 2007 12:00:00 EDT</pubDate>
+<itunes:duration>49:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, lori hepner</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Gabe Johnson, PhD Student, October 2007</title>
+<description>Gabe Johnson, PhD student at Carnegie Mellon, demonstrates FlatCAD, a physical construction kit.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Gabe Johnson, PhD Student</itunes:subtitle>
+<itunes:summary>Gabe Johnson, PhD student at Carnegie Mellon, demonstrates FlatCAD, a physical construction kit.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200710-gabe.m4v" length="343606056" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200710-gabe.m4v</guid>
+<pubDate>Sat, 20 Oct 2007 12:00:00 EDT</pubDate>
+<itunes:duration>28:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, gabe johnson</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+<item>
+<title>Elizabeth Monoian, Society for Cultural Exchange, April 2007</title>
+<description>Elizabeth Monoian discusses her work and her decision to adopt Pittsburgh as a home for her art practice.</description>
+<link>http://www.dorkbot.org/dorkbotpgh</link>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Elizabeth Monoian, Society for Cultural Exchange</itunes:subtitle>
+<itunes:summary>Elizabeth Monoian discusses her work and her decision to adopt Pittsburgh as a home for her art practice.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200704-monoian.m4v" length="172940469" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200704-monoian.m4v</guid>
+<pubDate>Sun, 1 Jul 2007 12:00:00 EDT</pubDate>
+<itunes:duration>28:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, monoian, society for cultural exchange</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+<item>
+<title>Michael Weller, CoDe Lab, Carnegie Mellon University, April 2007</title>
+<description>Michael Weller, PhD studnet at the CoDe Lab, Carnegie Mellon, demonstrates Posey, a computationally enhanced hub and strut connection kit.</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Michael Weller, CoDe Lab, Carnegie Mellon University</itunes:subtitle>
+<itunes:summary>Michael Weller, PhD studnet at the CoDe Lab, Carnegie Mellon, demonstrates Posey, a computationally enhanced hub and strut connection kit.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200704-weller.m4v" length="136253770" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200704-weller.m4v</guid>
+<pubDate>Sun, 1 Jul 2007 12:00:00 EDT</pubDate>
+<itunes:duration>22:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, code lab, michael weller</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+
+<item>
+<title>Scott Davidoff and Ian Li, Moodjam, March 2007</title>
+<description>Scott Davidoff and Ian Li demonstrate and discuss their project, www.moodjam.org</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Scott Davidoff and Ian Li, Moodjam</itunes:subtitle>
+<itunes:summary>Scott Davidoff and Ian Li demonstrate and discuss their project, www.moodjam.org</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200703-moodjam.m4v" length="383340587" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200703-moodjam.m4v</guid>
+<pubDate>Sun, 8 Apr 2007 12:00:00 EDT</pubDate>
+<itunes:duration>31:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, moodjam</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+<item>
+<title>Carl DiSalvo and Tom Lauwers, CREATE Lab, March 2007</title>
+<description>Carl DiSalvo and Tom Lauwers demonstrate robots and discuss their participatory robotics work at CREATE Lab</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Carl DiSalvo and Tom Lauwers, CREATE Lab</itunes:subtitle>
+<itunes:summary>Carl DiSalvo and Tom Lauwers demonstrate robots and discuss their participatory robotics work at CREATE Lab</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200703-create.m4v" length="494127727" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200703-moodjam.m4v</guid>
+<pubDate>Sun, 8 April 2007 12:00:00 EDT</pubDate>
+<itunes:duration>41:14</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, robots, CREATE lab</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+<item>
+<title>Grisha Coleman, echo::System, February 2007</title>
+<description>Grisha Coleman discusses her site-specific, live performance installations based on synthetic environments and dance.</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Grisha Coleman, echo::System</itunes:subtitle>
+<itunes:summary>Grisha Coleman discusses her site-specific, live performance installations based on synthetic environments and dance.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200702-coleman.m4v" length="232810257" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200702-coleman.m4v</guid>
+<pubDate>Sun, 4 March 2007 12:00:00 EDT</pubDate>
+<itunes:duration>37:33</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, Grisha Coleman, echo::system, dance</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+<item>
+<title>Jason Simmons, Gradient Labs, February 2007</title>
+<description>Jason Simmons demonstrates some new work from Gradient Labs including project tracking and information navigation.</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Jason Simmons, Gradient Labs</itunes:subtitle>
+<itunes:summary>Jason Simmons demonstrates some new work from Gradient Labs including project tracking and information navigation.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200702-simmons.m4v" length="230875960" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200702-simmons.m4v</guid>
+<pubDate>Sun, 4 March 2007 12:00:00 EDT</pubDate>
+<itunes:duration>37:14</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, Jason Simmons, Gradient Labs</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+<item>
+<title>Kazuhiro JO, audio/music research and dorkbot tokyo cofounder, January 2007</title>
+<description>Kazuhiro JO shows photos and video from dorkbot tokyo and demonstrates his own research work on the monalisa audio/video project.</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Kazuhiro JO, audio/music research and dorkbot tokyo cofounder</itunes:subtitle>
+<itunes:summary>Kazuhiro JO shows photos and video from dorkbot tokyo and demonstrates his own research work on the monalisa audio/video project.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200701-jo.m4v" length="185906773" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200701-jo.m4v</guid>
+<pubDate>Wed, 7 February 2007 12:00:00 EDT</pubDate>
+<itunes:duration>30:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, kazuhiro jo, tokyo</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Roger Dannenberg, School of Art and and School of Computer Science, Carnegie Mellon, January 2007</title>
+<description>Roger Dannenberg presents recent work involving computer accompaniment of live musicians, content-based music retrieval, interactive media, and high-level languages for sound synthesis.</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Roger Dannenberg, School of Art and and School of Computer Science, Carnegie Mellon</itunes:subtitle>
+<itunes:summary>Roger Dannenberg presents recent work involving computer accompaniment of live musicians, content-based music retrieval, interactive media, and high-level languages for sound synthesis.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200701-dannenberg.m4v" length="211055364" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200701-dannenberg.m4v</guid>
+<pubDate>Wed, 7 February 2007 12:00:00 EDT</pubDate>
+<itunes:duration>34:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, dannenberg, trumpet</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Jacob Ciocci, artist, January 2007</title>
+<description>Jacob Cicocci presents work from Paper Rad, synthesizing pop culture, video games, animation and found video.</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Jacob Ciocci, artist</itunes:subtitle>
+<itunes:summary>Jacob Cicocci presents work from Paper Rad, synthesizing pop culture, video games, animation and found video.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200701-ciocci.m4v" length="215082921" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200701-ciocci.m4v</guid>
+<pubDate>Wed, 7 February 2007 12:00:00 EDT</pubDate>
+<itunes:duration>34:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, paper rad</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Kevin C. Smith, circuit bender, dorkbot pittsburgh, November 2006</title>
+<description>Kevin C. Smith gives an overview of circuit bending including what to bend and basic techniques.</description>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Kevin C. Smith, circuit bender</itunes:subtitle>
+<itunes:summary>Kevin C. Smith gives an overview of circuit bending including what to bend and basic techniques.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200611-kevin.m4v" length="168735403" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200611-kevin.m4v</guid>
+<pubDate>Wed, 7 February 2007 12:00:00 EDT</pubDate>
+<itunes:duration>27:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, kevin smith, circuit bending</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Garth Zeglin, professional roboticist, dorkbot pittsburgh, November 2006</itunes:subtitle>
+<itunes:summary>Garth Zeglin gives a short overview of past projects, then shows current work, presenting both technical and artistic rationales, and a live demo.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200611-garth.m4v" length="295144522" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200611-garth.m4v</guid>
+<pubDate>Wed, 7 February 2007 12:00:00 EDT</pubDate>
+<itunes:duration>47:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, garth zeglin, robots</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+<item>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Herman "Soy Sos" Pearl, Tuff Sound Recording, dorkbot pittsburgh, September 2006</itunes:subtitle>
+<itunes:summary>Herman "Soy Sos" Pearl of Tuff Sound Recording talks about his mixing and recording ethics and does a live demo using a Doepfer analog synthesizer.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200609-herman.m4v" length="201099053" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200609-herman.m4v</guid>
+<pubDate>Tue, 26 September 2006 19:01:00 EDT</pubDate>
+<itunes:duration>30:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, Herman Pearl, analog music, Doepfer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Jonny Farringdon, Body Media, dorkbot pittsburgh, September 2006</itunes:subtitle>
+<itunes:summary>Jonny Farringdon of Body Media gives an overview of their sensor technology and some of its uses.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200609-jonny.m4v" length="344933097" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200609-jonny.m4v</guid>
+<pubDate>Tue, 26 September 2006 19:01:00 EDT</pubDate>
+<itunes:duration>30:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, body media, everyware</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+
+<item>
+<title>Wake Up Call</title>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Alexi Morrissey and Damien Miller speak at dorkbot pittsburgh, July 2006</itunes:subtitle>
+<itunes:summary>Alexi Morrissey and Damien Miller give a demonstration of Wake Up Call and discuss its history and future.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-200606-ipod.m4v" length="317116628" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-200606-ipod.m4v</guid>
+<pubDate>Wed, 5 Jul 2006 19:00:00 EDT</pubDate>
+<itunes:duration>30:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, wake up call, spoken word</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+
+<item>
+<title>Dave Mansueto - libsyn.com</title>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Dave Manseuto speaks at dorkbot pittsburgh, April 2006</itunes:subtitle>
+<itunes:summary>The somewhat energetic Dave Mansueto gives a live demonstration of podcasting and talks about his company, libsyn.com.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-2006-04-mansueto.m4v" length="196886141" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-2006-04-mansueto.m4v</guid>
+<pubDate>Wed, 19 Apr 2006 19:00:00 EDT</pubDate>
+<itunes:duration>30:00</itunes:duration>
+<itunes:keywords>dorkbot, pittsburgh, podcast, libsyn</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+<item>
+<title>Tina "Bean" Blaine - Entertainment Technology Center, Carnegie Mellon</title>
+<itunes:author>dorkbot pittsburgh</itunes:author>
+<itunes:subtitle>Tina "Bean" Blaine at dorkbot pittsburgh, April 2006</itunes:subtitle>
+<itunes:summary>Tina "Bean" Blaine, previously of D'Cuckoo and Interval and now at Carnegie Mellon's Entertainment Technology Center gives a wide-ranging talk on her work and the work of others in interactive music and gaming.</itunes:summary>
+<enclosure url="http://www.allartburns.org/dorkbot/dorkbot-2006-04-blaine.m4v" length="365581922" type="video/x-m4v" />
+<guid>http://www.allartburns.org/dorkbot/dorkbot-2006-04-blaine.m4v</guid>
+<pubDate>Wed, 19 Apr 2006 19:00:00 EDT</pubDate>
+<itunes:duration>60:00</itunes:duration>
+<itunes:keywords>dorkbot, interactive music, cooperative gaming</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<language>en-us</language>
+</item>
+
+</channel>
+</rss>

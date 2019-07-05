@@ -1,0 +1,128 @@
+﻿<html>
+<head>
+<link rel="stylesheet"
+href="http://dorkbot.org/dorkbotnyc/dorkbotnyc_styles.css">
+<link rel="shortcut icon" href="/favicon.ico" >
+<title>dorkbot-nyc</title>
+</head>
+<body>
+<a href="http://dorkbot.org" class="header">dorkbot.org</a>-><a 
+href="http://dorkbot.org/dorkbotnyc"class="header">dorkbot-nyc</a>
+<br>
+<a
+href="http://dorkbot.org/dorkbotnyc/about.shtml"
+class="header">about</a> |
+<a 
+href="http://dorkbot.org/dorkbotnyc/previous.shtml" 
+class="header">previous meetings</a> | 
+<a
+href="http://vimeo.com/dorkbot"
+class="header">video archives</a> | 
+<a
+href="http://dorkbot.org/dorkbotnyc/FAQ.shtml"
+class="header">FAQs</a> |
+<a
+href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-lists.shtml" 
+class="header">
+mailing lists</a> | 
+
+<a
+href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-links.shtml" 
+class="header">
+dorky links</a> | 
+<a   
+href="http://dorkbot.org/dorkbotnyc/themes.shtml" class="header">dorkbot 
+theme songs!</a> 
+<p>
+
+
+<hr>
+<br><br>
+<center>
+<img src="http://dorkbot.org/dorkbotnyc/blue_green_logo.png" border="0"><br>
+<em>people doing strange things with electricity</em>
+<p>
+</center>
+
+
+<p><br><br>
+<p>
+<hr>
+<p>
+The 5, 16 or 600, 8, 24 or 120th dorkbot-nyc meeting took place 7pm on Wednesday, 
+October 3rd, 2007 at
+<a href="http://www.location1.org/gallery.html" class="link">Location One</a> in SoHo. 
+<p>
+The meeting was free and open to the public. Please brought snacks to share. And wore things
+they made!
+<p>
+
+It featured the convex and polytopic:
+<blockquote>
+<table>
+
+<tr><td>
+<img src="huntington.jpg" border="0" width="100" align="left" 
+hspace="15"></td>
+<td>
+<br>
+John Huntington: The Gravesend Inn--An Interactive Haunted Hotel<br>
+City Tech's Gravesend Inn is a high-tech, audience-driven haunted 
+attraction.  2007 marks the show's eight annual edition.   The show control system Medialon Manager 
+gives control over the entire attraction to the audience, which (unknowingly) triggers the effects 
+as they move through the maze.  A variety of industrial sensors are currently used to sense the 
+position and location of audience members, and an infrastructure has been created for more 
+sophisticated sensing in the future.  John, author of the just released third edition 
+of the book <em>Control Systems for Live Entertainment</em>, will describe and demonstrate the show 
+control systems he designed for this attraction.
+<br>
+<a href="http://www.gravesendinn.org" class="link">
+http://www.gravesendinn.org</a>
+</td></tr>
+
+<tr><td>
+<img src="russell.jpg" border="0" width="100" aligh="left" 
+hspace="15"></td>
+<td>
+<br>
+Spencer Russell: SensorBib<br>
+Spencer will be presenting his most recent project, the
+SensorBib. SensorBib is a set of capacitive distance sensors embedded
+in a fabric covering for an upright bass. A chopped-up Arduino board
+sends the data to a laptop running PD which uses the player's body
+position to process the bass sound in real time. The sensors
+themselves (called "MouseTrap") are of Spencer's own design, and all
+the schematics and PCB layout files are available on his website.
+<br>
+<a href="http://www.columbia.edu/~sfr2105" class="link">http://www.columbia.edu/~sfr2105</a>
+</td></tr>
+
+<tr><td>
+<img src="singer.jpg" border="0" width="100" aligh="left"
+hspace="15"></td>
+<td>
+<br>
+Eric Singer: robots on fire<br>
+Eric Singer is a musician, artist, engineer and programmer and the Founder and Director of 
+LEMUR: League of Electronic Musical Urban Robots, a group of artists and technologists who create 
+robotic musical instruments and installations. Eric will talk about robots, fire and 
+anything else that's on his mind.
+<br>
+<a href="http://lemurbots.org" class="link">http://lemurbots.org</a>
+</td></tr>
+
+</table> </blockquote>
+
+Some <a href="images" class="link">images</a> from the meeting.<br>
+Roberto Tobar's <a href="tobar_03oct2007_images" class="link">images</a> (thanks!)
+
+<p><br>
+<hr>
+<font size="-2">
+all materials on this website copyright 2000-2014 douglas irving repetto 
+and the individual artists
+</font>
+</body></html>
+
+
+

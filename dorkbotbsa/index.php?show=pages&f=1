@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+ <head>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <meta name="description" content="persone che fanno cose strane con l'elettricità, people doing strange things with electricity" />
+ <meta name="keywords" content="Online Zone Journals, OZJournals, Open Source Blog Software, PHP Script" />
+ <meta name="author" content="DN2" />
+ <title> DORKBOTBRESCIA | info </title>
+ <style type="text/css">
+ <!--
+ @import url("themes/default/zitemplate00.css");
+ -->
+ </style>
+ </head>
+ 
+ <body>
+ <div id="container">
+ <!-- header -->
+ <div id="header">
+ <a href="index.php"><h1> DORKBOTBRESCIA </h1></a><p class="slogan"> persone che fanno cose strane con l'elettricità </p>
+
+ </div>
+ <!-- main menu -->
+ <div id="mainmenu">
+ <ul>
+ <li><a href="index.php">Home</a></li> 
+<li><a href="index.php?show=pages&f=1">info</a></li> 
+<li><a href="index.php?show=pages&f=2">obbiettivi</a></li> 
+<li><a href="index.php?show=pages&f=3">organizzazione</a></li> 
+<li><a href="index.php?show=pages&f=4">chi</a></li> 
+<li><a href="index.php?show=pages&f=5">FAQ</a></li> 
+<li><a href="index.php?show=pages&f=6">mailing list</a></li> 
+<li><a href="index.php?show=archives&p=main">Archives</a></li> 
+<li><a href="index.php?show=signin">Sign In</a></li> 
+
+ </ul>
+ </div>
+ <!-- content area -->
+ <div id="content">
+ <table>
+ <tr>
+ <td width="200" valign="top">
+ 
+
+ <h4> Categories </h4>
+No categories.<br />
+
+ <h4> Monthly Archives </h4>
+<ul><li><a href="index.php?show=archives&y=2009&m=April">April 2009</a></li>
+</ul>
+ <h4> Miscellaneous </h4>
+<ul>
+<li><a href="index.php?show=rss">Subscribe to RSS</a></li>
+<li><a href="javascript: window.print();">Print this Page</a></li>
+<li><a href="javascript: window.external.AddFavorite(location.href,document.title);">Add to Favorites</a></li>
+</ul>
+ 
+ 
+ </td>
+ <td width="560" valign="top"><h3>info</h3>
+<h5>Posted by <a href="mailto:davide.anni@laba.edu">DN2</a> on Sunday, April 12, 2009 12:42 pm </h5>
+<p> <p align="justify">Dorkbot Brescia (Italia) &egrave; parte del progetto internazionale <a href="..//" target="_blank">Dorkbot.org</a> nato nel 2000 a New York grazie a <a href="http://music.columbia.edu/~douglas/portfolio/index.shtml" target="_blank">Douglas Irving Repetto</a>, appoggiato dalla Columbia University Computer Music Center. Ogni dorkbot &egrave; diverso ed &egrave; guidato dalle esigenze delle persone nella comunit&agrave; locale. In generale, i principali obiettivi di dorkbot sono: creare un informale ambiente, in cui le persone possono parlare del lavoro che stanno facendo, favorendo la discussione, per contribuire ad aggregare persone di diversa provenienza che sono interessati a cose simili, offrendo a tutti l&#39;opportunit&agrave; di vedere le cose strane che &quot;i nostri vicini di casa fanno con l&#39;elettricit&agrave;.&quot; Dorkbot non &egrave; solo un forum di artisti, colloqui o conferenze, ma piuttosto una possibilit&agrave; di avere diverse persone che scambiano&nbsp; amichevoli conversazioni su idee interessanti.</p><p align="justify">&nbsp;</p> </p>
+
+</td>
+ </tr>
+ </table>
+ </div>
+ <!-- content area -->
+ <div id="footer">
+ <em>CC License <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">DORKBOTBRESCIA by DN2<br />
+http://dorkbot.org/dorkbotbsa<br />
+
+ </div>
+ </div>
+ </body>
+ </html>

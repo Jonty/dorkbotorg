@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+<div style="width:700px;">
+<div style="width:700px;" class="mini"><div align="right"><a href="eachedit.cgi?id=21017021552">編集</a></div></div>
+<table border=0 celpadding=0 cellspacing=8 width="700">
+<tr><td align="right" class="tdl" valign="top">タイトル：</td><td class="tdr"><span class="ctitle">3分間ハッキング・コンテスト</span></td></tr>
+<tr><td align="right" class="tdl" valign="top">概要：</td><td class="tdr"><span class="cabs">ハッキングをテーマに自由に発表してください。時間配分はタイトルで言っている手前、3分間のハッキング実演と2分間の解説を理想としますが5分以内であれば形式は問いません。</span></td></tr>
+<tr><td align="right" class="tdl" valign="top">勝利の条件：</td class="tdr"><td><span class="cjdg">まさに3分間ハッキング！という感じ</span></td></tr>
+<tr><td align="right" class="tdl" valign="top">優勝賞品：</td class="tdr"><td><span class="cjdg">未定</span></td></tr>
+<tr><td align="right" class="tdl" valign="top">企画者：</td><td class="tdr"><span class="cown"><a href='http://dorkbot.org/dorkbottokyo/'>ドークボット東京</a></span></td></tr>
+<tr><td align="right" class="tdl" valign="top">参加者：</td><td class="tdr"><span class="cent">tokui, sato, 23N! ( 2人 ) </span></td></tr>
+</table>
+
+<br>
+<br>
+<font class="f16b" color="00aa00">参加者情報入力</font><span class="f10">&nbsp;&nbsp;*必須</span><hr noshade size="2" color="#00aa00"><br>
+<form action="eachsubmit.cgi" method="POST">
+名前／ハンドル名：<input type="text" name="name" size="30">*<br><br>
+メール<span class="mini">（非公開）：</span><input type="text" name="email" size="30">*<br><br>
+<font class="f10">
+・どんなことをやるか、もし決まっていたら書いてください。<br>
+・会場にブース（長机１台分）も出したい方は希望を書いてください。</font><br><textarea cols="50" rows="10" name="opt"></textarea> <br><br>
+
+<input type="hidden" name="id" value="21017021552">
+<input type="submit" value=" このコンテストにエントリーする "><br>
+</div>
+</body>
+</html>

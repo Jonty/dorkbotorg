@@ -1,0 +1,38 @@
+body {
+ background: #cccccc url("images/electric-grey-sm.jpg");
+ padding: 1em 7em;
+ font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+}
+a:link { color: black }
+a:visited { color: #666666 }
+a:active { color: white }
+em {
+}
+#logo {
+  text-align: center;
+}
+#content {}
+#content h1 {
+  font-size: 1.5em;  
+}
+#content dl {
+  margin: 2em 0;
+  padding: 0;
+  clear: both;
+}
+#content dt {
+width: 10em;
+margin: 0 0 0 0;
+padding: .5em 2em;
+font-weight: bold;
+float: left;
+}
+
+/* commented backslash hack for mac-ie5 \*/
+#content dt { clear: both; }
+/* end hack */
+
+#content dd {
+margin: 0 0 0 0;
+padding: .5em;
+}

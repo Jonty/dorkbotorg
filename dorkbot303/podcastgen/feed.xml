@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="EN" version="2.0">
+<channel>
+<title>dorkbot303</title>
+<link>http://www.dorkbot.org/dorkbot303/podcastgen/</link>
+<description>dorkbot303, Interactive Artist Series, People (303) doing strange things with electricity...</description>
+<generator>Podcast Generator 0.9 - podcastgen.sourceforge.net</generator>
+<lastBuildDate>Wed, 25 Oct 2006 16:20:36 -0400</lastBuildDate>
+<language>EN</language>
+<copyright>&#xA9;dorkbot303 Colorado Peoplel doing Strange Things with Electricity</copyright>
+<itunes:image href="http://www.dorkbot.org/dorkbot303/podcastgen/images/itunes_image.jpg" />
+<itunes:summary>dorkbot303, Interactive Artist Series, People (303) doing strange things with electricity...</itunes:summary>
+<itunes:author>dorkbot303</itunes:author>
+<itunes:owner>
+<itunes:name>dorkbot303</itunes:name>
+<itunes:email>dorkbot303@dorkbot.org</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:category text="Technology">
+</itunes:category>
+<itunes:category text="Music">
+</itunes:category>
+<itunes:category text="Arts">
+</itunes:category>
+<item>
+<title>dorkbot303 v1.01 Rasmussen, Commodore 64 audio hack</title>
+<itunes:subtitle>dorkbot303 v1.01 Rasmussen, Commodore 64 audio hack | dorkbot303 Denver 06.10.06</itunes:subtitle>
+<itunes:summary>
+dorkbot303 v1.01 Rasmussen, Commodore 64 audio hack | dorkbot303 Denver 06.10.06
+</itunes:summary>
+<description>dorkbot303 v1.01 Rasmussen, Commodore 64 audio hack | dorkbot303 Denver 06.10.06</description>
+<link>http://www.dorkbot.org/dorkbot303/podcastgen/p.php?file=john.m4v</link>
+<enclosure url="http://www.dorkbot.org/dorkbot303/podcastgen/media/john.m4v" length="54001211" type="video/x-m4v"/>
+<guid>http://www.dorkbot.org/dorkbot303/podcastgen/p.php?file=john.m4v</guid>
+<author>dorkbot303@dorkbot.org</author>
+<itunes:author>dork_jdap</itunes:author>
+<itunes:keywords>dorkbot, dorkbot303, 8bit, electronic, commodore64, denver, experimental, music</itunes:keywords><itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 19 Oct 2006 04:21:42 -0400</pubDate>
+</item>
+<item>
+<title>dorkbot303 V1.01 Math You, Gameboy 8bit Audio Hack</title>
+<itunes:subtitle>dorkbot303 V1.01 Math You, Gameboy 8bit Audio Hack | 06.10.06 Denver, Colorado</itunes:subtitle>
+<itunes:summary>dorkbot303 V1.01 Math You, Gameboy 8bit Audio Hack | 06.10.06 Denver, Colorado</itunes:summary>
+<description>dorkbot303 V1.01 Math You, Gameboy 8bit Audio Hack | 06.10.06 Denver, Colorado</description>
+<link>http://www.dorkbot.org/dorkbot303/podcastgen/p.php?file=mathyou.m4v</link>
+<enclosure url="http://www.dorkbot.org/dorkbot303/podcastgen/media/mathyou.m4v" length="204093743" type="video/x-m4v"/>
+<guid>http://www.dorkbot.org/dorkbot303/podcastgen/p.php?file=mathyou.m4v</guid>
+<author>dorkbot303@dorkbot.org</author>
+<itunes:author>dork_jdap</itunes:author>
+<itunes:keywords>dorkbot, dorkbot303, 8bit, electronic, gameboy, denver, experimental, music</itunes:keywords><itunes:explicit>no</itunes:explicit>
+<pubDate>Wed, 18 Oct 2006 14:10:26 -0400</pubDate>
+</item>
+</channel></rss>

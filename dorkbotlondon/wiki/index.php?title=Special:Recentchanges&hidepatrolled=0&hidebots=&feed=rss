@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://dorkbot.org/dorkbotlondon/wiki/skins/common/feed.css"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>DorkbotLondon - Recent changes [en]</title>
+		<link>http://dorkbot.org/dorkbotlondon/wiki/index.php/Special:Recentchanges</link>
+		<description>Track the most recent changes to the wiki on this page.</description>
+		<language>en</language>
+		<generator>MediaWiki 1.6.5</generator>
+		<lastBuildDate>Fri, 19 Oct 2007 03:41:34 GMT</lastBuildDate>
+	</channel>
+</rss>

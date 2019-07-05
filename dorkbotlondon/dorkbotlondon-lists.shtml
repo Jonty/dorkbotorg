@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>dorkbot london</title>
+  </head>
+
+  <body bgcolor="#ffffff">
+<p>
+<h1>dorkbotlondon-announce</h1>
+</center>
+<p>
+the <b>dorkbotlondon-announce</b> mailing list is used only for announcements 
+related to <a href="http://music.columbia.edu/cmc/dorkbot/dorkbotlondon/">dorkbotlondon</a> meetings. 
+<p>
+to subscribe to <b>dorkbotlondon-announce</b> enter your email address and 
+click the button.
+<FORM METHOD="POST"
+ACTION="http://music.columbia.edu/cgi-bin/cmc/listsub.pl">
+email:<br>
+<INPUT TYPE="text" NAME="email" SIZE="48"><p>
+<INPUT TYPE="hidden" NAME="list" VALUE="subscribe dorkbotlondon-announce">
+<p>
+<INPUT TYPE="Submit" VALUE="do it!">
+</FORM>
+<p>
+or to subscribe manually, send a message to:
+<p>
+<ul><b><a
+href="mailto:majordomo@music.columbia.edu?body=subscribe dorkbotlondon-announce">majordomo@music.columbia.edu</a></b></ul>
+<p>
+with the following in the <i>body</i> of the message:
+<p>
+<ul><b>subscribe dorkbotlondon-announce</b></ul>
+<p>
+<br>
+<h1>dorkbotlondon-blabber</h1>
+</center>
+<p>
+<b>dorkbotlondon-blabber</b> mailing list is a forum for electonic artists 
+and other 
+interested parties to discuss issues related to making and presenting 
+their work in the london area. it's an extension of the 
+<b>dorkbotlondon</b> meetings, but even if you can't come to the meetings in 
+person you're still welcome to participate on the list.
+<p>
+example topics: where do i get a flame thrower in london? what
+performance space will let me release pigeons into the audience? is
+argos the cheapest place to get long plastic dowels? which
+maplins in london doesn't suck and where can i get capacitors at 3am? 
+how do you get a permit to perform on the N253 northbound and is
+there an AC outlet i can use on speaker's corner?
+<p>
+please don't send show announcements/listings/etc to the list, unless
+they're extra-special one-offs.
+<p>
+to subscribe to <b>dorkbotlondon-blabber</b> enter your email address, select 
+regular or digest mode and click the button.
+<FORM METHOD="POST"
+ACTION="http://music.columbia.edu/cgi-bin/cmc/listsub.pl">
+email:<br>
+<INPUT TYPE="text" NAME="email" SIZE="48"><p>
+mode:<br> 
+<SELECT NAME="music-dsp">
+<OPTION SELECTED VALUE="subscribe dorkbotlondon-blabber">subscribe
+dorkbotlondon-blabber
+<OPTION VALUE="subscribe dorkbotlondon-blabber-digest">subscribe
+dorkbotlondon-blabber-digest
+</SELECT>
+<p>
+<INPUT TYPE="Submit" VALUE="do it!">
+</form>
+<p>
+or to subscribe manually send a message to:
+<p>
+<ul><b><a
+href="mailto:majordomo@music.columbia.edu?body=subscribe 
+dorkbotlondon-blabber">majordomo@music.columbia.edu</a></b></ul>
+<p>
+with the following in the <i>body</i> of the message:
+<p>
+<ul><b>subscribe dorkbotlondon-blabber</b></ul>
+<p>
+or for the digest form (in which messages are sent out as a big file about 
+once a day):
+<ul><b><a
+href="mailto:majordomo@music.columbia.edu?body=subscribe 
+dorkbotlondon-blabber-digest">majordomo@music.columbia.edu</a></b></ul>
+<p>
+with the following in the <i>body</i> of the message:
+<p>
+<ul><b>subscribe dorkbotlondon-blabber-digest</b></ul>
+<p>
+to post a message to the list (you have to subscribe first!) send your 
+message to:
+<ul><b><a
+href="mailto:dorkbotlondon-blabber@music.columbia.edu?body=hi, 
+i'm a dorkbot">dorkbotlondon-blabber@music.columbia.edu</a></b></ul>
+<p>
+<br><br>
+okay!
+
+  </body>
+</html>

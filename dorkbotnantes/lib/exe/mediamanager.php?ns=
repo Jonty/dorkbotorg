@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>
+    Media Files    [DORKBOT-NANTES]
+  </title>
+  <meta name="generator" content="DokuWiki Release 2009-12-25c &quot;Lemming&quot;" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="search" type="application/opensearchdescription+xml" href="/dorkbotnantes/lib/exe/opensearch.php" title="DORKBOT-NANTES" />
+<link rel="start" href="/dorkbotnantes/" />
+<link rel="contents" href="/dorkbotnantes/doku.php?do=index" title="Index" />
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/dorkbotnantes/feed.php" />
+<link rel="alternate" type="application/rss+xml" title="Current Namespace" href="/dorkbotnantes/feed.php?mode=list&amp;ns=" />
+<link rel="alternate" type="text/html" title="Plain HTML" href="/dorkbotnantes/doku.php?do=export_xhtml&amp;id=" />
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/dorkbotnantes/doku.php?do=export_raw&amp;id=" />
+<link rel="stylesheet" media="all" type="text/css" href="/dorkbotnantes/lib/exe/css.php?s=all&amp;t=incognitek&amp;tseed=1282137827" />
+<link rel="stylesheet" media="screen" type="text/css" href="/dorkbotnantes/lib/exe/css.php?t=incognitek&amp;tseed=1282137827" />
+<link rel="stylesheet" media="print" type="text/css" href="/dorkbotnantes/lib/exe/css.php?s=print&amp;t=incognitek&amp;tseed=1282137827" />
+<script type="text/javascript" charset="utf-8" ><!--//--><![CDATA[//><!--
+var NS='';var JSINFO = null;
+//--><!]]></script>
+<script type="text/javascript" charset="utf-8" src="/dorkbotnantes/lib/exe/js.php?tseed=1282137827" ></script>
+  <link rel="shortcut icon" href="/dorkbotnantes/lib/tpl/incognitek/images/favicon.ico" />
+</head>
+
+<body>
+<div id="media__manager">
+    <div id="media__left">
+                <h1>Media Files</h1>
+
+                <div id="media__opts"></div>
+
+        <div id="media__tree">
+<ul class="idx"><li class="media level0 open"><img src="/dorkbotnantes/lib/images/minus.gif" alt="&minus;" /><a href="/dorkbotnantes/lib/exe/mediamanager.php?ns=" class="idx_dir">[root]</a>
+<ul class="idx">
+<li class="media level1 closed"><img src="/dorkbotnantes/lib/images/plus.gif" alt="+" /><div class="li"><a href="/dorkbotnantes/lib/exe/mediamanager.php?ns=wiki" class="idx_dir">wiki</a></div></li></ul>
+</li></ul></div>
+    </div>
+
+    <div id="media__right">
+        <div id="media__content">
+<h1 id="media__ns">:</h1>
+<div class="odd">
+<a name="h_:chaos_electric.jpg" class="select mediafile mf_jpg">chaos_electric.jpg</a> <span class="info">(300&#215;106 <i>2010/09/27 10:07</i> 18.1 KB)</span>
+ <a href="/dorkbotnantes/lib/exe/fetch.php?media=chaos_electric.jpg" target="_blank"><img src="/dorkbotnantes/lib/images/magnifier.png" alt="View original file" title="View original file" class="btn" /></a><div class="example" id="ex_chaos_electric.jpg">Use the following syntax to reference this file: <code>{{:chaos_electric.jpg}}</code></div><div class="detail"><div class="thumb"><a name="d_:chaos_electric.jpg" class="select"><img src="/dorkbotnantes/lib/exe/fetch.php?w=120&amp;h=42&amp;media=chaos_electric.jpg" width="120" height="42" alt="chaos_electric.jpg" class="thumb"  /></a></div></div><div class="clearer"></div>
+</div>
+<div class="even">
+<a name="h_:chaos_electric2.jpg" class="select mediafile mf_jpg">chaos_electric2.jpg</a> <span class="info">(548&#215;194 <i>2010/09/27 10:08</i> 55.3 KB)</span>
+ <a href="/dorkbotnantes/lib/exe/fetch.php?media=chaos_electric2.jpg" target="_blank"><img src="/dorkbotnantes/lib/images/magnifier.png" alt="View original file" title="View original file" class="btn" /></a><div class="example" id="ex_chaos_electric2.jpg">Use the following syntax to reference this file: <code>{{:chaos_electric2.jpg}}</code></div><div class="detail"><div class="thumb"><a name="d_:chaos_electric2.jpg" class="select"><img src="/dorkbotnantes/lib/exe/fetch.php?w=120&amp;h=42&amp;media=chaos_electric2.jpg" width="120" height="42" alt="chaos_electric2.jpg" class="thumb"  /></a></div></div><div class="clearer"></div>
+</div>
+<div class="no"><input type="hidden" name="sectok" value="83dbbdd8dd4cc637b194e52ab11e3a2c" /></div>
+<form id="dw__mediasearch" action="/dorkbotnantes/lib/exe/mediamanager.php" method="post" accept-charset="utf-8"><div class="no">
+<input type="hidden" name="sectok" value="83dbbdd8dd4cc637b194e52ab11e3a2c" /><input type="hidden" name="ns" value="" /><input type="hidden" name="do" value="searchlist" /><div class="upload"></div><p >
+<label><span>Search file name:</span> <input type="text" name="q" class="edit" title="Search in :*" /></label>
+<input type="submit" value="Search" class="button" />
+</p>
+</div></form>
+</div>
+    </div>
+</div>
+</body>
+</html>

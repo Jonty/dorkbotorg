@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HEAD>
+<title>dorkbot-sea : archive : dorkbot 32</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="dorkbot.css" type="text/css">
+</HEAD>
+<body>
+<div align="center"><br>
+  <table width="680" border="0" cellspacing="1" cellpadding="0"
+            bgcolor="#3C5555">
+    <tr align="center" valign="middle"> 
+      <td bgcolor="#D5A55B"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+          <tr bgcolor="#FFFFFF"> 
+            <td width="100%" align="left" valign="top" bgcolor="#FFFFFF"> 
+              <table width="100%" border="0">
+                <tr align="left" valign="top"> 
+                  <td width="9%"><a href="index.shtml"><img src="images/dorkbot-logo.gif" width="49" height="50" border="0"></a></td>
+                  <td width="45%" align="left"><font class="header">dorkbot-sea</font><br>
+                    <font class="italic"><i>people doing strange things with electricity 
+                    <br>
+                    </i></font></td>
+                  <td width="46%"> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                      <tr align="left" valign="top"> 
+                        <td width="25%"> 
+                          <p><font class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/archive.shtml">archive</a> 
+                            </b></font></p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/events.shtml"><b>events 
+                            </b></a> </font> </p>
+                        </td>
+                        <td> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/opportunities.shtml"><b>opportunities</b></a></font> 
+                          </p>
+                        </td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                      <tr align="left" valign="top"> 
+                        <td width="25%"> 
+                          <p><font class="italic"><b><a href="http://www.dorkbot.org/dorkbotsea/mailinglist.shtml">lists</a></b></font></p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/wiki.shtml"><b>wiki 
+                            </b></a></font> </p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/links.shtml"><b>links</b></a> 
+                            </font></p>
+                        </td>
+                        <td width="25%"> 
+                          <p><font class="italic"><a href="http://www.dorkbot.org/dorkbotsea/press.shtml"><b>press 
+                            </b></a></font></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <br>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr> 
+                  <td align="left" valign="top"><p><font class="header">Meeting
+ 32</font></p>
+                    <p><strong>Microcontrollers for Artists<br>
+                      </strong>Wednesday, October 4th, 2006 at 7:30pm<br>
+                      <b><a href="http://www.cocaseattle.org">Center on Contemporary 
+                      Art</a></b>, Seattle, WA<br>
+                      Admission: Free to all ages and species! </p>
+
+
+                    <p>&nbsp;</p>
+                    <p><font class="header">Speakers</font></p>
+
+                    <p><strong><img src="images/spacer.jpg" width="2" height="75" align="right">LARRY BARELLO</strong></p>
+
+
+
+<p>
+<img src="images/db12-LarryAtDesk.jpg" height="270" width="360" alt="Larry Barello" align="left" hspace="10" />
+<a href="http://www.seattlerobotics.org">Seattle Robotics Society</a> contributor <a href="http://www.barello.net/">Larry Barello</a> has devoted much of the last eight years to hobby robotics and programming the 
+<img src="images/db32-AVR.jpg" height="95" width="116" alt="AVR board" align="right" hspace="10" />
+<b><a href="http://www.atmel.com/products/AVR/">Atmel AVR</a></b> series of micro controllers, returning to his roots as a designer of embedded processors for industrial, medical and communications industries. He has developed a small real time operating system called <a href="http://www.barello.net/avrx/index.htm">AvrX</a> (short for AVR Executive) which he uses as the foundation for all his non-trivial AVR projects.  Larry will talk about Atmel controllers.</p>
+
+<br clear="all" />
+  <ul><li><a href="http://barello.net/Papers/">Larry's papers</a></li>
+  <li><a href="http://barello.net/ARC/">Larry's AVR Robot Controller</a></li>
+  <li><a href="http://avrfreaks.net/">AVRFreaks.net</a></li>
+  <li><a href="http://seattlerobotics.org/workshoprobot/">SRS Workshop Robot</a> (which uses an AVR microcontroller)</li></ul>
+
+<br clear="all" /><br clear="all" /><br clear="all" />
+
+                    <p><strong><img src="images/spacer.jpg" width="2" height="75" align="right">BILL BEATY</strong></p>
+
+<p>
+<img src="images/db32-billbeaty.png" width="144" height="160" alt="Bill Beaty" hspace="10" align="left" />
+<img src="images/db24-billsmoke.jpg" width="183" height="210" alt="Bill Beaty exhales smoke" hspace="10" align="right" />
+<a href="http://amasci.com/wsci/">Weird Science Salon</a> Founder, local tech artist, mad professor emeritus and dorkbot favorite <a href="http://amasci.com/me.html">William J. Beaty</a> has been goading Seattle's science hobbyists into action&#8212;and leading them from the front&#8212;since 1984: that's two decades of bangs and whimpers.  Bill will tell us about <b><a href="http://en.wikipedia.org/wiki/PIC_microcontroller" title="Programmable integrated Circut">PIC</a></b>s, and co-present the <b><a href="http://www.parallax.com/html_pages/products/basicstamps/basic_stamps.asp">Basic Stamp</a></b> with Doug.</p>
+
+<p align="center"><div align="center"><center><img src="images/db32-PIC.jpg" width="180" height="81" alt="some sample PICs" align="middle" vspace="15" hspace="15" /></center></div></p>
+
+<br clear="all" /><br clear="all" />
+
+                    <p><strong><img src="images/spacer.jpg" width="2" height="75" align="right">DOUG BELL</strong></p>
+
+
+<p>
+<img src="images/db32-BASIC_Stamp.gif" width="200" height="92" alt="The BASIC Stamp" hspace="10" align="left" />
+<img src="images/db13-Walker2.jpg" width="231" height="315" alt="Doug Bell demonstrating a walking robot" hspace="10" align="right" />
+Doug Bell has a BS degree in Electrical Engineering from the University of Washington, was a research scientist at the Atmospheric Sciences department of the University of Washington, then a software engineer at Microsoft. He is currently retired and volunteers at the North Seattle Community College robotics club and for the Franklin High School FIRST team. He regularly attends meetings of the Seattle Robotics Society, Weird Sciences Salon and dorkbot.  Doug will tell us about the <b><a href="http://www.cypress.com/portal/server.pt?space=CommunityPage&control=SetCommunity&CommunityID=209&PageID=215&gid=13&fid=24&category=All&showall=false&CID=ILC-shortlinks&shk=psoc" title="Programmable System on a Chip">Cypress PSoC</a></b> and co-present the <b><a href="http://www.parallax.com/html_pages/products/basicstamps/basic_stamps.asp">Basic Stamp</a></b> with Bill.</p>
+
+<br clear="all" />
+
+                    <p><strong><img src="images/spacer.jpg" width="2" height="75" align="right">ERIC McNEILL</strong></p>
+
+
+<p>
+<img src="images/db32-Eric_led.jpg" width="100" height="75" alt="Eric McNeill's LED piece from PDSTWE2" align="bottom" />
+<img src="images/db32-Eric_led3.jpg" width="291" height="150" alt="Eric McNeill's most recent LED piece" align="middle" hspace="15" />
+<img src="images/db32-rabbit.jpg" width="200" height="123" alt="one of the various Rabbit boards" align="texttop" />
+<br clear="all" />
+Seattle-based artist and technologist <a href="http://smellsnew.com/">Eric McNeill</a> has a degree in Mechanical Engineering from Georgia Tech, a career in network software and a long-time involvement in music and the visual arts.  He will talk about <b><a href="http://www.rabbitsemiconductor.com/">Rabbit</a></b> microcontrollers, as used in some of his <a href="http://dorkbot.org/dorkbotsea/events/pdstwe2/ericmcneill.html">art works</a>.</p>
+
+
+
+<br clear="all" /><br clear="all" /><br clear="all" />
+
+                    <p><strong><img src="images/spacer.jpg" width="2" height="75" align="right">CHRISTOPHER O'DOWD</strong></p>
+
+<p>
+ Christopher O'Dowd talked about <a href="http://www.solarbotics.com/">BEAM Robotics</a>; an alternative to all this digital logic.
+</p>
+
+
+
+
+<br clear="all" /><br clear="all" />
+
+
+<p><font class="header">Open Dork/Show and Tell</font></p>
+                    <p> <strong>YOU!!!</strong> Yes, if you have a project&#8212;any
+project, at any stage of completeness, an idea&#8212;any idea, at any stage of bakedness,
+an artwork&#8212;any kind of artwork at any stage of doneness, please do bring it
+along to the dorkbot meeting and claim your 10 minutes worth of fame after the
+presenters.</p>
+
+<p>&nbsp;</p>
+<p><font class="header">Quality time with the MCUs</font></p>
+                    <p>After the presentations and open dork, we'll clear out the chairs and then the presenters will have their environments set up at various tables so we can get a closer look and talk one-on-one with them.</p>
+
+</td>
+                </tr>
+              </table>
+              
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <br>
+</div>
+</body>
+</html>

@@ -1,0 +1,148 @@
+body,div,dl,dt,dd,ul,li,ol,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td {
+                                                                                    margin:0;
+                                                                                    padding:0;
+}
+
+body {
+       font-family: sans-serif; 
+       font-size: 87.5%;
+       margin: 1em;
+}
+
+blockquote { 
+             margin-left: 1em;
+             margin-right: 1em;
+             margin-top: 0.5em;
+             margin-bottom: 0.5em;
+}
+
+html>body {
+            font-size: 13px;
+}
+  
+p {
+    line-height: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+li { 
+     margin-left: 3em;
+}
+
+ul { 
+     margin: 0.5em 0em 0.5em 0em;
+}
+
+h1 {
+ font-size:1.5em;
+ line-height: 1em;
+ margin-top: 0;
+ margin-bottom: 0;
+}
+
+h2 {
+ font-size:1.1667em;
+ line-height: 1.286em;
+ margin-top: 1.286em;
+ margin-bottom: 1.286em;
+}
+
+h3 { 
+ font-size: 1em;
+ margin-top: 1.5em;
+ margin-bottom: 1.5em;
+ font-style: italic;
+}
+
+dd { 
+ margin-left: 3em;
+}
+
+h1, h2, h3 { 
+             font-family: sans-serif; 
+             }
+
+
+div#logo { 
+           padding: 4px 4px 4px 12em; 
+           }
+
+div#mainbit { 
+              margin: 0em 3em 3em 10em; 
+              padding: 1em 2em 1em 2em;
+              }
+
+div#notice { border: 1px solid #aaa;
+             padding: 0.5em;
+             margin-right: 10em;
+             }
+
+div#sidebits { 
+              float: left;
+              width: 10em;
+              font-size:0.8333em;
+              line-height:1.8em; 
+              margin-top: 7em;
+             }
+
+div#sidebits h2, div#sidebits h3 { margin-top: 0.25em;
+                                   margin-bottom: 0.25em;
+                                   }
+
+
+div#sidebits div.bit { margin: 2px 0px 5px 0px;
+                       }
+
+div#flickr { 
+             margin-left: 2em;
+             width: 410px;
+ }
+div#flickr img { 
+                 
+                 border: 1px solid #fff;
+             }
+div#flickr div.flickr_badge_image {
+                                    display: inline;
+                                    }
+
+li.presentation p { margin: 0;
+                    
+                    }
+
+
+/* a pretend field for spambots */
+.pseudofield { display: none; }
+
+label { 
+     font-weight: bold;
+}
+
+dt { 
+     font-weight: bold;
+}
+
+th { 
+     background-color: #ddd;
+}
+
+td { 
+     padding: 3px;
+}
+
+td a { 
+       display: block;
+}
+
+td a:hover { 
+       display: block;
+       background-color: #ddd;
+}
+
+tr.odd td { 
+       background-color: #e0e0ff;
+}
+
+tr.even td { 
+       background-color: #eef;
+}

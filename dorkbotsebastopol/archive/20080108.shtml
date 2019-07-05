@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link rel="stylesheet" href="http://dorkbot.org/dorkbotsebastopol/index.css">
+    <title>dorkbot-sebastopol</title>
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAJhHGNa8WG19AE1v8p0OkZxQXHCWaTrnNJmdxdaPhWR-sCIgOnhQaCtWclgA-rev7tWIwdLcrzcJmkQ" type="text/javascript"></script>
+  </head>
+<body>
+
+<a href="http://dorkbot.org" class="header">dorkbot</a> -> 
+<a href="http://dorkbot.org/dorkbotsebastopol" class="header">dorkbot-sebastopol</a> :: 
+
+<a href="http://dorkbot.org/dorkbotsebastopol/about.shtml" class="header">about</a> | 
+<a href="http://dorkbot.org/dorkbotsebastopol/maillist.shtml" class="header">mailing lists</a> | 
+<a href="http://dorkbot.org/dorkbotsebastopol/archive" class="header">archives</a>  
+<hr>
+<pre>
+#####   ####  #####  #    # #####   ####  #####     ####  ###### #####    ##    ####  #####  ####  #####   ####  #      
+#    # #    # #    # #   #  #    # #    #   #      #      #      #    #  #  #  #        #   #    # #    # #    # #      
+#    # #    # #    # ####   #####  #    #   #       ####  #####  #####  #    #  ####    #   #    # #    # #    # #      
+#    # #    # #####  #  #   #    # #    #   #           # #      #    # ######      #   #   #    # #####  #    # #      
+#    # #    # #   #  #   #  #    # #    #   #      #    # #      #    # #    # #    #   #   #    # #      #    # #      
+#####   ####  #    # #    # #####   ####    #       ####  ###### #####  #    #  ####    #    ####  #       ####  ######  
+</pre>
+people doing strange things with electricity
+<hr>
+
+
+
+<b>First Meeting</b><br>
+<b>Time:</b> 7:00pm Wednesday January 9th, 2008<br>
+<b>Place:</b> Rich Gibson's house: 241 Florence Ave, Sebastopol, CA  95472<br>
+<b>Events:</b>
+<ul>
+<li>Gigapan.org - Gigapixel Panoramas for all
+<li>Dorkbot hack nights in Sebastopol
+<li>Dorkbot free table - I have stuff I want to get rid of, do you?  Bring it, give it away.  The only (initial) rule
+is if no one wants it you need to take it back with you.
+</ul>
+contact rich@testingrange.com with questions<p>
+Look for this house...<p>
+<div>
+	<script>
+	   function FlashProxy() {}
+	   FlashProxy.callJS = function() {}
+	</script>
+	<embed type="application/x-shockwave-flash"
+src="http://gigapan.org/viewer/PanoramaViewer.swf?url=http://share.gigapan.org/gigapans0/1901/tiles/&suffix=.jpg&width=33927&height=10770&nlevels=9&cleft=0&ctop=0&cright=33927.0&cbottom=10770.0"
+height="200" width="600">
+
+</div>
+
+    <div id="map" style="width: 500px; height: 400px"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+    
+    var map = new GMap2(document.getElementById("map"));
+    map.addControl(new GSmallMapControl());
+    map.setCenter(new GLatLng(38.40243571, -122.8291324), 14)    ;
+    var marker =  new GLatLng(38.40243571, -122.8291324, 38.40243571)    ;
+    map.addOverlay(new GMarker (marker));
+
+    //]]>
+    </script>
+
+</body>
+</html>
+
+
+
+

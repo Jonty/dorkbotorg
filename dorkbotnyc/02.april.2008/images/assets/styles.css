@@ -1,0 +1,36 @@
+#tl { background: url(p-tl.png) no-repeat top right; }
+#tm { background-image: url(p-tm.png); background-repeat: repeat-x; }
+#tr { background: url(p-tr.png) no-repeat top left; }
+#tb { background-image: url(p-b.png); background-repeat: }
+#bl { background: url(p-bl.png) no-repeat top right; }
+#bm { background: url(p-bm.png) repeat-x top right; }
+#br { background: url(p-br.png) no-repeat top left; }
+
+#left { background: url(p-l.png) repeat-y right;}
+#right { background: url(p-r.png) repeat-y left;}
+#maincontent { background-image: url(mainbg.png); text-align:center; }
+#footer { position:relative; height:80px; padding:10px; margin:0px; overflow:hidden; background-image: url(footer.png); text-align:center; }
+
+.thumb { color:#ddd; text-align:center; font-size:11px; }
+.thumb-b { background-image: url(b.png); text-align:center; }
+.thumb-bl { background-image: url(bl.png); background-position:top right; background-repeat: no-repeat; }
+.thumb-tl { background-image: url(tl.png); background-position:bottom right; background-repeat: no-repeat; }
+.thumb-br { background-image: url(br.png); background-position:top left; background-repeat: no-repeat; }
+.thumb-tr { background-image: url(tr.png); background-position:bottom left; background-repeat: no-repeat; }
+.thumbnail img { background-color:#fff; border:1px #ccc solid; }
+.thumbnail img:hover { background-color:#ddd; border-style:solid; border-width:1px; border-color:#4A6F1E; opacity: .5; filter: alpha(opacity=50); -khtml-opacity:50; }
+
+body { font-family:Georgia,Palatino,Times,serif; font-size:12px; text-align:left; background-image: url(dotpan-r.gif); }
+
+.caption { font-size:12px; color:#ccc; }
+.photocaption { font-size:16px; color:#fff; }
+.title { color:#fff; font-size:30px; }
+.comment { color:#7B7958; font-size:15px; letter-spacing:0 }
+.credit { color:#999; font-size:11px; }
+.credit a { color:#999;text-decoration:none; }
+.credit a:hover { color:#ccc; text-decoration:underline }
+.nav { font-family:Verdana,Arial,Helvetica,sans-serif; font-size:12px; color:#ccc; }
+.nav a { text-decoration:none; color:#ccc; }
+.nav a:hover { color:#fff; text-decoration:underline }
+
+a:hover img{ filter:alpha(opacity=70) ; opacity:0.7; -moz-opacity:0.7; }

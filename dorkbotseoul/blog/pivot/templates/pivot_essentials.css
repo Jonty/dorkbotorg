@@ -1,0 +1,134 @@
+/**
+ * Various styles that are used by Pivot. 
+ *
+ * Unless you're an advanced CSS user, you will most likely want to 
+ * use this file as is. 
+ *
+ * Include it in your templates using: 
+ * <link href="[[template_dir]]pivot_essentials.css" rel="stylesheet" type="text/css" />
+ *
+ */
+ 
+/**
+ * Styles used by the Hardened Trackback (introduced in Pivot 1.30). 
+ */
+#tbgetter {
+	border: 1px #ccc solid;
+	padding: 5px;
+	background: #eee;
+	font: 10px verdana,helvetica,arial;
+	height: 40px;
+	overflow: auto;
+}
+
+#tbgetter a {
+	color: #666;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#tbgetter a:hover {
+	text-decoration: underline;
+}
+
+/** 
+ * Styles used for Tags 
+ */
+.taglinkext, a[rel="tag"] {
+	border-bottom: 3px double #C2C2C2;
+	background: none;
+}
+
+.taglinkext:hover {
+	border-bottom: 3px double #00A8FF;
+	color: #00A8FF!important;
+	background: none;
+}
+
+#flickrpics img {
+	margin-right: 4px;
+	border-width: 1px;
+}
+
+#flickrpics a, #flickrpics a:hover, #tagbuttons a, #tagbuttons a:hover {
+	background: none;
+}
+
+#tagbuttons img {
+	border-width: 1px;
+}
+
+/**
+ * Pivot, RSS- and Atom-buttom
+ */ 
+a.badge, a.badge img {
+	border: 0px!important;
+	background: none!important;
+}
+
+/**
+ * Search forms
+ */
+.searchbox, .result-searchbox, .commentinput, .piv_notify, .piv_discreet {
+	border: 1px solid #B5B5B5;
+	padding: 3px;
+	background: #EBEBEB;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+}
+
+.searchbutton, .result-searchbutton, .commentbutton {
+	border: 1px solid #B5B5B5;
+	background: #E2E8E5;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	height: 21px;
+	margin-top: 5px;
+}
+
+
+.result-searchbox, .result-searchbutton {
+	margin-bottom: 10px;
+}
+
+fieldset > .result-searchbox {
+	margin-bottom: 11px;
+}
+
+.pivot-search fieldset, .pivot-search-result fieldset {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.pivot-search label, .pivot-search legend, .pivot-search-result label, .pivot-search-result legend {
+	display: none;
+	visibility: hidden;
+}
+
+/**
+ * Higlight registered visitors
+ */
+.registered {
+	background-color: #F0E68C;
+}
+
+/**
+ * Images and popups inserted by [[image]] and [[popup]]
+ */
+.pivot-image, .pivot-popupimage {
+	border: 7px solid #B5B5B5;
+	margin: 0px 0px;
+}
+
+.pivot-popuptext{
+	padding: 0;
+	margin: 0;
+}
+
+a.thickbox {
+		background: none!important;
+}
+
+.message p {
+	margin-bottom:5px;
+	display:block;
+}

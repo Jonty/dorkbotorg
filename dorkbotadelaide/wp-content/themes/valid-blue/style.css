@@ -1,0 +1,86 @@
+/*  
+Theme Name: valid-blue
+Theme URI: http://www.xhtmlvalid.com/2008/05/20/valid-blue/
+Author: XHTMLValid.com
+Description: Find more free themes at <a href="http://www.xhtmlvalid.com">XHTMLValid.com</a>
+Version: 0.1
+Author URI: http://www.xhtmlvalid.com/
+*/
+body{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;margin:0;padding:0;background:url('images/bg.gif') repeat-x;background-color:#000609;}
+img {margin: 0px; padding:0px;border:0px;}
+#mainpage {width:798px;margin:0 auto;border:1px solid #FFFFFF;background:url('images/mainbg.gif');}
+h2 {font: 18px Trebuchet MS;color:#374457;margin:0;padding:0;}
+h3 {font: 18px Trebuchet MS;color:#374457;margin:0;padding:0;margin-left:13px;}
+h4 {font: 18px Trebuchet MS;color:#374457;margin:0;padding:0;}
+.h2{font-family:Arial, Helvetica, sans-serif;line-height:18px;font-size:12px;color:#312E2E;font-weight:700;}
+a:link, a:visited, a:active{color:#303030;text-decoration:none;font-weight:bold;}
+a:hover{text-decoration:underline;}
+input {border:1px solid #303030;vertical-align: middle;}
+.input {width:160px;height:19px;border:1px solid #2F4052;background:#1F2A3A;font:13px Tahoma;color:#6C8092;line-height:19px;}
+.button {border:0px;}
+#bg {height:148px;width:100%;}
+#search{float:right;height:36px;margin:0 auto;padding:0;margin-top:60px;}
+#header{float:left;height:148px;margin:0 auto;padding:0;}
+#header h1 {margin:0px;font:31px Tahoma;color:#CECBCE;padding-left:11px;padding-top:20px;}
+#header h1 a {color:#CECBCE;font-weight:normal;}
+#header h1 a:hover {text-decoration:none;}
+#header h2 {margin:0px;font:11px Tahoma;color:#314152;padding-left:11px;padding-top:2px;}
+#headerbg{width:800px;margin:0 auto;}
+#main{float:left;background:url('images/shadow.gif') no-repeat;background-position:14px 0px;}
+#menu {height:52px;width:798px;float:left;background:url('images/menubg.gif') repeat-x;border-bottom:1px solid #FFFFFF;overflow:hidden;}
+ul.menu{height:52px;line-height:52px;float:left;list-style:none;margin:0;padding:0;}
+ul.menu li{float:left;list-style-type:none;margin:0;padding-left:25px;padding-right:25px;border-left:1px solid #546A7E;border-right:1px solid #121C2A;}
+ul.menu li a {font:14px Tahoma;color:#FFFFFF;text-transform:uppercase;}
+ul.menu li a:hover {text-decoration:underline;}
+ul.menu li a:visited {font:14px Tahoma;color:#FFFFFF;text-transform:uppercase;}
+ul.menu li a:visited:hover {text-decoration:underline;}
+#content{font: 11px Tahoma;color:#374457;float:left;width:548px;margin:0;background:url('images/contentbg.gif') no-repeat;background-position: 100% 0%;min-height:730px;padding-bottom:10px;overflow:hidden;}
+#content a {color:#374457;}
+#content h4 {font: 18px Trebuchet MS;color:#374457;margin:0;padding:0;margin-left:13px;}
+.head {float:left;width:512px;margin:0px;padding:0px;margin-bottom:10px;padding-bottom:10px;border-bottom:1px dotted #4B5661;margin-top:10px;}
+.date {float:left;width:51px;height:47px;background:url('images/datebg.gif') no-repeat;margin-right:10px;}
+.date h1 {margin:0px;font:11px Tahoma;color:#DCE8F6;text-align:center;text-transform:uppercase;margin-top:2px;}
+.date h2 {margin:0px;padding:0px;font:24px Trebuchet MS;font-weight:bold;color:#FFFFFF;text-align:center;}
+.title{float:left;width:451px;height:47px;}
+.entry{float:left;width:512px;margin:0px;padding:0px;padding-left:13px;padding-right:23px;background:url('images/shadow.gif') no-repeat;background-position: 0% 100%;padding-bottom:22px;}
+.title h2, h3{font: 18px Trebuchet MS;color:#374457;margin:0;padding:0;}
+.title h2 a {text-decoration:none;color:#374457;margin:0;font-weight:normal;}
+.title h2 a:hover{text-decoration:none;}
+.title h3 a {text-decoration:none;color:#374457;margin:0;font-weight:normal;}
+.title h3 a:hover{text-decoration:none;}
+.entry h4 {font: 10px Verdana;color:#303030;margin:0;padding:0;}
+.entry h4 a {text-decoration:none;color:#303030;margin:0;}
+#sidebar{float:left;width:250px;margin:0;padding:0;font: 11px Verdana;overflow:hidden;}
+.rsidebar{font: 13px  Verdana;color:#374457;float:right;width:250px;}
+.rsidebar h2{margin:0px;padding:0px;font: 14px Tahoma;color:#FFFFFF;height:33px;background:url('images/catbg.gif') repeat-x;text-transform:uppercase;padding-left:20px;line-height:30px;}
+.rsidebar a {font-weight:normal;color:#374457;}
+.rsidebar ul{list-style-type:none;margin:0;padding:0;}
+.rsidebar ul li{list-style-type:none;margin:0 0 0px;padding:0;}
+.rsidebar ul li ul{list-style-type:square;margin:0;padding:0 0px;margin-bottom:10px;margin-top:10px;}
+.rsidebar ul li ul li{list-style-type:none;background:url('images/li.gif') no-repeat;border:0px none;margin:0;padding-left:20px; padding-right:0; padding-top:0; padding-bottom:0px;font: 12px  Verdana;padding-right:15px;}
+.navigation{width:800px;float:left;color:#303030;}
+.navigation p {color:#303030;margin:0px;padding-left:10px;}
+.navigation a:hover {text-decoration:none;}
+.alignright{float:right;margin-top:10px;}
+.alignleft{float:left;margin-top:10px;}
+.postmetadata{text-align:right;font: 11px  Tahoma;color:#1C2839;margin:0;padding:0px;}
+.postmetadata a {color:#1C2839;font-weight:normal;}
+.boxcomments{width:463px;}
+#commentform label{display:block;margin:0;}
+#commentform input{width:170px;margin:0 5px 10px 0;padding:1px;}
+#commentform textarea{width:400px;margin:0 0 10px;padding:0;}
+#commentform #submit{margin:0 0 0px;}
+#commentform p{margin:0px 0;}
+ol.commentlist{margin:0 0 1px;padding:0;}
+ol.commentlist li{display:block;list-style:none;margin:0;padding:0px 0px 1px;}
+ol.commentlist li :hover{background:none;}
+ol.commentlist li.commenthead{display:block;list-style:none;margin:0;padding:0px;}
+ol.commentlist li.commenthead h2{margin:0;}
+ol.tblist{border-top:1px solid #fff;list-style:none;margin:0 0 1px;padding:15px;}
+ol.tblist li{display:block;padding-left:15px;list-style-type:none; margin-left:0; margin-right:0; margin-top:0; margin-bottom:5px}
+#footer{color:#FFFFFF;clear:both;height:0px;margin:0;padding:0;}
+.footer{float:left;text-align:center;width:100%;color:#F1DCE3;margin:0 auto;padding:0;background:url('images/footerbg.gif') repeat-x;}
+.footer a:hover{text-decoration:underline;border:none;}
+.footer a:link, .footer a:active, .footer a:visited{color:#8696A7;border:none;font-weight:normal;}
+.footer p {color:#8696A7;margin:0px;margin-top:15px;margin-bottom:15px;}
+.postDate, a.postDate, a.postDate:visited  {color: #CC0000; font-weight:normal; background: #FFFF99; }

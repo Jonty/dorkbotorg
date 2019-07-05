@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>dorkbot: people doing strange things with electricity</title>
+    <link>http://dorkbot.org</link>
+    <description>dorkbot: people doing strange things with electricity</description>
+    <language>en-us</language>
+    <item>
+      <title>dorkbot.org</title>
+      <link>http://dorkbot.org</link>
+      <description>This RSS feed is no longer used. Please see http://dorkbot.org for info on meetings</description>
+      <pubDate>29 March 2012</pubDate>
+    <guid>http://dorkbot.org</guid>
+    </item>
+  </channel>
+</rss>
+

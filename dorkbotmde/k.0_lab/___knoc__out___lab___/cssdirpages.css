@@ -1,0 +1,32 @@
+/* @override http://co.lab.cohete.net/cssdirpages.css */
+
+/* Cascading Shit by alejod :*/
+
+a:link {    color: #000;    background-color: #bfbfbf;    text-decoration: none;
+	font-size: 13px;
+}
+
+/* My Comment */
+
+a:visited {    color: #c4c4c4;    background-color: #2c2c2c;    text-decoration: none;
+	font-size: 16px;
+}i , a:hover , h1 , b , pre , td , input , textarea {    color: #36322b;    text-decoration: oblique;
+	font: 18pt Courier,		 VT100,		 Terminal,	         Fixedsys,		 monospace,		 Monaco,		 "courier new";
+	background-color: #c3dd0a;
+}div.right {    text-align: right;
+}table.center {    margin-left: auto;    margin-right: auto;    width: 420px;
+	background-image: none;
+}div.main {#    margin-left: auto;    margin-left: 40px;#    margin-right: auto;    width: 500px;}div.topprefs {    margin-left: auto;    margin-right: auto;    width: 250px;}body.clean {    margin-top: 0;    margin-left: 0;    margin-right: 0;    margin-bottom: 0;	}
+
+body:hover {
+	background-image: url('mind_map.gif');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: 75% 75%; 
+}
+
+a:annelee {
+	background: #0f0 url(imgs/im_kiddnaped_in_colombia.png) repeat;
+	color: red;
+	text-decoration: line-through;
+}
