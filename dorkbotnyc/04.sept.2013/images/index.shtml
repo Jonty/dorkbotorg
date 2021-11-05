@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>dorkbot-nyc 04 sept 2013</title>
+	<meta name="generator" content="iView MediaPro" />
+	<meta name="author" content=" " />
+	<meta name="keywords" content=" " />
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<link rel="stylesheet" href="assets/blancows.css" media="screen" /> 
+</head>
+
+<!-- simple template
+     
+     (iView HTML Engine Directives)
+     ?iView:InThumbSize 128)
+     ?iView:InThumbColumns 4)
+     ?iView:InThumbRows 4)
+ -->
+
+<body bgcolor="#f2f2f2">
+
+<script type="text/javascript"><!--         
+var pixWidth = 128
+var theBorder = 60
+var numColumns = 4
+var fullWidth = pixWidth * numColumns + theBorder
+document.write("<div id='container'>")
+// --></script>
+
+
+		<div align="center">
+			<span class="title">dorkbot-nyc 04 sept 2013</span><br />
+			<span class="menu"> </span>
+
+
+			<table border="0" cellpadding="4" cellspacing="4">
+				<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_192056.shtml"><img src="preview/20130904_192056.jpg" alt="20130904_192056" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_192111.shtml"><img src="preview/20130904_192111.jpg" alt="20130904_192111" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_192148.shtml"><img src="preview/20130904_192148.jpg" alt="20130904_192148" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_195352.shtml"><img src="preview/20130904_195352.jpg" alt="20130904_195352" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_195412.shtml"><img src="preview/20130904_195412.jpg" alt="20130904_195412" width="128" height="72" border="0" /></a>
+					</td>
+				</tr>
+			<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_195416.shtml"><img src="preview/20130904_195416.jpg" alt="20130904_195416" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_195420.shtml"><img src="preview/20130904_195420.jpg" alt="20130904_195420" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_195727.shtml"><img src="preview/20130904_195727.jpg" alt="20130904_195727" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_201315.shtml"><img src="preview/20130904_201315.jpg" alt="20130904_201315" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_203123.shtml"><img src="preview/20130904_203123.jpg" alt="20130904_203123" width="128" height="72" border="0" /></a>
+					</td>
+				</tr>
+			<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_204116.shtml"><img src="preview/20130904_204116.jpg" alt="20130904_204116" width="128" height="72" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/20130904_204145.shtml"><img src="preview/20130904_204145.jpg" alt="20130904_204145" width="128" height="72" border="0" /></a>
+					</td>
+				</tr>
+			</table>
+
+			<br />
+			
+			<p>
+			<br />
+<span class="copyright">9/6/13</span></p>
+		</div>
+		
+
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>dorkbot-nyc 06 feb 2013</title>
+	<meta name="generator" content="iView MediaPro" />
+	<meta name="author" content=" " />
+	<meta name="keywords" content=" " />
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<link rel="stylesheet" href="assets/blancows.css" media="screen" /> 
+</head>
+
+<!-- simple template
+     
+     (iView HTML Engine Directives)
+     ?iView:InThumbSize 128)
+     ?iView:InThumbColumns 4)
+     ?iView:InThumbRows 4)
+ -->
+
+<body bgcolor="#f2f2f2">
+
+<script type="text/javascript"><!--         
+var pixWidth = 128
+var theBorder = 60
+var numColumns = 4
+var fullWidth = pixWidth * numColumns + theBorder
+document.write("<div id='container'>")
+// --></script>
+
+
+		<div align="center">
+			<span class="title">dorkbot-nyc 06 feb 2013</span><br />
+			<span class="menu"> </span>
+
+
+			<table border="0" cellpadding="4" cellspacing="4">
+				<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/img_2007.shtml"><img src="preview/img_2007.jpg" alt="img_2007" width="128" height="96" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_2008.shtml"><img src="preview/img_2008.jpg" alt="img_2008" width="128" height="96" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4302.shtml"><img src="preview/img_4302.jpg" alt="img_4302" width="128" height="85" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4310.shtml"><img src="preview/img_4310.jpg" alt="img_4310" width="128" height="85" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4319.shtml"><img src="preview/img_4319.jpg" alt="img_4319" width="128" height="85" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4324.shtml"><img src="preview/img_4324.jpg" alt="img_4324" width="128" height="85" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4330.shtml"><img src="preview/img_4330.jpg" alt="img_4330" width="128" height="85" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4331.shtml"><img src="preview/img_4331.jpg" alt="img_4331" width="128" height="85" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4334.shtml"><img src="preview/img_4334.jpg" alt="img_4334" width="128" height="85" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_4344.shtml"><img src="preview/img_4344.jpg" alt="img_4344" width="128" height="85" border="0" /></a>
+					</td>
+				</tr>
+			<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/img_4347.shtml"><img src="preview/img_4347.jpg" alt="img_4347" width="128" height="85" border="0" /></a>
+					</td>
+				</tr>
+			</table>
+
+			<br />
+			
+			<p>
+			<br />
+<span class="copyright">2/10/13</span></p>
+		</div>
+		
+
+
+</body>
+</html>

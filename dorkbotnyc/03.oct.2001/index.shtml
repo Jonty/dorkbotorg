@@ -1,0 +1,32 @@
+<!--#include virtual="../header"-->
+<p>
+the nineth dorkbotnyc meeting was held on october 3rd, 2001 at the 
+Columbia University Computer Music Center.
+<p>
+the presenters were:
+<p>
+<ul>
+<li>Chris Bailey: A database-based paradigm for mixing concrete sounds
+<p>
+<a href="http://music.columbia.edu/~chris" 
+target="window">http://music.columbia.edu/~chris</a>
+<p>
+<li>ChanSchatz (Eric Chan & Heather Schatz): Current video work
+<p>
+<a 
+href="mailto:hss15@columbia.edu?Subject=dorkbotnyc">hss15@columbia.edu</a>
+<p>
+<li>
+Michael Gogins: CsoundVST, a Windows DLL that contains all of canonical 
+(Bath or John ffitch) Csound in the form of a VST instrument. The project 
+is in a functional beta status. 
+<p>
+<a href="http://www.pipeline.com/~gogins" 
+target="window">http://www.pipeline.com/~gogins</a>
+</ul>
+<p><br><br>
+some images from the meeting are <a href="images.shtml">here.</a>
+<p>
+the next <b>dorkbotnyc</b> meeting is on wednesday, november 7th, 2001. 
+
+<!--#include virtual="../footer"-->

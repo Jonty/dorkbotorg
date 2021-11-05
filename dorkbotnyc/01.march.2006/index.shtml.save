@@ -1,0 +1,51 @@
+<!--#include virtual="../header"-->
+<p><br><br>
+<p>
+The nine million and twenty ninth dorkbot-nyc meeting will take place on Wednesday, March 1st at 7pm at
+<a href="http://www.location1.org/gallery.html" class="link">Location One</a> in SoHo. 
+<p>
+Featuring the lovely and talented:
+<blockquote>
+<table>
+<tr>
+<td>
+<img src="http://dorkbot.org/dorkbotnyc/blue_green_logo.png" border="0" width="100" align="left" 
+hspace="15"></td>
+<td>
+<b></b>: TBA<br>
+</td></tr>
+<tr><td>
+<img src="http://htron.botmatrix.com/build/060202/DSC00136.JPG" border="0" width="100" aligh="left" 
+hspace="15"></td>
+<td>
+<b>the botmatrix</b>: robotic theater<br>
+</td></tr>
+<tr><td>
+<img src="http://dorkbot.org/dorkbotnyc/01.march.2006/korda.jpg" border="0" width="100" aligh="left"
+hspace="15"></td>
+<td>
+<b>Chris Korda</b>: Whorld open-source live video software<br>
+Whorld is a free, open-source Windows program that offers a unique approach
+to creating live digital art. Whorld generates real-time animation, but
+unlike most visualizers, it's designed for performing, and includes MIDI
+support and other features more commonly found in clip-based VJ programs.
+Whorld animates sacred geometry, and distorts it according to parameters
+that can be adjusted manually, or automated via programmable oscillators.
+The result is a mesmerizing, psychedelic composition of continuously
+transforming shapes. I'll explain and demonstrate Whorld's parameters,
+effects and capabilities, from basic patch editing to advanced stuff like
+auto-crossfading between patches and patch hybridization. You'll learn how
+to make art out of geometry and oscillators, without consuming anything
+except a bit of electricity. Can tools encourage shared vision and community
+instead of detachment and alienation? Could Whorld rekindle popular interest
+in aesthetics, and contribute to a much-needed reconciliation between art
+and science? We'll see.<br>
+<a href="http://whorld.org" class="link">http://whorld.org</a>
+</td></tr>
+
+</table> </blockquote>
+
+<p>
+
+<!--#include virtual="../footer"-->
+

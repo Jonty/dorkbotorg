@@ -1,0 +1,16 @@
+body { color: black; background-color: rgb(242, 242, 242); background-position: center 0pt; text-align: center; }
+#container { text-align: center; margin: 0 auto; }
+#header { width: auto; height: 60px; text-align: left; }
+#footer   { font: 11px/14px Verdana; text-align: left; margin-top: 20px; padding-right: 35px; padding-left: 35px; height: 60px }
+#nav { text-align: center; height: auto; }
+#info { text-align: center; height: auto; }
+.exif   { font-size: 10px; font-family: "Trebuchet MS"; line-height: 14px; background: url(bgwht.png); color: #000; text-align: left; visibility: hidden; padding: 10px; position: absolute; z-index: 4; top: 125px; left: 50%; width: 400px; height: 300px; }
+.iptc  { font-size: 10px; font-family: "Trebuchet MS"; line-height: 14px; background: url(bgwht.png); color: #000; text-align: left; visibility: hidden; padding: 10px; position: absolute; z-index: 3; top: 125px; left: 50%; width: 400px; height: 300px; }
+.exif { margin-left:-200px; }
+.iptc { margin-left:-200px; }
+.title { font-size: 14px; font-family: "Trebuchet MS"; font-weight:bold; }
+.menu { font-size: 10px; font-family: "Trebuchet MS"; line-height: 14px; }
+.name { font-size: 10px; font-family: "Trebuchet MS"; line-height: 14px; }
+.copyright { font-size: 10px; font-family: "Trebuchet MS"; }
+.shadow { position: relative; visibility: hidden; }
+.madewith { border: 1px solid silver; }

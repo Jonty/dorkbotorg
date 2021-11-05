@@ -1,50 +1,4 @@
-<html>
-<head>
-<link rel="stylesheet"
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc_styles.css">
-<link rel="shortcut icon" href="/favicon.ico" >
-<title>dorkbot-nyc</title>
-</head>
-<body>
-<a href="http://dorkbot.org" class="header">dorkbot.org</a>-><a 
-href="http://dorkbot.org/dorkbotnyc"class="header">dorkbot-nyc</a>
-<br>
-<a
-href="http://dorkbot.org/dorkbotnyc/about.shtml"
-class="header">about</a> |
-<a 
-href="http://dorkbot.org/dorkbotnyc/previous.shtml" 
-class="header">previous meetings</a> | 
-<a
-href="http://vimeo.com/dorkbot"
-class="header">video archives</a> | 
-<a
-href="http://dorkbot.org/dorkbotnyc/FAQ.shtml"
-class="header">FAQs</a> |
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-lists.shtml" 
-class="header">
-mailing lists</a> | 
-
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-links.shtml" 
-class="header">
-dorky links</a> | 
-<a   
-href="http://dorkbot.org/dorkbotnyc/themes.shtml" class="header">dorkbot 
-theme songs!</a> 
-<p>
-
-
-<hr>
-<br><br>
-<center>
-<img src="http://dorkbot.org/dorkbotnyc/blue_green_logo.png" border="0"><br>
-<em>people doing strange things with electricity</em>
-<p>
-</center>
-
-
+<!--#include virtual="header"-->
 <p><br><br>
 <h2>hypothetical Q & A</h2>
 <p>
@@ -53,7 +7,7 @@ appropriate? what styles/genres/scenes does <b>dorkbot-nyc</b> represent?
 <p>
 a: dorkboy-nyc is (or tries to be) totally neutral in regard to
 style/genre/scene. an emphasis on the creative use of electricty is all 
-that is required. see <a href="http://dorkbot.org/dorkbotnyc/about.shtml" class="link">about</a>
+that is required. see <a href="http://sites.music.columbia.edu/dorkbot/dorkbotnyc/about.shtml" class="link">about</a>
 for some examples of appropriate topics.
 <p>
 q: what if i just want an audience for my new piece?
@@ -106,13 +60,5 @@ q: <b>dorkbot-nyc</b> is a stupid name.
 <p>
 a: i'm sorry.
 
-<p><br>
-<hr>
-<font size="-2">
-all materials on this website copyright 2000-2014 douglas irving repetto 
-and the individual artists
-</font>
-</body></html>
-
-
+<!--#include virtual="footer"-->
 

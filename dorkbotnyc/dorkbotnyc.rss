@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+ <rss version="0.91">
+
+ <channel>
+ <title>dorkbot-nyc</title>
+ <link>http://dorkbot.org</link>
+ <description>dorkbot: people doing strange things with 
+electricity</description>
+ <language>en-us</language>
+
+<item>
+ <title>Next dorkbot-nyc meeting</title>
+ <link>http://dorkbot.org</link>
+ <description>
+
+The next dorkbot-nyc meeting will take place on Wednesday, February 4th, 
+2004 at 7pm at the Columbia University Computer Music Center.
+
+Featuring the lovely and talented:
+
+Honeygun Labs
+Cary Peppermint
+Jeannie Lee
+
+ </description>
+ </item>
+ </channel>
+ </rss>
+

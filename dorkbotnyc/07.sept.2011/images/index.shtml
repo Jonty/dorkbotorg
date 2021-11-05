@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>dorkbot-nyc 07 sept 2011</title>
+	<meta name="generator" content="iView MediaPro" />
+	<meta name="author" content=" " />
+	<meta name="keywords" content=" " />
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<link rel="stylesheet" href="assets/blancows.css" media="screen" /> 
+</head>
+
+<!-- simple template
+     
+     (iView HTML Engine Directives)
+     ?iView:InThumbSize 128)
+     ?iView:InThumbColumns 4)
+     ?iView:InThumbRows 4)
+ -->
+
+<body bgcolor="#f2f2f2">
+
+<script type="text/javascript"><!--         
+var pixWidth = 128
+var theBorder = 60
+var numColumns = 4
+var fullWidth = pixWidth * numColumns + theBorder
+document.write("<div id='container'>")
+// --></script>
+
+
+		<div align="center">
+			<span class="title">dorkbot-nyc 07 sept 2011</span><br />
+			<span class="menu"> </span>
+
+
+			<table border="0" cellpadding="4" cellspacing="4">
+				<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/img_1090.shtml"><img src="preview/img_1090.jpg" alt="img_1090" width="128" height="96" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1092.shtml"><img src="preview/img_1092.jpg" alt="img_1092" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1093.shtml"><img src="preview/img_1093.jpg" alt="img_1093" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1096.shtml"><img src="preview/img_1096.jpg" alt="img_1096" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1097.shtml"><img src="preview/img_1097.jpg" alt="img_1097" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1098.shtml"><img src="preview/img_1098.jpg" alt="img_1098" width="128" height="96" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1099.shtml"><img src="preview/img_1099.jpg" alt="img_1099" width="96" height="128" border="0" /></a>
+					</td>
+				</tr>
+			<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/img_1101.shtml"><img src="preview/img_1101.jpg" alt="img_1101" width="128" height="96" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1103.shtml"><img src="preview/img_1103.jpg" alt="img_1103" width="128" height="96" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1104.shtml"><img src="preview/img_1104.jpg" alt="img_1104" width="128" height="96" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1105.shtml"><img src="preview/img_1105.jpg" alt="img_1105" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1106.shtml"><img src="preview/img_1106.jpg" alt="img_1106" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1107.shtml"><img src="preview/img_1107.jpg" alt="img_1107" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1110.shtml"><img src="preview/img_1110.jpg" alt="img_1110" width="128" height="96" border="0" /></a>
+					</td>
+				</tr>
+			<tr>
+					<td height="100" align="center" valign="bottom">
+						<a href="source/img_1111.shtml"><img src="preview/img_1111.jpg" alt="img_1111" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1112.shtml"><img src="preview/img_1112.jpg" alt="img_1112" width="96" height="128" border="0" /></a>
+					</td>
+				<td height="100" align="center" valign="bottom">
+						<a href="source/img_1115.shtml"><img src="preview/img_1115.jpg" alt="img_1115" width="128" height="96" border="0" /></a>
+					</td>
+				</tr>
+			</table>
+
+			<br />
+			
+			<p>
+			<br />
+<span class="copyright">9/8/11</span></p>
+		</div>
+		
+
+
+</body>
+</html>

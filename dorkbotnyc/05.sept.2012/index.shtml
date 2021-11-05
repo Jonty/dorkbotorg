@@ -1,0 +1,102 @@
+<!--#include virtual="../header"-->
+<p><br>
+<br>
+<p>
+This dorkbot-nyc meeting took place on Wednesday, September 5th, 2012 at 
+<a href="http://www.location1.org/hour-directions" class="link">Location One</a> in SoHo.
+
+<p>
++++++++
+
+<p>
+It featured the world's second largest living felids: <br><br>
+<blockquote>
+<table>
+
+<tr><td>
+<img src="visell.jpg" border="0" width="100" align="left" hspace="15"></td>
+<td>
+
+Yon Visell: Touching the Virtual -- Engineering Haptic Interaction<br>
+Technologies for interacting via the sense of touch are advancing rapidly.  New
+techniques for furnishing active touch feedback, or "haptics", are poised to
+impact a diverse array of human-interactive computer systems, ranging from
+virtual reality surgical simulators to cars and tablet computers.  Accurately
+rendering haptic stimuli is challenging, due to the large variety of natural
+stimuli and interaction types, the wide range of length and time scales
+involved, and the distributed nature of the sensing organ - the skin.  In this
+talk, I will discuss new approaches to engineering interfaces that provide
+haptic feedback, and will explain how, by pursuing parallel advances in the
+science of human perception and the physics of mechanical contact interactions,
+we can create unique methods for rendering virtual touch sensations.  I will
+describe several novel effects, devices, and algorithms that have been developed
+during the course of my work, and which have made it possible to deliver rich,
+perceptually salient haptic and multimodal stimuli to the hands and, most
+especially, to the feet.<br>
+<a href="http://www.cim.mcgill.ca/~yon" class="link">
+http://www.cim.mcgill.ca/~yon</a>
+
+</td></tr>
+
+<tr><td><br><br></td></tr>
+
+<tr><td>
+<img src="couillard.jpg" border="0" width="100" align="left" hspace="15"></td>
+<td>
+
+Jeremy Couillard: paintings, videos, kinetic sculptures<br>
+I make paintings, videos, kinetic sculptures, and also combinations of all of
+these. I'll show some of my process, some stuff I'm working on and some things
+I already did and kind of like. My projects and aesthetics are inspired from
+things as diverse as pseudo-science and Chinatown to Flusser and early 90s
+video games.<br>
+<a href="http://www.jeremycouillard.com" class="link">
+http://www.jeremycouillard.com</a>
+
+</td></tr>
+
+<tr><td><br><br></td></tr>
+
+<tr><td>
+<img src="davies.jpg" border="0" width="100" align="left" hspace="15"></td>
+<td>
+
+Michaela Davies: EMS music<br>
+For the past few years I have been creating performances using sonified data
+and live percussion to control/manipulate the human body using electric muscle
+stimulation (EMS). Wires connected to electrodes adhere to the performer's skin
+delivering an electric current which activates the performer's muscles causing
+their limbs to move involuntarily. For my most recent work, performers in a
+string quartet were controlled by seismic activity via EMS.  Seismic data was
+collected via an online database provided
+by observatories around the world and converted to audio using a program
+developed in Python. The waveform data was resampled at 2205hz and the audio
+files were combined to produce a seismic composition used as a basis for
+determining how midi information triggered the EMS hardware. The EMS hardware
+was controlled via midi, sending electrical impulses to specific muscle points
+on the performer's body and triggering involuntary movement causing them to
+'play' their instruments. Differences in the amplitude and pitch of the
+seismic waveform determine variations in the pulse rate (hz) and the voltage
+of the electrical impulse sent by the EMS hardware to the performer's muscles.
+<br>
+<a href="http://www.michaeladavies.net" class="link">
+http://www.michaeladavies.net</a>
+
+</td></tr>
+
+
+
+</table> </blockquote>
+<br><br>
+
+<a href="./Michaela_Davies_Poster.jpg">
+Postcard for Michaela's performance on Tuesday, September 11th @ Manhattan School of Music</a>
+<p>
+<a href="./images" class="link">Douglas's pics from the meeting</a><br>
+
+<p>
+    NEXT MEETING: 03 October 2012
+
+
+<!--#include virtual="../footer"-->
+

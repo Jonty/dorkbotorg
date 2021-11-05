@@ -1,0 +1,21 @@
+<!--#include virtual="../header"-->
+<p>
+the may 2002 dorkbot-nyc meeting was joint meeting of the New York Chapter 
+of the Robotics Society of America (RSA-NY) and dorkbot. it was held at 
+the NYU ITP conference room.
+<p> 
+the presenters were:
+<p>
+<ul>
+<li>David Schwarz: <i>Cello</i>, a prototype for an interactive electronic 
+musical instrument
+<p>
+<li>Paul Bartlett and colleagues: a talk about their work at Honeybee 
+robotics.
+<p>
+<li>NYU ITP Students: current work in robotics and design
+<p>
+</ul>
+<p><br><br>
+
+<!--#include virtual="../footer"-->

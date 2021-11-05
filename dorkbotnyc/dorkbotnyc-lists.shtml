@@ -1,54 +1,8 @@
-<html>
-<head>
-<link rel="stylesheet"
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc_styles.css">
-<link rel="shortcut icon" href="/favicon.ico" >
-<title>dorkbot-nyc</title>
-</head>
-<body>
-<a href="http://dorkbot.org" class="header">dorkbot.org</a>-><a 
-href="http://dorkbot.org/dorkbotnyc"class="header">dorkbot-nyc</a>
-<br>
-<a
-href="http://dorkbot.org/dorkbotnyc/about.shtml"
-class="header">about</a> |
-<a 
-href="http://dorkbot.org/dorkbotnyc/previous.shtml" 
-class="header">previous meetings</a> | 
-<a
-href="http://vimeo.com/dorkbot"
-class="header">video archives</a> | 
-<a
-href="http://dorkbot.org/dorkbotnyc/FAQ.shtml"
-class="header">FAQs</a> |
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-lists.shtml" 
-class="header">
-mailing lists</a> | 
-
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-links.shtml" 
-class="header">
-dorky links</a> | 
-<a   
-href="http://dorkbot.org/dorkbotnyc/themes.shtml" class="header">dorkbot 
-theme songs!</a> 
-<p>
-
-
-<hr>
-<br><br>
-<center>
-<img src="http://dorkbot.org/dorkbotnyc/blue_green_logo.png" border="0"><br>
-<em>people doing strange things with electricity</em>
-<p>
-</center>
-
-
+<!--#include virtual="header"-->
 <p><br><br>
 <h2>dorkbotnyc-announce</h2>
 subscribe to <a 
-href="http://dorkbot.org/mailman/listinfo/dorkbotnyc-announce" 
+href="http://sites.music.columbia.edu/dorkbot/mailman/listinfo/dorkbotnyc-announce" 
 target="window"> 
 dorkbotnyc-announce</a>.
 <p>
@@ -57,7 +11,7 @@ related to <b>dorkbot-nyc</b> meetings.
 <p>
 <h2>dorkbotnyc-blabber</h2>
 subscribe to <a
-href="http://dorkbot.org/mailman/listinfo/dorkbotnyc-blabber" 
+href="http://sites.music.columbia.edu/dorkbot/mailman/listinfo/dorkbotnyc-blabber" 
 target="window">
 dorkbotnyc-blabber</a>.
 
@@ -87,17 +41,9 @@ href="mailto:nonsensenyc-subscribe@laughingsquid.com">nonsensenyc</a>
 mailing list are great for posting your events.
 <p>
 <a
-href="http://dorkbot.org/mailman/listinfo/dorkbotnyc-blabber">subscribe 
+href="http://sites.music.columbia.edu/dorkbot/mailman/listinfo/dorkbotnyc-blabber">subscribe 
 here</a>.
 <p>
 
 okay!
-<p><br>
-<hr>
-<font size="-2">
-all materials on this website copyright 2000-2014 douglas irving repetto 
-and the individual artists
-</font>
-</body></html>
-
-
+<!--#include virtual="footer"-->

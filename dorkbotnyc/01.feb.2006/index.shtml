@@ -1,0 +1,66 @@
+<!--#include virtual="../header"-->
+<p><br><br>
+<p>
+The nine million and twenty ninth dorkbot-nyc meeting took place on Wednesday, February 1st at 7pm at
+<a href="http://www.location1.org/gallery.html" class="link">Location One</a> in SoHo. 
+<p>
+<p>
+It featured the lovely and talented:
+<blockquote>
+<table>
+<tr>
+<td>
+<img src="http://soundlab.cs.princeton.edu/images/chuck_session_01c_400.jpg" border="0" width="100" align="left" 
+hspace="15"></td>
+<td>
+<b>Ge Wang</b>: ChucK + On-the-fly Programming + the Audicle<br>
+ChucK, On-the-fly programming, and the Audicle are different parts of a
+new programming system and paradigm for real-time audio synthesis and
+multimedia.  ChucK is the programming language;  On-the-fly programming is the technique and aesthetic of 
+writing/editing code during runtime;
+The Audicle is the context-sensitive graphical programming environment.
+Together, they form a theoretical and a practical framework for writing
+and experimenting with complex audio/multimedia programs that (1) have
+powerful control over time and concurrency and (2) can be created on-the-fly.  We present the ChucK/Audicle 
+framework and its potential applications for programmers, composers, and new media artists.<br>
+<a href="http://chuck.cs.princeton.edu" class="link">
+http://chuck.cs.princeton.edu</a>
+</td></tr>
+<tr><td>
+<img src="http://sites.music.columbia.edu/dorkbot/dorkbotnyc/01.feb.2006/aperich.jpg" border="0" width="100" aligh="left" 
+hspace="15"></td>
+<td>
+<b>Anton Perich</b>: painting machine<br>
+In the Seventies I was a video artist, photographer and a painter. I dreamed of a machine that would paint. No more hand made paintings, but machine made, with sharp electric lines, on and off, like Morse code, short and long.
+So in 1977/78 I built such a machine, using surplus materials from Canal Street stores.
+I wired some photocells to the airbrushes on the motorized scanning unit that swept an area of about 10x12 feet, hung a piece of canvas, and made my first digital painting.
+In his Diaries Warhol said he was terribly jealous.
+This machine was an early precursor of ink jet printer/scanner. This was the time long before computer and digital art.
+I had my first show of electric paintings at Tony Shafrazy Gallery in 1979.
+I am still painting with this machine every day. It keeps breaking and I keep fixing it all the time.<br>
+<a href="http://www.antonperich.com" class="link">
+http://www.antonperich.com</a>
+</td></tr>
+<tr><td>
+<img src="http://sites.music.columbia.edu/dorkbot/dorkbotnyc/01.feb.2006/dashow.jpg" border="0" width="100" aligh="left"
+hspace="15"></td>
+<td>
+<b>Carrie Dashow</b>: recent works<br>
+I work to address and expand the ways people communicate. I like collaborating with diverse groups of people to 
+create enjoyable collective experiences transcending what we may expect of our interactions. Using pedestrian 
+devices, these actions push personal and social boundaries. Through the use of technology unseen and subliminal 
+connections momentarily surface. We are the medium technology dreams it can be. I will show some work from what I
+call the Negotiable Camera Ensemble, synchronized multi-camera people games, Red Light Relay; a public houselight 
+event performed by downtown residents of Troy, NY, and my attempts at a self-editing video installation called the
+Informants, video pods who exist after the people have descended and are no longer necessary to a revived earth.<br>
+<a href="http://www.dashow.net" class="link">http://www.dashow.net</a>
+</td></tr>
+
+</table> </blockquote>
+
+<a href="images" class="link">Image gallery from the meeting</a><br>
+
+<p>
+
+<!--#include virtual="../footer"-->
+
