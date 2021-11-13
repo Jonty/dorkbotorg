@@ -1,0 +1,29 @@
+<!--#include virtual="../header"-->
+<p>
+the first dorkbotnyc meeting was held on december 6th, 2000. presenters 
+were:
+<p>
+<ul>
+<li>brian whitman: handheld music applications for the palm pilot and 
+the gameboy<br>
+<a href="http://www.dsperado.com/" 
+target="window">http://www.dsperado.com</a>
+<p>
+<li>michael gogins: Silence, An extensible system for programming music 
+and 
+sound in Java<br> 
+<a 
+href="http://www.pipeline.com/~gogins/Silence/Silence.htm" 
+target="window">
+http://www.pipeline.com/~gogins/Silence/Silence.htm</a>
+<p>
+<li>douglas repetto: the pongserver, linux-based sound/image controller 
+software<br>
+<a 
+href="http://music.columbia.edu/~douglas/pongserver/" target="window">
+http://music.columbia.edu/~douglas/pongserver/</a>
+</ul>
+<p><br><br>
+see you next month!
+
+<!--#include virtual="../footer"-->

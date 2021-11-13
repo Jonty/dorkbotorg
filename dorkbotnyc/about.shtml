@@ -1,57 +1,11 @@
-<html>
-<head>
-<link rel="stylesheet"
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc_styles.css">
-<link rel="shortcut icon" href="/favicon.ico" >
-<title>dorkbot-nyc</title>
-</head>
-<body>
-<a href="http://dorkbot.org" class="header">dorkbot.org</a>-><a 
-href="http://dorkbot.org/dorkbotnyc"class="header">dorkbot-nyc</a>
-<br>
-<a
-href="http://dorkbot.org/dorkbotnyc/about.shtml"
-class="header">about</a> |
-<a 
-href="http://dorkbot.org/dorkbotnyc/previous.shtml" 
-class="header">previous meetings</a> | 
-<a
-href="http://vimeo.com/dorkbot"
-class="header">video archives</a> | 
-<a
-href="http://dorkbot.org/dorkbotnyc/FAQ.shtml"
-class="header">FAQs</a> |
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-lists.shtml" 
-class="header">
-mailing lists</a> | 
-
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-links.shtml" 
-class="header">
-dorky links</a> | 
-<a   
-href="http://dorkbot.org/dorkbotnyc/themes.shtml" class="header">dorkbot 
-theme songs!</a> 
-<p>
-
-
-<hr>
-<br><br>
-<center>
-<img src="http://dorkbot.org/dorkbotnyc/blue_green_logo.png" border="0"><br>
-<em>people doing strange things with electricity</em>
-<p>
-</center>
-
-
+<!--#include virtual="header"-->
 <p><br><br>
 <h2>what:</h2>
 <b>dorkbot-nyc</b> is a monthly meeting of artists (sound/image/movement/whatever), designers, engineers, 
 students, scientists, and other interested parties from the new york area who are involved in the creative use of 
 electricity. dorkbot meetings are free and open to the public. Since we started dorkbot-nyc in 2000 many other 
-dorkbots have sprung up around the world. See them all at: <a href="http://dorkbot.org" 
-class="link">http://dorkbot.org</a>
+dorkbots have sprung up around the world. See them all at: <a href="http://sites.music.columbia.edu/dorkbot" 
+class="link">http://sites.music.columbia.edu/dorkbot</a>
 <p>
 the purpose of <b>dorkbot-nyc</b> is to:
 <ul>
@@ -81,12 +35,12 @@ commercial software is fine.
 <b>dorkbot-nyc</b> meetings are free and open to the public. space at some 
 events may be limited, so you are encouraged to rsvp to help us make 
 adequate arrangements for each event. rsvp at: <a 
-href="mailto:dorkbotnyc@dorkbot.org?subject=i am a dorkbot.">dorkbotnyc@dorkbot.org</a> <p>
+href="mailto:dorkbotnyc@sites.music.columbia.edu/dorkbot?subject=i am a dorkbot.">dorkbotnyc@sites.music.columbia.edu/dorkbot</a> <p>
 <h2>who:</h2>
 <b>dorkbot-nyc</b> meetings are coordinated by <a 
 href="http://music.columbia.edu/~douglas">douglas repetto</a>. the 
 email address for <b>dorkbot-nyc</b> is: <a 
-href="mailto:dorkbotnyc at dorkbot org?subject=i am a dorkbot.">dorkbotnyc at dorkbot org</a>. 
+href="mailto:dorkbotnyc at sites.music.columbia.edu/dorkbot?subject=i am a dorkbot.">dorkbotnyc at sites.music.columbia.edu/dorkbot</a>. 
 <p>
 <h2>when:</h2>
 <b>dorkbot-nyc</b> meetings take place the first wednesday of each month 
@@ -162,13 +116,5 @@ you are encouraged to provide most of the resources needed for your presentation
 <li>a small mixer and powered speakers
 </ul>
 
-<p><br>
-<hr>
-<font size="-2">
-all materials on this website copyright 2000-2014 douglas irving repetto 
-and the individual artists
-</font>
-</body></html>
-
-
+<!--#include virtual="footer"-->
 

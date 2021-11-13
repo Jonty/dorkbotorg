@@ -1,0 +1,42 @@
+<!--#include virtual="../header"-->
+<p>
+the two hundred seventeen thousandth dorkbot-nyc meeting was held on 
+06.nov.2002 at the Columbia University Computer Music Center.
+<p>
+it featured the lovely and talented:
+<p>
+<blockquote>
+<b>Ethan Bordeaux, Ben Recht, Noah Vawter, Brian Whitman</b><br>
+Chiclet: A tiny and powerful hardware platform for algorithmic synthesis
+and composition, coming soon to a record store near you.
+<a href="http://web.media.mit.edu/~brecht/music/DSP" target="window">
+http://web.media.mit.edu/~brecht/music/DSP</a>
+<p>
+<b>Elaine Freitas:</b><br>
+presents a video from the last performance of her project REFLECT, an
+interactive dance/music work. After the video, she'll go over the
+technical set up for the performance, as well as some aesthetical issues
+that gave birth to the piece. Freitas is a composer in the graduate
+program at Columbia University. elaine@music.columbia.edu
+<p>
+<b>Adam Berenzweig:</b><br>
+Playola: A music similarity browsing system, where you can find new music
+by moving around in a music "space" and listening to songs that are nearby
+in the space.  It's audio-based (not based on metadata or user
+contributions) and uses machine learning to model various features like
+genre belongingness, male/female vocal quality, etc.
+<a href="http://www.playola.org"
+target="window">http://www.playola.org</a>
+<p>
+<b>Yves Bernard:</b><br>
+iMAL, the Interactive Media Arts Lab in Brussels, Belgium <a 
+href="http://www.imal.org" target="window">http://www.imal.org</a>
+<p>
+
+</blockquote>
+<p>
+some images from the meeting are <a href="./images">here.</a>
+<p>
+the next <b>dorkbotnyc</b> meeting is on wednesday, december 4th, 2002. 
+
+<!--#include virtual="../footer"-->

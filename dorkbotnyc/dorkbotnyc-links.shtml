@@ -1,54 +1,8 @@
-<html>
-<head>
-<link rel="stylesheet"
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc_styles.css">
-<link rel="shortcut icon" href="/favicon.ico" >
-<title>dorkbot-nyc</title>
-</head>
-<body>
-<a href="http://dorkbot.org" class="header">dorkbot.org</a>-><a 
-href="http://dorkbot.org/dorkbotnyc"class="header">dorkbot-nyc</a>
-<br>
-<a
-href="http://dorkbot.org/dorkbotnyc/about.shtml"
-class="header">about</a> |
-<a 
-href="http://dorkbot.org/dorkbotnyc/previous.shtml" 
-class="header">previous meetings</a> | 
-<a
-href="http://vimeo.com/dorkbot"
-class="header">video archives</a> | 
-<a
-href="http://dorkbot.org/dorkbotnyc/FAQ.shtml"
-class="header">FAQs</a> |
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-lists.shtml" 
-class="header">
-mailing lists</a> | 
-
-<a
-href="http://dorkbot.org/dorkbotnyc/dorkbotnyc-links.shtml" 
-class="header">
-dorky links</a> | 
-<a   
-href="http://dorkbot.org/dorkbotnyc/themes.shtml" class="header">dorkbot 
-theme songs!</a> 
-<p>
-
-
-<hr>
-<br><br>
-<center>
-<img src="http://dorkbot.org/dorkbotnyc/blue_green_logo.png" border="0"><br>
-<em>people doing strange things with electricity</em>
-<p>
-</center>
-
-
+<!--#include virtual="header"-->
 <p><br><br>
 <h2>people who have presented at dorkbot-nyc:</h2>
 <h3 style="font-size:0.5em;">(should you be on this list!?! Let
-<a href="mailto:douglas dorkbot org">me</a> know!!!)</h3>
+<a href="mailto:douglas sites.music.columbia.edu/dorkbot">me</a> know!!!)</h3>
 <p>
 <a href="http://www.31down.org/" class="link" target="window">
 31 Down</a><br>
@@ -491,13 +445,5 @@ program at the parsons school of design</a>
 <a target="window" href="http://www.nonsensenyc.com">Nonsense NYC</a><br>
 <a target="window" href="http://ax.to/calendar.html">extremeNY</a><br>
 
-<p><br>
-<hr>
-<font size="-2">
-all materials on this website copyright 2000-2014 douglas irving repetto 
-and the individual artists
-</font>
-</body></html>
-
-
+<!--#include virtual="footer"-->
 

@@ -1,0 +1,79 @@
+<!--#include virtual="../header"-->
+<p><br>
+<br>
+
+<p>
+The 2g3s-th dorkbot-nyc meeting took place at 7pm on Wednesday, February 3rd, 2010 at 
+<a href="http://www.location1.org/hour-directions" class="link">Location One</a> in SoHo.
+<p>
+The meeting was free and open to the public. People brought snacks to share. YUMM.
+<p>
+<hr>
+<p>
+It featured the subsessile and stipule-free: 
+<blockquote>
+<table>
+
+<tr><td>
+<img src="orlando.jpg" border="0" width="100" aligh="left" hspace="15"></td>
+<td>
+<br>
+Steve Wang, Ed Chin and Paul Orlando: Chatfe<br>
+Chatfe lets people have interesting voice conversations with strangers. Details of each 
+talker are private, so people opt in to talks based on their true interest. We're learning 
+a lot about how people have voice conversations with strangers and we're using what we 
+learn to improve our design, by observing users and getting feedback. We'll present some of 
+our early-stage findings and comparisons with other media. We'll also demo Chatfe. We love 
+talking about our work, so please come and talk to us at Dorkbot or afterwards.<br>
+<a href="http://beta.chatfe.com" class="link">http://beta.chatfe.com</a>
+
+</td></tr>
+
+
+<tr><td>
+<img src="qi.jpg" border="0" width="100" align="left" hspace="15"></td>
+<td>
+<br>
+Jie Qi: Paper Computing -- bendable, foldable, cutable hardware<br>
+Paper computing refers to combining paper and unconventional materials like conductive paints, 
+textiles and threads to create soft, crafty and open electronics.  Open means that the circuitry 
+is taken out of the box (literally!) and exposed in ways such that the traces are both functional 
+and expressive.  Open also refers to the sense that paper electronics is accessible: it is 
+inexpensive, requires little specialized equipment and paper is a familiar material.  I will talk 
+about some interesting projects that use paper computing, as well as go over some useful 
+materials, methods and resources for making your own.  <br>
+<a href="http://hlt.media.mit.edu/projects.html" class="link">
+http://hlt.media.mit.edu/projects.html</a>
+
+
+
+
+</td></tr>
+
+<tr><td>
+<img src="solomon.png" border="0" width="100" align="left" hspace="15"></td>
+<td>
+<br>
+Rory Solomon and Marek Walczak: [here][now]<br>
+[here][now] is an open, ongoing project that uses virtual reality as a way to explore spatial 
+environments and how they are perceived. The project takes as starting points Kevin Lynch's mind 
+maps and Constant Nieuwenhuys' "New Babylon" project, and is manifested in several different 
+modes: workshops that explore personal maps and aggregated subjectivities, immersive 3D 
+interactive installations, and exhibitions documenting findings. Our latest work concerns creating 
+an open toolkit to allow others to expand this process. The project is implemented with VRML 
+situated in a Rube Goldberg machine of newer technologies.<br>
+<a href="http://herenow.someprojects.info" class="link">
+http://herenow.someprojects.info</a>
+
+
+</td></tr>
+</table> </blockquote>
+<br><br>
+
+Douglas's <a href="images" class="link">pics</a><br>
+Roberto Tobar's <a href="tobar_images" class="link">pics</a>
+<p>
+Next meeting: 03 March 2010
+
+<!--#include virtual="../footer"-->
+

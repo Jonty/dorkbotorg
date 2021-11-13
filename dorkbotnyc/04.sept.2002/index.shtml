@@ -1,0 +1,41 @@
+<!--#include virtual="../header"-->
+<p>
+another happy dorkbot-nyc meeting was held on 04.sept.2002 at 
+the Columbia University Computer Music Center.
+<p>
+it featured the lovely and talented:
+<p>
+<blockquote>
+<b>Geoff Matters</b>: <i>GDAM</i> open-source software for live 
+music 
+performance, remixing, and digital dj-mixing.  The programming approach 
+and user interface will be discussed, features will be demonstrated 
+including assisted beatmatching, time-distortion filters, and support for 
+hardware controllers.<br>
+<a href="http://gdam.ffem.org" 
+target="window">http://gdam.ffem.org</a><br>
+<p>
+<b>douglas repetto</b>: screening of the short ArtBots video, plus a 
+presentation of his ArtBots piece <i>do not break anything (after 
+christian wolff)</i> and some other recent projects.<br>
+<a href="http://music.columbia.edu/~douglas" 
+target="window">http://music.columbia.edu/~douglas</a>
+<p>
+<b>Steven Yi</b>: a presentation on two programs, <i>blue</i> and 
+<i>patterns</i>.  both of them are composition environments for use with 
+csound.  <i>blue</i> is based on the idea of soundObjects, and includes a 
+timeline which may have polyObjects that have timelines within them 
+(timelines within timelines).  <i>patterns</i> is a pattern-based edittor 
+that features a pattern bank and grid edittor.  both feature an orchestra 
+manager to manage csound instruments, as well as other features to aid in 
+managing information for csound.<br>
+<a href="http://www.kunstmusik.com" 
+target="window">http://www.kunstmusik.com</a>
+
+</blockquote>
+<p>
+some images from the meeting are <a href="./images">here.</a>
+<p>
+the next <b>dorkbotnyc</b> meeting is on wednesday, october 2nd, 2002. 
+
+<!--#include virtual="../footer"-->
